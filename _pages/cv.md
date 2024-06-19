@@ -9,3 +9,5 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+
+<object data="../assets/pdf/to/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
