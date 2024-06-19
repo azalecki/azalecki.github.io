@@ -9,4 +9,5 @@ toc:
   sidebar: left
 ---
 
-<object data="CV.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="../assets/pdf/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+
