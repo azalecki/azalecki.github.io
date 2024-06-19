@@ -11,4 +11,4 @@ toc:
 
 [Download CV as PDF](../assets/pdf/CV.pdf)
 
-<object src="/assets/pdf/cv.pdf" width="1000" height="1000" type="application/pdf" />
+<object data="/assets/pdf/cv.pdf" width="1000" height="1000" type="application/pdf" />
