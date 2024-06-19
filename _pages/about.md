@@ -20,7 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 Hello! Witam! 
 
-I am the Assistant in Instruction for the Middlebury College Geography Department. 
+I’m Ola and I am a recent graduate from Middlebury College with a degree in Geography and a minor in Spanish. I am beginning my career as the Assistant in Instruction with Middlebury’s Department of Geography. 
 
-My upbringing on Chicago's northwest side have signficiantly shaped my interests within the field of Geography. I am passionate about public spaces, place-making, and promoting people oriented urban planning. 
+My upbringing on Chicago’s Northwest side has definitely shaped my interests in my research. I am passionate about public spaces, promoting people oriented urban planning, and hot dog stands. Visualizing these themes in a way that is accessible, comprehendible and engaging is what I strive to do as a cartographer. I find a lot of joy in working with people and I naturally seek out hands-on projects where I am given the space to think creatively and critically. 
+
+When I’m not hunched over my computer, you can probably find me reading near some kind of body of water.  
+
 
