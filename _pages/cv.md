@@ -9,5 +9,6 @@ toc:
   sidebar: left
 ---
 
-<object data="../assets/pdf/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+[Download CV as PDF](../assets/pdf/CV.pdf)
 
+<object data="../assets/pdf/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
