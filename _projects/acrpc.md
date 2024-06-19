@@ -1,6 +1,6 @@
 ---
 layout: page
-title: J-Term with the Addison County Regional Planning Commission
+title: J-Term with the ACRPC
 description: with background image
 img: assets/img/12.jpg
 importance: 1
