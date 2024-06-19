@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
@@ -11,4 +11,4 @@ toc:
 
 [Download CV as PDF](../assets/pdf/CV.pdf)
 
-<embed src="/assets/pdf/cv.pdf" width="1000" height="1000" type="application/pdf" />
+<object src="/assets/pdf/cv.pdf" width="1000" height="1000" type="application/pdf" />
