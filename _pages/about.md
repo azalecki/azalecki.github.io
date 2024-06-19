@@ -12,9 +12,12 @@ profile:
     <p>Geography Department</p>
     <p>276 Bicentennial Way</p>
     <p>Middlebury VT 05753</p>
+    <div style="text-align: center;">
+      <p>More Info</p>
+    </div>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -24,6 +27,6 @@ I’m Ola and I am a recent graduate from Middlebury College with a degree in Ge
 
 My upbringing on Chicago’s Northwest side has definitely shaped my interests in my research. I am passionate about public spaces, promoting people oriented urban planning, and hot dog stands. Visualizing these themes in a way that is accessible, comprehendible and engaging is what I strive to do as a cartographer. I find a lot of joy in working with people and I naturally seek out hands-on projects where I am given the space to think creatively and critically. 
 
-When I’m not hunched over my computer, you can probably find me reading near some kind of body of water.  
+When I’m not hunched over my computer, you can probably find me baking a sweet treat or reading near some kind of body of water.  
 
 
