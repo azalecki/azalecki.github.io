@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: <span style="font-weight: normal;">Alexandra</span>
-middle_name: <span style="font-weight: bold;">Ola</span>
+first_name: Alexandra
+middle_name: Ola
 last_name: Zalecki
 email: aezalecki@gmail.com
 
