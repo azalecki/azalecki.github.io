@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="float: right; text-align: left;">
+    <div class="profile-more-info">
       <p>Geography Department</p>
       <p>276 Bicentennial Way</p>
       <p>Middlebury VT 05753</p>

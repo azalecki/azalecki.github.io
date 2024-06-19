@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: GitHub Repositories
+title: repositories
 description: Below you will find a selection of my GitHub Repositories.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 {% if site.data.repositories.github_repos %}
