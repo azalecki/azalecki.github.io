@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Alexandra <strong>Ola</strong> Zalecki"  # the website title (if blank, full name will be used instead)
-first_name: Alexandra
-middle_name: Ola
+title: blank # the website title (if blank, full name will be used instead)
+middle_name: Alexandra
+first_name: Ola
 last_name: Zalecki
 email: aezalecki@gmail.com
 
