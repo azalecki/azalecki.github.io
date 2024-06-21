@@ -2,6 +2,23 @@
  * Content
  ******************************************************************************/
 
+
+ <!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <!-- Other head elements -->
+</head>
+<body>
+  <!-- Body content -->
+  <header>
+    <h1>Alexandra <strong>Ola</strong> Zalecki</h1>
+  </header>
+</body>
+</html>
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
