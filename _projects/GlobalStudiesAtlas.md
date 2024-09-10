@@ -1,16 +1,20 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Mapping for the Global Studies Atlas
+description: My first gig 
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My first gig as an undergraduate was working for Professor Guntram Herb on his Global Studies Atlas. When I joined the team, the atlas was just an idea with an outline. In the end it would take 3 years, 3 professors and __ cartographic assistants to get the atlas printed. This summer I had the pleasure of finally holding the completed work in my hands. 
+
+What I really loved about this work is how collaborative it was. There were a couple of maps that feel distinctly "mine" because coincidently I ended up working on the design elements mostly myself. However, for the most part all of the final maps went through several revisions by several different people over the 3 years. 
+
+For example, over a winter I with one of my peer, Grace Sokolow, drafted the layers and data in its beginning stages needed for a historical map of the cold war which was then passed onto another peer, Pete Strefurt where he added the finishing cartographic touches. 
+
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
