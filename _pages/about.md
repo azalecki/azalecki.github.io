@@ -9,11 +9,6 @@ profile:
   image: zalecki_hs_24.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div class="profile-more-info">
-      <p>Geography Department</p>
-      <p>276 Bicentennial Way</p>
-      <p>Middlebury VT 05753</p>
-    </div>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
