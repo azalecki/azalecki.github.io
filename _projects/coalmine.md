@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
+title: The Coal Mine Next Door
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: cartography
 related_publications: true
 ---
 

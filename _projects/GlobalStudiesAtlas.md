@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mapping for the Global Studies Atlas
+title: Global Studies Atlas
 description: My first gig 
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: cartography
 giscus_comments: true
 ---
 
