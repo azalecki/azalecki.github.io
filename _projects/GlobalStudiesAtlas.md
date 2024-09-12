@@ -2,7 +2,7 @@
 layout: page
 title: Global Studies Atlas
 description: My first gig 
-img: assets/img/3.jpg
+img: assets/img/globalatlasthumbnail.png
 importance: 2
 category: cartography
 giscus_comments: true
@@ -14,15 +14,6 @@ What I really loved about this work is how collaborative it was. There were a co
 
 For example, over a winter I with one of my peer, Grace Sokolow, drafted the layers and data in its beginning stages needed for a historical map of the cold war which was then passed onto another peer, Pete Strefurt where he added the finishing cartographic touches. 
 
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/globalatlasthumbnail.png
-    ---
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
