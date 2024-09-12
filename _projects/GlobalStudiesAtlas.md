@@ -15,14 +15,13 @@ What I really loved about this work is how collaborative it was. There were a co
 For example, over a winter I with one of my peer, Grace Sokolow, drafted the layers and data in its beginning stages needed for a historical map of the cold war which was then passed onto another peer, Pete Strefurt where he added the finishing cartographic touches. 
 
 
-
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/euromigration.png
     ---
 
 <div class="row">
@@ -70,21 +69,23 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/religion.png" title="Religious Affiliation Map" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/waterpollution.png" title="Water Pollution Map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    These are just two examples of the types of maps that I made for the atlas.
 </div>
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
+
+
 
 {% raw %}
 
