@@ -2,7 +2,7 @@
 layout: page
 title: Global Studies Atlas
 description: My first gig 
-img: assets/img/globalatlasthumbnail.png
+img: assets/img/cropped/euro_crop.png
 importance: 2
 category: cartography
 giscus_comments: true
