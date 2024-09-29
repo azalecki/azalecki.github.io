@@ -7,10 +7,11 @@ importance: 1
 category: cartography
 related_publications: true
 ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/zalecki_finalpng.png" title="Coal Mine Next Door" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/zalecki_finalpng.png" target="_blank">
+            {% include figure.liquid loading="eager" path="assets/img/zalecki_finalpng.png" title="Coal Mine Next Door" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 <div class="caption">
