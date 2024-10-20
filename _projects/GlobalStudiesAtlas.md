@@ -8,43 +8,48 @@ category: cartography
 giscus_comments: true
 ---
 
-My first gig as an undergraduate was working for Professor Guntram Herb on his Global Studies Atlas. When I joined the team, the atlas was just an idea with an outline. In the end it would take 3 years, 3 professors and __ cartographic assistants to get the atlas printed. This summer I had the pleasure of finally holding the completed work in my hands. 
+When I was hired as a research assistant my sophomore year as an undergraduate student, the Global Studies Atlas was only a Google Drive of ideas. Before I would have the pleasure of finally holding the completed work in my hands this summer, it would take 3 years, 3 faculty writers and __ cartographic assistants to get the atlas to print. I'm still afraid to look at any of the maps closely in case I find a mistake that would be too late to fix at this point. 
 
-What I really loved about this work is how collaborative it was. There were a couple of maps that feel distinctly "mine" because coincidently I ended up working on the design elements mostly myself. However, for the most part all of the final maps went through several revisions by several different people over the 3 years. 
+I look back on my involvement with the Global Studies Atlas fondly. The nature of the work to churn out over 50 maps was meticulous and sometimes felt sisyphean. However, I cherished how colloborative it was. 
 
-For example, over a winter I with one of my peer, Grace Sokolow, drafted the layers and data in its beginning stages needed for a historical map of the cold war which was then passed onto another peer, Pete Strefurt where he added the finishing cartographic touches. 
+Although every map in the atlas has undergone collabortive revision there are a handful of maps that I feel are uniquely "mine." Fortunately, us research assistants were given some creative liberty. 
 
 
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/religion.png" title="Religious Affiliation Map" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/waterpollution.png" title="Water Pollution Map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/original/covidcases.png" title="Covid Cases" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    These are just two examples of the types of maps that I made for the atlas.
+    This image can also have a caption. It's like magic.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/original/religion.png" title="Religion" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
-{% endraw %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/original/waterpollution.png" title="Water Pollution" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
+The historical maps were the final hurdle. 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/original/euromigration.png" title="European Migration" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
