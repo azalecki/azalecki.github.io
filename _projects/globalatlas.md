@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Studies Atlas
-description: My first gig 
+description: 
 img: assets/img/cropped/euro_crop.png
 importance: 2
 category: cartography
