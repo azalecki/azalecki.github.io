@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Intro to Cartography
-description: a project with no image
+title: El Sol de Tejas
+description: 
 img: assets/img/cropped/texas_crop.png
 importance: 4
 category: cartography
