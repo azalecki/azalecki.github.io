@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Coal Mine Next Door
-description: Project from Senior Cartographic Design Seminar
+description: 
 img: assets/img/cropped/coalmine_crop.png
 importance: 1
 category: cartography
