@@ -1,4 +1,17 @@
 /*******************************************************************************
+ * Font
+ ******************************************************************************/
+
+/* Google Font import */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap');
+
+/* Root level font family setup */
+:root {
+  --global-font-family: 'EB Garamond', serif; /* Set EB Garamond as the global font */
+}
+
+
+/*******************************************************************************
  * Themes
  ******************************************************************************/
 

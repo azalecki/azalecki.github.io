@@ -2,10 +2,11 @@
  * Content
  ******************************************************************************/
 
-body {
+ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: var(--global-font-family); /* Apply EB Garamond to the body */
 
   h1,
   h2,
