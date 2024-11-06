@@ -13,15 +13,6 @@ What I really loved about this work is how collaborative it was. There were a co
 
 For example, over a winter I with one of my peer, Grace Sokolow, drafted the layers and data in its beginning stages needed for a historical map of the cold war which was then passed onto another peer, Pete Strefurt where he added the finishing cartographic touches. 
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/original/covidcases.png" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/original/waterpollution.png" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
@@ -41,7 +32,6 @@ For example, over a winter I with one of my peer, Grace Sokolow, drafted the lay
     {% include figure.liquid path="assets/img/original/euromigration.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
