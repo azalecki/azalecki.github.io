@@ -16,10 +16,10 @@ For example, over a winter I with one of my peer, Grace Sokolow, drafted the lay
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/original/covidcases.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/original/covidcases.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/original/waterpollution.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/original/waterpollution.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
