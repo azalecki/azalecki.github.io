@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Global Studies Atlas
+title: Forest Preserves of the Northwest Side 
 description: 
-img: assets/img/cropped/euro_crop.png
-importance: 2
+img: assets/img/cropped/forestpreserve_crop.png
+importance: 1
 category: cartography
 ---
 

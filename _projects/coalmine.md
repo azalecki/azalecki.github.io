@@ -3,7 +3,7 @@ layout: page
 title: The Coal Mine Next Door
 description: 
 img: assets/img/cropped/coalmine_crop.png
-importance: 1
+importance: 2
 category: cartography
 related_publications: true
 ---

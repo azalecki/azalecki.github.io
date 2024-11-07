@@ -3,7 +3,7 @@ layout: page
 title: El Sol de Tejas
 description: 
 img: assets/img/cropped/texas_crop.png
-importance: 4
+importance: 5
 category: cartography
 ---
 <div class="row justify-content-sm-center">
