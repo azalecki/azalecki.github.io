@@ -3,7 +3,7 @@ layout: page
 title: J-Term with the ACRPC
 description: with background image
 img: assets/img/cropped/truck_crop.png
-importance: 1
+importance: 3
 category: research
 related_publications: true
 ---
