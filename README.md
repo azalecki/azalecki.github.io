@@ -1,3 +1,47 @@
+# Personal Research & Cartography Portfolio
+
+Welcome to my personal research and cartography portfolio! This website showcases my work in geographic information systems (GIS), cartography, spatial analysis, and related research projects. Explore my portfolio to see how I've applied mapping and research skills to various real-world challenges.
+
+## About Me
+
+I am a [Your Name], a passionate researcher and cartographer with expertise in [mention any specific skills, software, or techniques you specialize in]. My work spans across fields such as [mention key areas of research: urban planning, environmental studies, historical mapping, etc.]. I am driven by the power of maps to communicate complex data and insights, and I enjoy bringing a data-driven approach to spatial problem-solving.
+
+## My Work
+
+Here, you will find examples of my projects, including interactive maps, static cartographic designs, and research papers. These projects are built using a range of tools and technologies, such as:
+
+- **GIS Software**: ArcGIS, QGIS, Google Earth Engine
+- **Web Mapping**: Leaflet.js, Shiny in R
+- **Data Analysis**: R
+- **Cartographic Design**: Adobe Illustrator, Adobe Photoshop
+
+## Contact
+
+If you'd like to discuss any of my work or collaborate on future projects, feel free to reach out!
+
+- **Email**: aezalecki@gmail.com
+- **LinkedIn**:  [Alexandra (Ola) Zalecki](https://www.linkedin.com/in/alexandrazalecki)
+- **GitHub**:  [azalecki](https://github.com/azalecki)
+
+
+## How to Navigate the Portfolio
+
+The portfolio is organized into the following sections:
+
+- **Home**: Who am I? Where can you contact me?
+- **Projects**: A growing collection of research projects, cartographic design projects, and other fun things. 
+- **Repositories**: A growing collection of my Github repositories.
+- **CV**: My educational background along with my professional/teaching/research experience.
+
+## Technologies and Tools Used
+
+This website is built with the following tools:
+
+- **Static Site Generator**: Jekyll with the al-folio theme
+- **Version Control**: GitHub
+- **Hosting**: GitHub 
+
+# READ ME for the al-folio theme
 # al-folio
 
 <div align="center">
