@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant in Instruction. GIScientist. Cartographer.
+subtitle: Cartography and Research Portfolio 
 
 profile:
   align: right
