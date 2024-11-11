@@ -2,10 +2,13 @@
 layout: page
 title: Diagrams for GIS Learning
 description: 
-img: assets\img\cropped\balancedDesign_crop.png
+img: assets/img/cropped/balancedDesign_crop.png
 importance: 4
 category: fun
 ---
+
+
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-3 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/evenlayout/aziTangent-01.png" title="example image" class="img-fluid rounded z-depth-1" %}
