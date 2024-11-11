@@ -2,7 +2,7 @@
 layout: page
 title: Diagrams for GIS Learning
 description: 
-img: assets/img/6.jpg
+img: assets\img\cropped\balancedDesign_crop.png
 importance: 4
 category: fun
 ---
