@@ -11,7 +11,7 @@ The map titled "Coal Mine Next Door" was created during a cartographic design se
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/original/zalecki_finalpng.png" title="Coal Mine Next Door Map" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets\img\original\CoalMineNextDoor.png" title="Coal Mine Next Door Map" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="caption">
     Final Map from Cartographic Design Seminar
@@ -19,7 +19,7 @@ The map titled "Coal Mine Next Door" was created during a cartographic design se
 </div>
 
 <div class="row justify-content-sm-center">
-  <div class="col-10 mt-3 mt-md-0">
+  <div class="col-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/original/cmnd_tax_01.png" title="Style Sheet for Coal Mine Next Door" class="img-fluid rounded z-depth-1" %}
   </div>
 <div class="caption">
