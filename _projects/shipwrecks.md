@@ -6,6 +6,9 @@ img: assets/img/cropped/sanjuan_crop.png
 importance: 3
 category: cartography
 ---
+
+
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/original/NicaraguaRoute.png" title="example image" class="img-fluid rounded z-depth-1" %}
