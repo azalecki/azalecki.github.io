@@ -7,6 +7,21 @@ importance: 4
 category: cartography
 ---
 
+The [Middlebury Atlas of Globalization](https://www.langenscheidt.com/shop/englisch/middlebury-atlas-of-globalization-SW50013?srsltid=AfmBOoqcND4qE6kT0WviLjYcHgRB_k4lP0jtJYCV7HFWz9MuA521LBOc) is an atlas textbook for college level introductory courses in international and global studies. Headed by Professor Guntram Herb, 
+
+I joined the global atlas team February 2022 as a sophomore when the research team was 3 people and the project merely an outline. The atlas and website were finally published at the start of the Fall semester 2024. 
+
+research for interesting topics and available data 
+collect data and wrangling it into a format that could be used with GIS software 
+create a template 
+make design decisions for 
+
+As a research assistant I helped create new maps of a variety of topics such as global flows of capital, military spending, undersea cables, etc. 
+
+Some of my responsibilities included identifying data sources, mapping data and creating a template in QGIS and Adobe Illustrator to facility consistent map design and prouduction. As the project progressed and the team grew, my role as a research assistant shifted. With almost 7 people on the team and at least 50 maps in varying stages of completion, I took on a project management role. 
+
+
+
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/original/covidcases.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -25,9 +40,4 @@ category: cartography
     {% include figure.liquid path="assets/img/original/euromigration.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
