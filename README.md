@@ -4,7 +4,7 @@ Welcome to my personal research and cartography portfolio! This website showcase
 
 ## About Me
 
-I am a [Your Name], a passionate researcher and cartographer with expertise in [mention any specific skills, software, or techniques you specialize in]. My work spans across fields such as [mention key areas of research: urban planning, environmental studies, historical mapping, etc.]. I am driven by the power of maps to communicate complex data and insights, and I enjoy bringing a data-driven approach to spatial problem-solving.
+My name is Alexandra "Ola" Zalecki and I am a researcher and cartographer with expertise in geographic and map design. My work spans across fields such as human geography, sociology and environmental justice. I am driven by the power of maps to communicate complex data and insights, and I enjoy bringing a data-driven approach to spatial problem-solving.
 
 ## My Work
 
@@ -12,7 +12,7 @@ Here, you will find examples of my projects, including interactive maps, static 
 
 - **GIS Software**: ArcGIS, QGIS, Google Earth Engine
 - **Web Mapping**: Leaflet.js, Shiny in R
-- **Data Analysis**: R
+- **Data Analysis**: R, Stata
 - **Cartographic Design**: Adobe Illustrator, Adobe Photoshop
 
 ## Contact
