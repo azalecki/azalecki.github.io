@@ -2,7 +2,7 @@
 layout: page
 title: Global Studies Atlas
 description: 
-img: assets/img/cropped/euro_crop.png
+img: assets\img\thumbnails\atlas_crop.png
 importance: 4
 category: cartography
 ---
@@ -16,20 +16,20 @@ As the project progressed and the team grew, my role as a research assistant shi
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/original/covidcases.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets\img\atlas\covidcases.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/original/waterpollution.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets\img\atlas\waterpollution.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/original/euromigration.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets\img\atlas\euromigration.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

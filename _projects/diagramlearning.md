@@ -2,7 +2,7 @@
 layout: page
 title: Artwork for GIS Learning
 description: 
-img: assets/img/cropped/balancedDesign_crop.png
+img: _projects\diagramlearning.md
 importance: 4
 category: fun
 ---
