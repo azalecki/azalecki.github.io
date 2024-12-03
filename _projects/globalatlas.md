@@ -2,7 +2,7 @@
 layout: page
 title: Global Studies Atlas
 description: 
-img: assets\img\thumbnails\atlas_crop.png
+img: assetsimg/thumbnails/atlas_crop.png
 importance: 4
 category: cartography
 ---
@@ -13,23 +13,20 @@ The atlas was finally published at the start of the Fall semester in 2024. I joi
 
 As the project progressed and the team grew, my role as a research assistant shifted. With almost 7 people on the team and at least 50 maps in varying stages of completion, I took on a project management role overseeing progress, editing and delegating tasks. 
 
-
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets\img\atlas\covidcases.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/atlas/covidcases.png" title="COVID Cases Image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets\img\atlas\waterpollution.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/atlas/waterpollution.png" title="Water Pollution Image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets\img\atlas\euromigration.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/atlas/euromigration.png" title="Euro Migration Image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-
