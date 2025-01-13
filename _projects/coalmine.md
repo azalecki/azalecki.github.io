@@ -17,6 +17,8 @@ On this page, I will walk you through the process of my first independent and lo
   </div>
 </div>
 
+[Download Full Image](../assets/img/cmnd/cmnd_final.png)
+
 <div class="row justify-content-sm-center">
   <div class="col-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/cmnd/cmnd_taxo.png" title="example image" class="img-fluid rounded z-depth-1" %}
