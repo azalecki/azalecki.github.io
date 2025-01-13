@@ -85,3 +85,11 @@ Below are some examples of the maps/diagrams/artwork I have contributed to the c
   In this course, students learn to visualize their data as well as gather and analyze it. In this diagram are some helpful tips and reminders for good map design. 
 </div>
 </div>
+
+### Modifiable Areal Unit Problem 
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/gisart/maup.png" title="maup" class="img-fluid rounded z-depth-1" %}
+  </div>
+  </div>
