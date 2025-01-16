@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects.
 nav: true
 nav_order: 1
-display_categories: [research, cartography fun]
+display_categories: [research, cartography, fun]
 horizontal: false
 ---
 
