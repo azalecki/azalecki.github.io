@@ -15,18 +15,18 @@ As the project progressed and the team grew, my role as a research assistant shi
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/atlas/covidcases.png" title="COVID Cases Image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/atlas/covidcases.png" title="COVID Cases Image" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/atlas/waterpollution.png" title="Water Pollution Image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/atlas/waterpollution.png" title="Water Pollution Image" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/atlas/euromigration.png" title="Euro Migration Image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/atlas/euromigration.png" title="Euro Migration Image" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
