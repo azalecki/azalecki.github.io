@@ -2,7 +2,7 @@
 layout: page
 title: Who is the Public in our Public Libraries?
 description: Senior Undergraduate Thesis
-img: assets/img/thumbnails/thesis_crop.png
+img: assets\img\thumbnails\thesis_crop.png
 importance: 1
 category: research
 toc:
@@ -18,11 +18,13 @@ Considering the privatization of space within urban landscapes and growing dispa
 ### Collect and Process Socio-Demographic Variables  
 The social and demographic variables (see Table 1) used in this study were obtained from the 2021 American Community Survey (ACS) 5-year estimates and 2020 decennial United States Census. Socio-demographic variables from the ACS were obtained at the Census tract level. Population counts were obtained both at the tract and block level from the US Census. 
 
-Table 1: Neighborhood characteristic variables considered in this study 
+*Table 1: Neighborhood characteristic variables considered in this study* 
 
+| Category | Census variables |
+| --------------- | ------------- |
 | Economic        | Median family income, Employment status, Poverty Status|
 | Demographic     | Total population, Race, Ethnicity, Age, Sex  |
-| Social/Cultural | Nativity, Educational attainment   |
+| Social/Cultural | Nativity, Educational attainment  |
 
 ### Define Library Service Areas  
 
@@ -67,7 +69,8 @@ weights_chi <- cook_blocks_tbl %>%
   mutate(pop_wt=block_pop/tract_pop, hu_wt=block_hu/tract_hu)
 
 ```
- The proportion weight was then applied to the social demographic variables at the tract level so the result would be a weighted count by its population contribution.  
+
+The proportion weight was then applied to the social demographic variables at the tract level so the result would be a weighted count by its population contribution.  
 
 Apportioning the social demographic data to the LSAs consisted of generating centroids from the blocks and doing a centroid assignment to the LSAs. Sociodemographic data was aggregated by the name of the library service area and summed. Apportioning the data in this way allowed me to profile the sociodemographic characteristics and be confident in the quality of the data outputs. Apportioning the data in this way maintained an acceptable degree of data precision and accuracy. From this step I could normalize the data by the population in the LSA and further aggregate by whether a library provided a service or not.  
 
@@ -76,12 +79,11 @@ Apportioning the social demographic data to the LSAs consisted of generating cen
 
 libraries’ increased web presence has afforded us the possibility to explore the kinds of services they offer other than print material circulation. The Chicago Public Library has a library profile for its 81 neighborhood branches on their official website (www.chipublib.org). An initial scan of 3 library profiles revealed that the profiles were conveniently formatted to be more or less identical to each other. This initial scan also allowed me to create a list of variables (Table 2) for my survey that I planned to look out for and include in my study. Data on the non-traditional programming and features (see Table 2) was then collected over a period of two days by visiting each library profile with an eye for the variables in my list. The presence of said features was manually coded as a Boolean feature into an Excel spreadsheet. 
 
-Table 2. Library features as listed on the CPL website 
+*Table 2. Library features as listed on the CPL website* 
 
 | Library “Feature”     | Feature Definition & Notes   |
 | --------------- | ------------- |
-| Citizenship Corner |Enhanced collections on immigration and U.S citizenship, free assistance, and dissemination of US Citizenship and Immigration Services (USCIS) 
- publications in the languages most commonly spoken in Chicago | 
+| Citizenship Corner | Enhanced collections on immigration and U.S citizenship, free assistance, and dissemination of USCIS publications in commonly spoken languages | 
 | Cyber Navigators | One-on-one sessions with technology tutors that build computer literacy and digital skills |
 | YouMedia | Teenager digital learning and makerspace  |
 | Teacher in the Library | Free drop-in homework help program for school-age students with accredited teachers |
@@ -92,3 +94,26 @@ Table 2. Library features as listed on the CPL website
 
 
 ## Results
+
+*Table 3. Summary table of descriptive statistics for demographic variables*
+
+| Category                  | Median  | SD     | Min   | Max    |
+|---------------------------|---------|--------|-------|--------|
+| **Demographic Variables** |         |        |       |        |
+| Total Population          | 33,134  | 13,906 | 7,892 | 68,729 |
+| Child                     | 5,333   | 2,489  | 1,500 | 14,002 |
+| Senior                    | 8,194   | 3,322  | 1,254 | 18,431 |
+| Female                    | 16,468  | 6,833  | 4,042 | 35,930 |
+| **Racial & Ethnic Variables** |      |        |       |        |
+| Black                     | 5,856   | 10,370 | 70    | 41,499 |
+| Asian                     | 1,113   | 2,957  | 0     | 12,114 |
+| Latinx                    | 5,702   | 10,691 | 225   | 49,158 |
+| White                     | 5,830   | 12,162 | 26    | 51,128 |
+| **Economic Variables**    |         |        |       |        |
+| Unemployed                | 8,759   | 3,529  | 2,360 | 21,640 |
+| Poverty Status            | 5,411   | 3,086  | 977   | 13,907 |
+| High Income               | 1,371   | 3,073  | 79    | 14,467 |
+| **Social Variables**      |         |        |       |        |
+| Foreign Born              | 5,299   | 5,693  | 57    | 25,840 |
+| Attained Degree           | 4,801   | 5,475  | 445   | 26,028 |
+
