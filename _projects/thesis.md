@@ -2,7 +2,7 @@
 layout: page
 title: Who is the Public in our Public Libraries?
 description: Senior Undergraduate Thesis
-img: assets\img\thumbnails\thesis_crop.png
+img: assets/img/thumbnails/thesis_crop.png
 importance: 1
 category: research
 toc:
@@ -25,6 +25,7 @@ The social and demographic variables (see Table 1) used in this study were obtai
 | Economic        | Median family income, Employment status, Poverty Status|
 | Demographic     | Total population, Race, Ethnicity, Age, Sex  |
 | Social/Cultural | Nativity, Educational attainment  |
+
 
 ### Define Library Service Areas  
 
@@ -52,6 +53,16 @@ chi_vor <- st_intersection(vorjoin, chi)%>%
 
 ```
 
+<div class="row justify-content-sm-center">
+  <div class="col-12 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/thesis/chi_voronoi.png" title="Library Service Areas" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+    Library branches and service areas in Chicago, IL   
+</div>
+
+
 ### Population Weighted Reaggregation (PWR) 
 
 The Thiessen Polygons representing LSAS, unfortunately, do not map neatly onto the Census geographies of blocks that contain the socioeconomic data. To address this, I apportion census data to service areas using a population weighted reaggregation technique. 
@@ -77,7 +88,7 @@ Apportioning the social demographic data to the LSAs consisted of generating cen
 
 ### Surveying Library Use, Services, and Programming  
 
-libraries’ increased web presence has afforded us the possibility to explore the kinds of services they offer other than print material circulation. The Chicago Public Library has a library profile for its 81 neighborhood branches on their official website (www.chipublib.org). An initial scan of 3 library profiles revealed that the profiles were conveniently formatted to be more or less identical to each other. This initial scan also allowed me to create a list of variables (Table 2) for my survey that I planned to look out for and include in my study. Data on the non-traditional programming and features (see Table 2) was then collected over a period of two days by visiting each library profile with an eye for the variables in my list. The presence of said features was manually coded as a Boolean feature into an Excel spreadsheet. 
+Libraries’ increased web presence has afforded us the possibility to explore the kinds of services they offer other than print material circulation. The Chicago Public Library has a library profile for its 81 neighborhood branches on their official website (www.chipublib.org). An initial scan of 3 library profiles revealed that the profiles were conveniently formatted to be more or less identical to each other. This initial scan also allowed me to create a list of variables (Table 2) for my survey that I planned to look out for and include in my study. Data on the non-traditional programming and features (see Table 2) was then collected over a period of two days by visiting each library profile with an eye for the variables in my list. The presence of said features was manually coded as a Boolean feature into an Excel spreadsheet. 
 
 *Table 2. Library features as listed on the CPL website* 
 
