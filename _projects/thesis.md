@@ -2,7 +2,7 @@
 layout: page
 title: Who is the Public in our Public Libraries?
 description: Senior Undergraduate Thesis
-img: assets/img/cropped/library_crop.png
+img: assets/img/thumbnails/thesis_crop.png
 importance: 1
 category: research
 toc:
@@ -16,6 +16,13 @@ Considering the privatization of space within urban landscapes and growing dispa
 ## Methods 
 
 ### Collect and Process Socio-Demographic Variables  
+The social and demographic variables (see Table 1) used in this study were obtained from the 2021 American Community Survey (ACS) 5-year estimates and 2020 decennial United States Census. Socio-demographic variables from the ACS were obtained at the Census tract level. Population counts were obtained both at the tract and block level from the US Census. 
+
+Table 1: Neighborhood characteristic variables considered in this study 
+
+| Economic        | Median family income, Employment status, Poverty Status|
+| Demographic     | Total population, Race, Ethnicity, Age, Sex  |
+| Social/Cultural | Nativity, Educational attainment   |
 
 ### Define Library Service Areas  
 
@@ -62,92 +69,26 @@ weights_chi <- cook_blocks_tbl %>%
 ```
  The proportion weight was then applied to the social demographic variables at the tract level so the result would be a weighted count by its population contribution.  
 
-```r
-# Apply the proportional weight to the social demographic variables 
-
-acs_table_wt <- weights_chi %>% merge(acs_table, by.x="tract", by.y="GEOID", all.x=T) %>% mutate(latinx_app=pop_wt*latinx)%>%
-mutate(for_app=pop_wt*for1)%>%
-mutate(bach_app=pop_wt*et3)%>%
-mutate(unemp_app=pop_wt*emp0)%>%
-mutate(black_app=pop_wt*black)%>%
-mutate(white_app=pop_wt*white)%>%
-mutate(lang_app=pop_wt*noneng)%>%
-mutate(asian_app=pop_wt*asian)%>% 
-mutate(povtot_app=pop_wt*povtotal)%>%
-mutate(child_app=pop_wt*child)%>%
-mutate(yad_app=pop_wt*yad)%>%
-mutate(mad_app=pop_wt*mad)%>%
-mutate(sen_app=pop_wt*sen)%>%
-mutate(man_app=pop_wt*male)%>%
-mutate(fem_app= pop_wt*female)%>% 
-mutate(hinc_app=pop_wt*highinc)
-
-```
-
 Apportioning the social demographic data to the LSAs consisted of generating centroids from the blocks and doing a centroid assignment to the LSAs. Sociodemographic data was aggregated by the name of the library service area and summed. Apportioning the data in this way allowed me to profile the sociodemographic characteristics and be confident in the quality of the data outputs. Apportioning the data in this way maintained an acceptable degree of data precision and accuracy. From this step I could normalize the data by the population in the LSA and further aggregate by whether a library provided a service or not.  
 
-```r
-
-# Generate centroids for the blocks
-centroids <- st_centroid(chi_blocks_shp)
-
-# Join library names to centroids
-vor_blocks <- st_join(chi_vor, centroids, join= st_intersects, left=TRUE)
-
-# Join weights table to library service data
-lib_service <- acs_table_wt %>% 
-  merge(vor_blocks, by.x="GEOID", by.y="GEOID.y", all.x=T)
-
-#Aggregate variable apportionments
-
-agg_latinx <- aggregate(latinx_app ~ NAME, data = lib_service, sum)
-agg_unemp <- aggregate(unemp_app ~ NAME, data= lib_service, sum)
-agg_college <- aggregate(bach_app ~ NAME, data= lib_service, sum)
-agg_foreign <- aggregate(for_app ~ NAME, data=lib_service, sum)
-agg_white<- aggregate(white_app ~ NAME, data=lib_service, sum)
-agg_black<-aggregate(black_app ~ NAME, data=lib_service, sum)
-agg_asian<-aggregate(asian_app ~ NAME, data=lib_service, sum)
-agg_pov <- aggregate(povtot_app ~ NAME, data=lib_service, sum)
-agg_child <- aggregate(child_app ~ NAME, data=lib_service, sum)
-agg_yad <- aggregate(yad_app ~ NAME, data=lib_service, sum)
-agg_mad <- aggregate(mad_app ~ NAME, data=lib_service, sum)
-agg_sen <- aggregate(sen_app ~ NAME, data=lib_service, sum)
-agg_man <- aggregate(man_app ~ NAME, data=lib_service, sum)
-agg_fem <- aggregate(fem_app ~ NAME, data= lib_service, sum)
-agg_noneng <- aggregate(lang_app ~ NAME, data= lib_service, sum)
-agg_pop <- aggregate(block_pop ~ NAME, data= lib_service, sum)
-agg_hinc <- aggregate(hinc_app ~ NAME, data=lib_service,sum)
-
-# Join back to catchment layer
-catchment <- chi_vor %>% merge(agg_latinx, by="NAME")%>% 
-  merge(agg_unemp, by="NAME") %>% 
-  merge(agg_college, by="NAME")%>% 
-  merge(agg_foreign, by="NAME")%>% 
-  merge(agg_white, by="NAME")%>%
-  merge(agg_noneng, by= "NAME")%>%
-  merge(agg_pop, by= "NAME")%>%
-  merge(agg_black, by='NAME')%>%
-  merge(agg_asian, by='NAME')%>% 
-  merge(agg_pov, by='NAME')%>% 
-  merge(agg_man, by= 'NAME')%>% 
-  merge(agg_fem, by= 'NAME')%>% 
-  merge(agg_child, by= 'NAME')%>% 
-  merge(agg_yad, by= 'NAME')%>% 
-  merge(agg_mad, by= 'NAME')%>% 
-  merge(agg_sen, by= 'NAME')%>% 
-  merge(agg_hinc, by='NAME')
-
-```
-```r
-
-# Normalize
-
-catchment.norm <-catchment %>% 
-
-mutate(black_norm=black_app/block_pop, white_norm=white_app/block_pop, bach_norm=bach_app/block_pop, asian_norm=asian_app/block_pop, latinx_norm=latinx_app/block_pop, unemp_norm=unemp_app/block_pop, for_norm=for_app/block_pop, lang_norm=lang_app/block_pop, pov_norm=povtot_app/block_pop, child_norm=child_app/block_pop, yad_norm=yad_app/block_pop, mad_norm=mad_app/block_pop, sen_norm=sen_app/block_pop, man_norm=man_app/block_pop, fem_norm=fem_app/block_pop, hinc_norm=hinc_app/block_pop)
-
-```
 
 ### Surveying Library Use, Services, and Programming  
+
+libraries’ increased web presence has afforded us the possibility to explore the kinds of services they offer other than print material circulation. The Chicago Public Library has a library profile for its 81 neighborhood branches on their official website (www.chipublib.org). An initial scan of 3 library profiles revealed that the profiles were conveniently formatted to be more or less identical to each other. This initial scan also allowed me to create a list of variables (Table 2) for my survey that I planned to look out for and include in my study. Data on the non-traditional programming and features (see Table 2) was then collected over a period of two days by visiting each library profile with an eye for the variables in my list. The presence of said features was manually coded as a Boolean feature into an Excel spreadsheet. 
+
+Table 2. Library features as listed on the CPL website 
+
+| Library “Feature”     | Feature Definition & Notes   |
+| --------------- | ------------- |
+| Citizenship Corner |Enhanced collections on immigration and U.S citizenship, free assistance, and dissemination of US Citizenship and Immigration Services (USCIS) 
+ publications in the languages most commonly spoken in Chicago | 
+| Cyber Navigators | One-on-one sessions with technology tutors that build computer literacy and digital skills |
+| YouMedia | Teenager digital learning and makerspace  |
+| Teacher in the Library | Free drop-in homework help program for school-age students with accredited teachers |
+| Mental Health and Social Services | Staffed with mental health clinicians or hosts a mental health focused organization |
+| Wi-Fi Hotspot Lending  | A program that lends portable wifi hotspots that you can use to connect a mobile-enabled device to the internet |  
+| Chromebook Kit Lending  | A resident of Chicago with an active adult CPL card may borrow a Google Chrome laptop for three weeks |
+| Non-English Language Materials |The library provides a multilingual materials collection and circulates materials in a language other than English |
+
 
 ## Results
