@@ -2,7 +2,7 @@
 layout: page
 title: Shipwrecks in the San Juan River
 description: 
-img: assets/img/cropped/sanjuan_crop.png
+img: assets/img/thumbnails/sanjuan_crop.png
 importance: 3
 category: cartography
 ---
@@ -12,13 +12,12 @@ The goal of this project was to create a story map with an interactive wep map "
 
 The expedition to Nicaragua had not happened yet and there was no data for me to work with in order to create an interactive web map. Instead, I designed a short series of static maps to accompany the story map. The purpose of these maps is primarily to contextualize. Where is Nicaragua located on the Earth? Why where American steam ships in Central American waters? We can see the remains of the Orus, but how far did her final journey take her?
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/original/NicaraguaRoute.png" title="example image" class="img-fluid rounded z-depth-1 first-image" %}
+        {% include figure.liquid path="assets/img/shipwrecks/NicaraguaRoute.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0 d-flex align-items-end align-bottom">
-        {% include figure.liquid path="assets/img/original/Locator_ab" title="example image" class="img-fluid rounded z-depth-1 second-image" %}
+    <div class="col-sm-4 mt-3 mt-md-0 d-flex align-items-end">
+        {% include figure.liquid path="assets/img/shipwrecks/Locator_ab.png" title="example image" class="img-fluid rounded z-depth-1 second-image" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -27,7 +26,7 @@ The expedition to Nicaragua had not happened yet and there was no data for me to
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/original/RioSanJuan-01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/shipwrecks/RioSanJuan-01.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">
