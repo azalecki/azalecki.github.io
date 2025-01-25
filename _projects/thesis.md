@@ -62,7 +62,6 @@ chi_vor <- st_intersection(vorjoin, chi)%>%
     Library branches and service areas in Chicago, IL   
 </div>
 
-
 ### Population Weighted Reaggregation (PWR) 
 
 The Thiessen Polygons representing LSAS, unfortunately, do not map neatly onto the Census geographies of blocks that contain the socioeconomic data. To address this, I apportion census data to service areas using a population weighted reaggregation technique. 
