@@ -54,7 +54,7 @@ chi_vor <- st_intersection(vorjoin, chi)%>%
 ```
 
 <div class="row justify-content-sm-center">
-  <div class="col-12 mt-3 mt-md-0">
+  <div class="col-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/thesis/chi_voronoi.png" title="Library Service Areas" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
@@ -126,4 +126,44 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 | **Social Variables**      |         |        |       |        |
 | Foreign Born              | 5,299   | 5,693  | 57    | 25,840 |
 | Attained Degree           | 4,801   | 5,475  | 445   | 26,028 |
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/thesis/dem_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
+    </div>
+<div class="caption">
+    Demographic Variables 
+</div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/thesis/race_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
+    </div>
+<div class="caption">
+   Racial and Ethnic Variables
+</div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/thesis/economic_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
+    </div>
+<div class="caption">
+    Economic Variables  
+</div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/thesis/services_chart.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
+    </div>
+<div class="caption">
+    Proportion of non-traditional services provided by libraries in the CPL system  
+</div>
+</div>
+
+
+
 
