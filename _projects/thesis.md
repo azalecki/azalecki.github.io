@@ -5,6 +5,7 @@ description: Senior Undergraduate Thesis
 img: assets/img/thumbnails/thesis_crop.png
 importance: 1
 category: research
+pretty_table: true
 toc:
   sidebar: left
 ---
@@ -21,7 +22,7 @@ The social and demographic variables (see Table 1) used in this study were obtai
 *Table 1: Neighborhood characteristic variables considered in this study* 
 
 | Category | Census variables |
-| --------------- | ------------- |
+| :----------- | :------------: | 
 | Economic        | Median family income, Employment status, Poverty Status|
 | Demographic     | Total population, Race, Ethnicity, Age, Sex  |
 | Social/Cultural | Nativity, Educational attainment  |
@@ -92,7 +93,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 *Table 2. Library features as listed on the CPL website* 
 
 | Library “Feature”     | Feature Definition & Notes   |
-| --------------- | ------------- |
+| :---------------: | :-------------: |
 | Citizenship Corner | Enhanced collections on immigration and U.S citizenship, free assistance, and dissemination of USCIS publications in commonly spoken languages | 
 | Cyber Navigators | One-on-one sessions with technology tutors that build computer literacy and digital skills |
 | YouMedia | Teenager digital learning and makerspace  |
@@ -108,7 +109,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 *Table 3. Summary table of descriptive statistics for demographic variables*
 
 | Category                  | Median  | SD     | Min   | Max    |
-|---------------------------|---------|--------|-------|--------|
+|:-------------------------:|:-------:|:------:|:-----:|:------:| 
 | **Demographic Variables** |         |        |       |        |
 | Total Population          | 33,134  | 13,906 | 7,892 | 68,729 |
 | Child                     | 5,333   | 2,489  | 1,500 | 14,002 |
