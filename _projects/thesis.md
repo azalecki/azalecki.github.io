@@ -54,7 +54,7 @@ chi_vor <- st_intersection(vorjoin, chi)%>%
 ```
 
 <div class="row justify-content-sm-center">
-  <div class="col-12 mt-3 mt-md-0">
+  <div class="col-10 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/thesis/chi_voronoi.png" title="Library Service Areas" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
