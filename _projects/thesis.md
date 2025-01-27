@@ -6,6 +6,7 @@ img: assets/img/thumbnails/thesis_crop.png
 importance: 1
 category: research
 pretty_table: true
+citation: true
 toc:
   sidebar: left
 ---
