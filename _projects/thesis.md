@@ -54,7 +54,7 @@ chi_vor <- st_intersection(vorjoin, chi)%>%
 ```
 
 <div class="row justify-content-sm-center">
-  <div class="col-4 mt-3 mt-md-0">
+  <div class="col-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/thesis/chi_voronoi.png" title="Library Service Areas" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
@@ -129,7 +129,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/dem_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
@@ -138,7 +138,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/race_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
@@ -147,7 +147,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/economic_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
@@ -156,7 +156,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/services_chart.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
