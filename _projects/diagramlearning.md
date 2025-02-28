@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artwork for GIS Learning
+title: Illustrating GIS Concepts
 description: 
 img: assets/img/thumbnails/balancedDesign_crop.png
 importance: 4
