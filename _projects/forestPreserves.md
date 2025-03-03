@@ -12,13 +12,7 @@ category: cartography
     {% include figure.liquid path="assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide-01.jpg" title="Forest Preserves Map" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 
-
-[Download Image](https://azalecki.github.io/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide-01.jpg)
-
-<a href="https://azalecki.github.io/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide-01.jpg" download>Download Image</a>
-
-
-C:\Users\azalecki\Documents\GitHub\azalecki.github.io\assets\img\forestpreserves\ForestPreservesoftheFarNorthwestSide-01.jpg
+<a href="https://azalecki.github.io/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide-01.jpg" download>Download Image Here</a>
 
 assets\img\forestpreserves\ForestPreservesoftheFarNorthwestSide-01.jpg
 
