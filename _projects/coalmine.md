@@ -17,7 +17,8 @@ On this page, I will walk you through the process of my first independent and lo
   </div>
 </div>
 
-[Download Full Image](../assets/img/cmnd/cmnd_final.png)
+<a href="https://azalecki.github.io/assets/img/cmnd/cmnd_final.png" download>Download Map as an Image</a>
+
 
 <div class="row justify-content-sm-center">
   <div class="col-8 mt-3 mt-md-0">
