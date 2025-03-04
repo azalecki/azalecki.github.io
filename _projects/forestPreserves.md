@@ -14,7 +14,6 @@ category: cartography
 
 <a href="https://azalecki.github.io/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide-01.jpg" download>Download Map as an Image</a>
 
-assets\img\forestpreserves\ForestPreservesoftheFarNorthwestSide-01.jpg
 
   <div class="row justify-content-sm-center">
   <div class="col-10 mt-3 mt-md-0">
