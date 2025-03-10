@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! Witam!
+Hello! *Witam!*
 
 My name is Ola Zalecki, and welcome to my portfolio page.
 
