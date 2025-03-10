@@ -15,15 +15,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! Witam! 
+Hello! *Witam!*
 
 My name is Ola Zalecki and welcome to my portfolio page.
 
-I am a recent graduate from Middlebury College where I earned my Bachelor's of Arts in Geography with a minor in Spanish. 
+I am a recent graduate from Middlebury College where I earned my Bachelor’s of Arts in Geography with a minor in Spanish. 
 
-Long before I discovered the discipline of geography, I've gravitated towards learning about people, their societies and relationships with the physical world. As an undergraduate student I learned both the tools and language in order to delve deep into the interactions between people and their environment as well as how all of these elements are visible across space. My research interests are heavily influenced by my upbringing on Chicago's Northwest side which means that I'm passionate about public spaces, immigrant place-making, and, of course, hot dog stands. Visualizing my research through maps in a way that is accessible, comprehendible and engaging is what I strive to do both as a researcher and cartographer. 
+Long before I took my first geography class, I’ve gravitated towards learning about people,societies and their relationships with the physical world. 
+As an undergraduate student I got to learn the language and tools that allow me explore and question our interactions with space and place. My research interests are influenced by my upbringing in Chicago as a Polish-American as well as my recent years living in rural Vermont. This means that I’m passionate about public spaces, immigrant place-making and, of course, hot dog stands. 
 
-Currently, I am the Assistant in Science Instruction for the Department of Geography at Middlebury College where I support courses in GIS and Cartography. 
+The practice of representing spatial data is a central aspect of my work as a geographer, as I aim to create maps that are accessible, comprehensible, and engaging.
 
-When I’m not at work hunched over my computer screen, you're most likely to find me baking a sweet treat or hanging out near a body of water. 
+Currently, I am the Assistant in Science Instruction for the Department of Geography at Middlebury College where I support courses in GIS and cartography. 
 
+When I’m not at work hunched over my computer screen, you’re most likely to find me baking a sweet treat or hanging out near a body of water.
