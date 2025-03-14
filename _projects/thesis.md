@@ -14,7 +14,7 @@ toc:
 ## Abstract 
 
 Considering the privatization of space within urban landscapes and growing disparities in equity, libraries have incredible potential to shed light on community needs and the power of public space. This paper not only investigates the ways in which library services/uses vary across space but also the ways in which they map onto the diverse socioeconomic and demographic characteristics of the neighborhoods that they serve. In this study, I map socio-demographic variables from the 2021 American Community Survey onto library service areas generated using Thiessen polygons. I surveyed Chicago Public Library web profiles to collect library service data, which was then analyzed alongside the socio-demographic variables. The results of this research reveal a relationship between socio-demographic variables and library services among library service areas, with noticeable variability across the city — which is reflective of Chicago's longstanding history of racial and economic segregation. Socio-economic and demographic characteristics significantly relate to the services, programming, and amenities found in Chicago libraries. Rather than using libraries in their "traditional" book lending sense, disadvantaged areas seem to rely more on non-traditional services that libraries offer, like internet access and social supports. Considering challenges that these neighborhoods might face, like lower incomes and educational attainment, and limited access to the internet, these patterns may be due to targeted efforts of local libraries to meet the needs of their constituents. However, this study also reveals gaps in access, specifically related to libraries that do not offer mental health and citizenship support services but are situated in communities that would benefit from them.
-
+<br>
 
 ## Methods 
 
@@ -28,7 +28,7 @@ The social and demographic variables (see Table 1) used in this study were obtai
 | Economic        | Median family income, Employment status, Poverty Status|
 | Demographic     | Total population, Race, Ethnicity, Age, Sex  |
 | Social/Cultural | Nativity, Educational attainment  |
-
+<br>
 
 ### Define Library Service Areas  
 
@@ -64,6 +64,7 @@ chi_vor <- st_intersection(vorjoin, chi)%>%
 <div class="caption">
     Library branches and service areas in Chicago, IL   
 </div>
+<br>
 
 ### Population Weighted Reaggregation (PWR) 
 
@@ -86,7 +87,7 @@ weights_chi <- cook_blocks_tbl %>%
 The proportion weight was then applied to the social demographic variables at the tract level so the result would be a weighted count by its population contribution.  
 
 Apportioning the social demographic data to the LSAs consisted of generating centroids from the blocks and doing a centroid assignment to the LSAs. Sociodemographic data was aggregated by the name of the library service area and summed. Apportioning the data in this way allowed me to profile the sociodemographic characteristics and be confident in the quality of the data outputs. Apportioning the data in this way maintained an acceptable degree of data precision and accuracy. From this step I could normalize the data by the population in the LSA and further aggregate by whether a library provided a service or not.  
-
+<br>
 
 ### Surveying Library Use, Services, and Programming  
 
@@ -104,7 +105,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 | Wi-Fi Hotspot Lending  | A program that lends portable wifi hotspots that you can use to connect a mobile-enabled device to the internet |  
 | Chromebook Kit Lending  | A resident of Chicago with an active adult CPL card may borrow a Google Chrome laptop for three weeks |
 | Non-English Language Materials |The library provides a multilingual materials collection and circulates materials in a language other than English |
-
+<br>
 
 ## Results
 
@@ -129,7 +130,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 | **Social Variables**      |         |        |       |        |
 | Foreign Born              | 5,299   | 5,693  | 57    | 25,840 |
 | Attained Degree           | 4,801   | 5,475  | 445   | 26,028 |
-
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
@@ -168,54 +169,6 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 
-```echarts
-
-var chart = echarts.init(document.getElementById('main'));
-
-var option = {
-  tooltip: {
-    trigger: 'axis',
-    axisPointer: {
-      type: 'shadow'
-    }
-  },
-  grid: {
-    left: '3%',
-    right: '4%',
-    bottom: '3%',
-    containLabel: true
-  },
-  xAxis: {
-    type: 'value',
-    boundaryGap: [0, 0.1]
-  },
-  yAxis: {
-    type: 'category',
-    data: ['NonEnglish Materials', 'InPerson Homework Help', 'CyberNavigators', 'Citizenship Corner', 'Mental Health Services', 'Hotspot Lending', 'Chromebook Lending', 'YouMedia', 'Meeting Room', 'Study Rooms']
-  },
-  series: [
-    {
-      name: 'Yes',
-      type: 'bar',
-      data: [1, 0, 1, 1, 1, 0, 1, 0, 1, 1], // Counts for "Yes"
-      itemStyle: {
-        color: '#ffae49'
-      }
-    },
-    {
-      name: 'No',
-      type: 'bar',
-      data: [0, 1, 0, 0, 0, 1, 0, 1, 0, 0], // Counts for "No"
-      itemStyle: {
-        color: '#44a5c2'
-      }
-    }
-  ]
-};
-
-chart.setOption(option);
-
-```
 
 [Download Paper as PDF](../assets/pdf/Zalecki_WhoIsthePublic.pdf)
 
