@@ -168,6 +168,8 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 
+```echarts
+
 var chart = echarts.init(document.getElementById('main'));
 
 var option = {
@@ -213,6 +215,7 @@ var option = {
 
 chart.setOption(option);
 
+```
 
 [Download Paper as PDF](../assets/pdf/Zalecki_WhoIsthePublic.pdf)
 
