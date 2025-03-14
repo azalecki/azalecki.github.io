@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who is the Public in our Public Libraries?
-description: Senior Undergraduate Thesis
+description: Exploring the Spatial Variations of Library Services in Chicago, IL. 
 img: assets/img/thumbnails/thesis_crop.png
 importance: 1
 category: research
@@ -13,7 +13,8 @@ toc:
 
 ## Abstract 
 
-Considering the privatization of space within urban landscapes and growing disparities in equity, libraries have incredible potential to shed light on community needs and the power of public space. This paper investigates the ways in which library services and uses vary across space and the ways in which they map onto the diverse socioeconomic & demographic characteristics of the neighborhoods that they serve. To answer this question, I map socio-demographic variables from the 2021 American Community Survey onto library service areas generated using Thiessen polygons and population weighted reaggregation. I surveyed the Chicago Public Library profiles to collect library service data which was then analyzed alongside the socio-demographic variables. The study revealed that library service areas display significant socio-economic and demographic variability that reflect Chicago’s racial and economic segregation. Additionally, socio-economic and demographic characteristics shape the services and programming available at local libraries. Affluent and predominantly white areas showed higher rates of circulation and availability of mental health services while neighborhoods that were predominantly poor, Black and/or Latinx Socio-economic and demographic characteristics significantly shape the services, programming, and amenities at Chicago libraries, with affluent and predominantly white areas receiving higher circulation and specialized services, while disadvantaged, predominantly Black and Latinx areas rely more on non-traditional services like internet access and social support. 
+Considering the privatization of space within urban landscapes and growing disparities in equity, libraries have incredible potential to shed light on community needs and the power of public space. This paper not only investigates the ways in which library services/uses vary across space but also the ways in which they map onto the diverse socioeconomic and demographic characteristics of the neighborhoods that they serve. In this study, I map socio-demographic variables from the 2021 American Community Survey onto library service areas generated using Thiessen polygons. I surveyed Chicago Public Library web profiles to collect library service data, which was then analyzed alongside the socio-demographic variables. The results of this research reveal a relationship between socio-demographic variables and library services among library service areas, with noticeable variability across the city — which is reflective of Chicago's longstanding history of racial and economic segregation. Socio-economic and demographic characteristics significantly relate to the services, programming, and amenities found in Chicago libraries. Rather than using libraries in their "traditional" book lending sense, disadvantaged areas seem to rely more on non-traditional services that libraries offer, like internet access and social supports. Considering challenges that these neighborhoods might face, like lower incomes and educational attainment, and limited access to the internet, these patterns may be due to targeted efforts of local libraries to meet the needs of their constituents. However, this study also reveals gaps in access, specifically related to libraries that do not offer mental health and citizenship support services but are situated in communities that would benefit from them.
+
 
 ## Methods 
 
@@ -167,5 +168,54 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 
+var chart = echarts.init(document.getElementById('main'));
+
+var option = {
+  tooltip: {
+    trigger: 'axis',
+    axisPointer: {
+      type: 'shadow'
+    }
+  },
+  grid: {
+    left: '3%',
+    right: '4%',
+    bottom: '3%',
+    containLabel: true
+  },
+  xAxis: {
+    type: 'value',
+    boundaryGap: [0, 0.1]
+  },
+  yAxis: {
+    type: 'category',
+    data: ['NonEnglish Materials', 'InPerson Homework Help', 'CyberNavigators', 'Citizenship Corner', 'Mental Health Services', 'Hotspot Lending', 'Chromebook Lending', 'YouMedia', 'Meeting Room', 'Study Rooms']
+  },
+  series: [
+    {
+      name: 'Yes',
+      type: 'bar',
+      data: [1, 0, 1, 1, 1, 0, 1, 0, 1, 1], // Counts for "Yes"
+      itemStyle: {
+        color: '#ffae49'
+      }
+    },
+    {
+      name: 'No',
+      type: 'bar',
+      data: [0, 1, 0, 0, 0, 1, 0, 1, 0, 0], // Counts for "No"
+      itemStyle: {
+        color: '#44a5c2'
+      }
+    }
+  ]
+};
+
+chart.setOption(option);
+
+
+[Download Paper as PDF](../assets/pdf/Zalecki_WhoIsthePublic.pdf)
+
+<object data="/assets/pdf/Zalecki_WhoIsthePublic.pdf" width="1000" height="1000" type="application/pdf" />
 
 

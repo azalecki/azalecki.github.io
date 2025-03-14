@@ -7,7 +7,7 @@ importance: 4
 category: fun
 ---
 
-Below are some examples of the maps/diagrams/artwork I have contributed to the conceptual handbook of Human Geography with GIS, an introductory GIS class that I support as the ASI.
+One of the duties that I've picked up while supporting introductory GIS classes as the ASI has been contributing to the conceptual handbook by creating maps/diagrams/artwork. For students unfamiliar with geography and GIS, visuals are a fantastic way to start to understand difficult concepts. Below are some of the illustrations that I have made for this purpose. 
 
 ### Developable Surfaces 
 
