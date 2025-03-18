@@ -1,17 +1,20 @@
 ---
 layout: page
 title: Who is the Public in our Public Libraries?
-description: Senior Undergraduate Thesis
+description: Exploring the Spatial Variations of Library Services in Chicago, IL. 
 img: assets/img/thumbnails/thesis_crop.png
 importance: 1
 category: research
+pretty_table: true
+citation: true
 toc:
   sidebar: left
 ---
 
 ## Abstract 
 
-Considering the privatization of space within urban landscapes and growing disparities in equity, libraries have incredible potential to shed light on community needs and the power of public space. This paper investigates the ways in which library services and uses vary across space and the ways in which they map onto the diverse socioeconomic & demographic characteristics of the neighborhoods that they serve. To answer this question, I map socio-demographic variables from the 2021 American Community Survey onto library service areas generated using Thiessen polygons and population weighted reaggregation. I surveyed the Chicago Public Library profiles to collect library service data which was then analyzed alongside the socio-demographic variables. The study revealed that library service areas display significant socio-economic and demographic variability that reflect Chicago’s racial and economic segregation. Additionally, socio-economic and demographic characteristics shape the services and programming available at local libraries. Affluent and predominantly white areas showed higher rates of circulation and availability of mental health services while neighborhoods that were predominantly poor, Black and/or Latinx Socio-economic and demographic characteristics significantly shape the services, programming, and amenities at Chicago libraries, with affluent and predominantly white areas receiving higher circulation and specialized services, while disadvantaged, predominantly Black and Latinx areas rely more on non-traditional services like internet access and social support. 
+Considering the privatization of space within urban landscapes and growing disparities in equity, libraries have incredible potential to shed light on community needs and the power of public space. This paper not only investigates the ways in which library services/uses vary across space but also the ways in which they map onto the diverse socioeconomic and demographic characteristics of the neighborhoods that they serve. In this study, I map socio-demographic variables from the 2021 American Community Survey onto library service areas generated using Thiessen polygons. I surveyed Chicago Public Library web profiles to collect library service data, which was then analyzed alongside the socio-demographic variables. The results of this research reveal a relationship between socio-demographic variables and library services among library service areas, with noticeable variability across the city — which is reflective of Chicago's longstanding history of racial and economic segregation. Socio-economic and demographic characteristics significantly relate to the services, programming, and amenities found in Chicago libraries. Rather than using libraries in their "traditional" book lending sense, disadvantaged areas seem to rely more on non-traditional services that libraries offer, like internet access and social supports. Considering challenges that these neighborhoods might face, like lower incomes and educational attainment, and limited access to the internet, these patterns may be due to targeted efforts of local libraries to meet the needs of their constituents. However, this study also reveals gaps in access, specifically related to libraries that do not offer mental health and citizenship support services but are situated in communities that would benefit from them.
+<br>
 
 ## Methods 
 
@@ -21,11 +24,12 @@ The social and demographic variables (see Table 1) used in this study were obtai
 *Table 1: Neighborhood characteristic variables considered in this study* 
 
 | Category | Census variables |
-| --------------- | ------------- |
+| :----------- | :------------: | 
 | Economic        | Median family income, Employment status, Poverty Status|
 | Demographic     | Total population, Race, Ethnicity, Age, Sex  |
 | Social/Cultural | Nativity, Educational attainment  |
 
+<br>
 
 ### Define Library Service Areas  
 
@@ -54,13 +58,14 @@ chi_vor <- st_intersection(vorjoin, chi)%>%
 ```
 
 <div class="row justify-content-sm-center">
-  <div class="col-4 mt-3 mt-md-0">
+  <div class="col-10 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/thesis/chi_voronoi.png" title="Library Service Areas" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">
     Library branches and service areas in Chicago, IL   
 </div>
+<br>
 
 ### Population Weighted Reaggregation (PWR) 
 
@@ -83,7 +88,7 @@ weights_chi <- cook_blocks_tbl %>%
 The proportion weight was then applied to the social demographic variables at the tract level so the result would be a weighted count by its population contribution.  
 
 Apportioning the social demographic data to the LSAs consisted of generating centroids from the blocks and doing a centroid assignment to the LSAs. Sociodemographic data was aggregated by the name of the library service area and summed. Apportioning the data in this way allowed me to profile the sociodemographic characteristics and be confident in the quality of the data outputs. Apportioning the data in this way maintained an acceptable degree of data precision and accuracy. From this step I could normalize the data by the population in the LSA and further aggregate by whether a library provided a service or not.  
-
+<br>
 
 ### Surveying Library Use, Services, and Programming  
 
@@ -92,7 +97,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 *Table 2. Library features as listed on the CPL website* 
 
 | Library “Feature”     | Feature Definition & Notes   |
-| --------------- | ------------- |
+| :---------------: | :-------------: |
 | Citizenship Corner | Enhanced collections on immigration and U.S citizenship, free assistance, and dissemination of USCIS publications in commonly spoken languages | 
 | Cyber Navigators | One-on-one sessions with technology tutors that build computer literacy and digital skills |
 | YouMedia | Teenager digital learning and makerspace  |
@@ -102,13 +107,14 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 | Chromebook Kit Lending  | A resident of Chicago with an active adult CPL card may borrow a Google Chrome laptop for three weeks |
 | Non-English Language Materials |The library provides a multilingual materials collection and circulates materials in a language other than English |
 
+<br>
 
 ## Results
 
 *Table 3. Summary table of descriptive statistics for demographic variables*
 
 | Category                  | Median  | SD     | Min   | Max    |
-|---------------------------|---------|--------|-------|--------|
+|:-------------------------:|:-------:|:------:|:-----:|:------:| 
 | **Demographic Variables** |         |        |       |        |
 | Total Population          | 33,134  | 13,906 | 7,892 | 68,729 |
 | Child                     | 5,333   | 2,489  | 1,500 | 14,002 |
@@ -127,9 +133,10 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 | Foreign Born              | 5,299   | 5,693  | 57    | 25,840 |
 | Attained Degree           | 4,801   | 5,475  | 445   | 26,028 |
 
+<br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/dem_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
@@ -138,7 +145,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/race_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
@@ -147,7 +154,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/economic_variable_maps.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
@@ -156,7 +163,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/thesis/services_chart.png" title="example image" class="img-fluid rounded z-depth-1 first-image" zoomable=true %}
     </div>
 <div class="caption">
@@ -165,5 +172,9 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 </div>
 
 
+
+[Download Paper as PDF](../assets/pdf/Zalecki_WhoIsthePublic.pdf)
+
+<object data="/assets/pdf/Zalecki_WhoIsthePublic.pdf" width="1000" height="1000" type="application/pdf" />
 
 
