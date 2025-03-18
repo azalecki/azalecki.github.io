@@ -28,6 +28,7 @@ The social and demographic variables (see Table 1) used in this study were obtai
 | Economic        | Median family income, Employment status, Poverty Status|
 | Demographic     | Total population, Race, Ethnicity, Age, Sex  |
 | Social/Cultural | Nativity, Educational attainment  |
+
 <br>
 
 ### Define Library Service Areas  
@@ -105,6 +106,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 | Wi-Fi Hotspot Lending  | A program that lends portable wifi hotspots that you can use to connect a mobile-enabled device to the internet |  
 | Chromebook Kit Lending  | A resident of Chicago with an active adult CPL card may borrow a Google Chrome laptop for three weeks |
 | Non-English Language Materials |The library provides a multilingual materials collection and circulates materials in a language other than English |
+
 <br>
 
 ## Results
@@ -130,6 +132,7 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 | **Social Variables**      |         |        |       |        |
 | Foreign Born              | 5,299   | 5,693  | 57    | 25,840 |
 | Attained Degree           | 4,801   | 5,475  | 445   | 26,028 |
+
 <br>
 
 <div class="row justify-content-sm-center">
