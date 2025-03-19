@@ -135,7 +135,8 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 
 <br>
 
-<iframe src="/assets/html/race_interactive2.html"" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="assets/html/race_interactive2.html" height="600px" width="100%" style="border:none;"></iframe>
+
 
 
 
