@@ -111,6 +111,8 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 
 ## Results
 
+Descriptive statistics were used to summarize the distribution of certain socioeconomic and demographic variables across Chicago and are displayed in Table 3. One of the main takeaways from these results is the large range of values between most of the socioeconomic and demographic variables. For example, consider the foreign-born population in Chicago. On average, a library service area may contain around 5,299 foreign born persons. However, one library service area in Chicago contains as few as 57 foreign born persons while another contains as many as 25,840. This large range (25,783 persons) in values is indicative of high variability within the data which reflects the considerable heterogeneity of Chicago’s neighborhoods.  This high variability is observed in the other variables, as well, particularly among the racial and economic variables.
+
 *Table 3. Summary table of descriptive statistics for demographic variables*
 
 | Category                  | Median  | SD     | Min   | Max    |
@@ -136,6 +138,10 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 <br>
 
 <iframe src="https://azalecki.github.io/assets/html/race_interactive2.html" height="600px" width="100%" style="border:none;"></iframe>
+
+Mapping the percentage of a certain racial and ethnic groups onto the library service areas, the lines of racial segregation become particularly apparent. Racial groups are highly concentrated in different parts of the city with some library service areas having as much as 80-100% of a certain racial group.
+The Black population is primarily located in LSAs on the South and West Sides of the city. The white population is primarily located on the North Side of the city however you can also see a handful LSAs on the South Side exhibiting high white populations. The Latinx population is predominantly concentrated on the Southwest and Northwest Sides of Chicago. This corresponds to established and well known Latinx neighborhoods: Pilsen and Little Village (in the Southwest Side) and growing populations in the Northwest Side: Hermosa and Belmont-Cragin. Chicago’s Asian population is the fastest growing in the city but predominantly concentrated in small clusters in and around the Near South Side of Chicago as well as a part of the Far North Side. Concentrations of the Asian population around the Near South Side are no surprise considering the region’s proximity to the cultural hub that is Chicago’s Chinatown and long-established immigrant communities in the area. 
+The distribution of race that we see among the LSAs affirm the patterns of segregation that have long been documented in Chicago’s urban landscape (Taeuber & Taeuber, 1964; Erbe, 1975; Acs et al., 2017) and demonstrate that these patterns also influence the demographic makeup of the LSAs. Libraries in different parts of the city will be serving communities made up of different racial and ethnic majorities. 
 
 <iframe src="https://azalecki.github.io/assets/html/servicemap.html" height="600px" width="100%" style="border:none;"></iframe>
 
