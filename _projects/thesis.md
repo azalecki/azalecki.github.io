@@ -137,4 +137,6 @@ Libraries’ increased web presence has afforded us the possibility to explore t
 
 <iframe src="https://azalecki.github.io/assets/html/race_interactive2.html" height="600px" width="100%" style="border:none;"></iframe>
 
+<iframe src="https://azalecki.github.io/assets/html/servicemap.html" height="600px" width="100%" style="border:none;"></iframe>
+
 
