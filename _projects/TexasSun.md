@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El Sol de Tejas
+title: Under the Texas Sun
 description: 
 img: assets/img/thumbnails/texas_crop.png
 importance: 5
