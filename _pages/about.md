@@ -6,7 +6,7 @@ subtitle: Cartography and Research Portfolio
 
 profile:
   align: right
-  image: zalecki_hs_24.jpg
+  image: zalecki_hs_25.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
