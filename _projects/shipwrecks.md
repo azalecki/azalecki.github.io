@@ -3,7 +3,7 @@ layout: page
 title: Shipwrecks in the San Juan River
 description: 
 img: assets/img/thumbnails/sanjuan_crop.png
-importance: 3
+importance: 4
 category: cartography
 ---
 

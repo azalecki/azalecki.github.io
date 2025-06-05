@@ -3,7 +3,7 @@ layout: page
 title: Global Studies Atlas
 description: 
 img: assets/img/thumbnails/atlas_crop.png
-importance: 4
+importance: 5
 category: cartography
 ---
 

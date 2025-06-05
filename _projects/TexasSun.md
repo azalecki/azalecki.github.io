@@ -3,7 +3,7 @@ layout: page
 title: Under the Texas Sun
 description: 
 img: assets/img/thumbnails/texas_crop.png
-importance: 5
+importance: 6
 category: cartography
 ---
 
