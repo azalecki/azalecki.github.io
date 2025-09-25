@@ -1,4 +1,4 @@
----
+![ForestPreservesoftheFarNorthwestSide2](https://github.com/user-attachments/assets/72e7c30b-917d-4a0a-80e1-fcb6be719846)---
 layout: page
 title: Forest Preserves of the Northwest Side 
 description: 
@@ -7,12 +7,15 @@ importance: 1
 category: cartography
 ---
 
-<a href="https://azalecki.github.io/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_updated.png" download>Download Map as an Image</a>
+<a href="https://azalecki.github.io/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide2.jpg" download>Download Map as an Image</a>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_updated.png" title="Forest Preserves Map" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide2.jpg" title="Forest Preserves Map" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
+
+
+
 
 
 
