@@ -1,4 +1,4 @@
-![ForestPreservesoftheFarNorthwestSide2](https://github.com/user-attachments/assets/72e7c30b-917d-4a0a-80e1-fcb6be719846)---
+---
 layout: page
 title: Forest Preserves of the Northwest Side 
 description: 
