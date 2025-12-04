@@ -30,13 +30,6 @@ category: fun
 <!-- Gallery -->
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--gisart">
 
-  <!-- balancedDesign -->
-  <a href="/assets/img/gisart/balancedDesign.png"
-     data-pswp-width="3236"
-     data-pswp-height="2490">
-    <img src="/assets/img/gisart/balancedDesign.png" alt="balancedDesign" />
-  </a>
-
   <!-- badFG -->
   <a href="/assets/img/gisart/badFG.png"
      data-pswp-width="3509" 
@@ -63,6 +56,20 @@ category: fun
      data-pswp-width="2400"
      data-pswp-height="2400">
     <img src="/assets/img/gisart/Dev_Surf_Secant.png" alt="Dev_Surf_Secant" />
+  </a>=
+
+  <!-- measureLat -->
+  <a href="/assets/img/gisart/measureLat.png"
+     data-pswp-width="2400"
+     data-pswp-height="2400">
+    <img src="/assets/img/gisart/measureLat.png" alt="measureLat" />
+  </a>
+
+  <!-- measureLong -->
+  <a href="/assets/img/gisart/measureLong.png"
+     data-pswp-width="2400"
+     data-pswp-height="2400">
+    <img src="/assets/img/gisart/measureLong.png" alt="measureLong" />
   </a>
 
   <!-- Overlays -->
@@ -79,18 +86,11 @@ category: fun
     <img src="/assets/img/gisart/maup.png" alt="maup" />
   </a>
 
-  <!-- measureLat -->
-  <a href="/assets/img/gisart/measureLat.png"
-     data-pswp-width="2400"
-     data-pswp-height="2400">
-    <img src="/assets/img/gisart/measureLat.png" alt="measureLat" />
-  </a>
-
-  <!-- measureLong -->
-  <a href="/assets/img/gisart/measureLong.png"
-     data-pswp-width="2400"
-     data-pswp-height="2400">
-    <img src="/assets/img/gisart/measureLong.png" alt="measureLong" />
+   <!-- balancedDesign -->
+  <a href="/assets/img/gisart/balancedDesign.png"
+     data-pswp-width="3236"
+     data-pswp-height="2490">
+    <img src="/assets/img/gisart/balancedDesign.png" alt="balancedDesign" />
   </a>
 
 </div>
