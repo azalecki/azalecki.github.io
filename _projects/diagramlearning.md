@@ -20,7 +20,7 @@ category: fun
 }
 
 .pswp-gallery img {
-  width: 250px;  /* Thumbnail width */
+  width: 450px;  /* Thumbnail width */
   height: auto;  /* Keep aspect ratio */
   border-radius: 4px; /* Optional styling */
   display: block;
@@ -30,13 +30,6 @@ category: fun
 <!-- Gallery -->
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--gisart">
 
-  <!-- badFG -->
-  <a href="/assets/img/gisart/badFG.png"
-     data-pswp-width="3509" 
-     data-pswp-height="2480">
-    <img src="/assets/img/gisart/badFG.png" alt="badFG" />
-  </a>
-
   <!-- balancedDesign -->
   <a href="/assets/img/gisart/balancedDesign.png"
      data-pswp-width="3236"
@@ -44,11 +37,11 @@ category: fun
     <img src="/assets/img/gisart/balancedDesign.png" alt="balancedDesign" />
   </a>
 
-  <!-- Dev_Surf_Secant -->
-  <a href="/assets/img/gisart/Dev_Surf_Secant.png"
-     data-pswp-width="2400"
-     data-pswp-height="2400">
-    <img src="/assets/img/gisart/Dev_Surf_Secant.png" alt="Dev_Surf_Secant" />
+  <!-- badFG -->
+  <a href="/assets/img/gisart/badFG.png"
+     data-pswp-width="3509" 
+     data-pswp-height="2480">
+    <img src="/assets/img/gisart/badFG.png" alt="badFG" />
   </a>
 
   <!-- goodFG -->
@@ -58,6 +51,27 @@ category: fun
     <img src="/assets/img/gisart/goodFG.png" alt="goodFG" />
   </a>
 
+   <!-- projected_multi_panel -->
+  <a href="/assets/img/gisart/projected_multi_panel.png"
+      data-pswp-width="2400"
+     data-pswp-height="1280">
+    <img src="/assets/img/gisart/projected_multi_panel.png" alt="projected_multi_panel" />
+  </a>
+
+  <!-- Dev_Surf_Secant -->
+  <a href="/assets/img/gisart/Dev_Surf_Secant.png"
+     data-pswp-width="2400"
+     data-pswp-height="2400">
+    <img src="/assets/img/gisart/Dev_Surf_Secant.png" alt="Dev_Surf_Secant" />
+  </a>
+
+  <!-- Overlays -->
+  <a href="/assets/img/gisart/overlays_all.png"
+     data-pswp-width="2100"
+     data-pswp-height="1500">
+    <img src="/assets/img/gisart/overlays_all.png" alt="overlays_all" />
+  </a>
+  
   <!-- maup -->
   <a href="/assets/img/gisart/maup.png"
      data-pswp-width="2550" 
