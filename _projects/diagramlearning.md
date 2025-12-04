@@ -7,68 +7,81 @@ importance: 4
 category: fun
 ---
 
+{% raw %}
+<!-- Add PhotoSwipe CSS -->
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 
+<!-- Thumbnail styling -->
+<style>
+.pswp-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.pswp-gallery img {
+  width: 250px;  /* Thumbnail width */
+  height: auto;  /* Keep aspect ratio */
+  border-radius: 4px; /* Optional styling */
+  display: block;
+}
+</style>
+
+<!-- Gallery -->
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--gisart">
 
   <!-- badFG -->
   <a href="/assets/img/gisart/badFG.png"
      data-pswp-width="3509" 
-     data-pswp-height="2480" 
-  >
+     data-pswp-height="2480">
     <img src="/assets/img/gisart/badFG.png" alt="badFG" />
   </a>
 
   <!-- balancedDesign -->
   <a href="/assets/img/gisart/balancedDesign.png"
      data-pswp-width="3236"
-     data-pswp-height="2490"
-  >
+     data-pswp-height="2490">
     <img src="/assets/img/gisart/balancedDesign.png" alt="balancedDesign" />
   </a>
 
   <!-- Dev_Surf_Secant -->
   <a href="/assets/img/gisart/Dev_Surf_Secant.png"
      data-pswp-width="2400"
-     data-pswp-height="2400"
-  >
+     data-pswp-height="2400">
     <img src="/assets/img/gisart/Dev_Surf_Secant.png" alt="Dev_Surf_Secant" />
   </a>
 
   <!-- goodFG -->
   <a href="/assets/img/gisart/goodFG.png"
-      data-pswp-width="3509" 
-     data-pswp-height="2480"
-  >
+      data-pswp-width="3509"
+     data-pswp-height="2480">
     <img src="/assets/img/gisart/goodFG.png" alt="goodFG" />
   </a>
 
   <!-- maup -->
   <a href="/assets/img/gisart/maup.png"
      data-pswp-width="2550" 
-     data-pswp-height="1800" 
-  >
+     data-pswp-height="1800">
     <img src="/assets/img/gisart/maup.png" alt="maup" />
   </a>
 
   <!-- measureLat -->
   <a href="/assets/img/gisart/measureLat.png"
      data-pswp-width="2400"
-     data-pswp-height="2400"
-  >
+     data-pswp-height="2400">
     <img src="/assets/img/gisart/measureLat.png" alt="measureLat" />
   </a>
 
   <!-- measureLong -->
   <a href="/assets/img/gisart/measureLong.png"
      data-pswp-width="2400"
-     data-pswp-height="2400"
-  >
+     data-pswp-height="2400">
     <img src="/assets/img/gisart/measureLong.png" alt="measureLong" />
   </a>
 
 </div>
 
+<!-- PhotoSwipe JS -->
 <script type="module">
   import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js';
   import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js';
@@ -81,3 +94,5 @@ category: fun
 
   lightbox.init();
 </script>
+
+{% endraw %}
