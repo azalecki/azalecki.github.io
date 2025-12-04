@@ -13,56 +13,56 @@ category: fun
 
   <!-- badFG -->
   <a href="/assets/img/gisart/badFG.png"
-     data-pswp-width="1000"  <!-- replace with actual width -->
-     data-pswp-height="1000" <!-- replace with actual height -->
+     data-pswp-width="3509" 
+     data-pswp-height="2480" 
   >
     <img src="/assets/img/gisart/badFG.png" alt="badFG" />
   </a>
 
   <!-- balancedDesign -->
   <a href="/assets/img/gisart/balancedDesign.png"
-     data-pswp-width="1000"
-     data-pswp-height="1000"
+     data-pswp-width="3236"
+     data-pswp-height="2490"
   >
     <img src="/assets/img/gisart/balancedDesign.png" alt="balancedDesign" />
   </a>
 
   <!-- Dev_Surf_Secant -->
   <a href="/assets/img/gisart/Dev_Surf_Secant.png"
-     data-pswp-width="1000"
-     data-pswp-height="1000"
+     data-pswp-width="2400"
+     data-pswp-height="2400"
   >
     <img src="/assets/img/gisart/Dev_Surf_Secant.png" alt="Dev_Surf_Secant" />
   </a>
 
   <!-- goodFG -->
   <a href="/assets/img/gisart/goodFG.png"
-     data-pswp-width="1000"
-     data-pswp-height="1000"
+      data-pswp-width="3509" 
+     data-pswp-height="2480"
   >
     <img src="/assets/img/gisart/goodFG.png" alt="goodFG" />
   </a>
 
   <!-- maup -->
   <a href="/assets/img/gisart/maup.png"
-     data-pswp-width="1000"
-     data-pswp-height="1000"
+     data-pswp-width="2550" 
+     data-pswp-height="1800" 
   >
     <img src="/assets/img/gisart/maup.png" alt="maup" />
   </a>
 
   <!-- measureLat -->
   <a href="/assets/img/gisart/measureLat.png"
-     data-pswp-width="1000"
-     data-pswp-height="1000"
+     data-pswp-width="2400"
+     data-pswp-height="2400"
   >
     <img src="/assets/img/gisart/measureLat.png" alt="measureLat" />
   </a>
 
   <!-- measureLong -->
   <a href="/assets/img/gisart/measureLong.png"
-     data-pswp-width="1000"
-     data-pswp-height="1000"
+     data-pswp-width="2400"
+     data-pswp-height="2400"
   >
     <img src="/assets/img/gisart/measureLong.png" alt="measureLong" />
   </a>
