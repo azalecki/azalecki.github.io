@@ -2,7 +2,7 @@
 layout: page
 title: Middlebury College Lands
 description: 
-img: assets/img/thumbnails/
+img: assets/img/thumbnails/farm_crop.png
 importance: 2
 category: cartography
 ---
