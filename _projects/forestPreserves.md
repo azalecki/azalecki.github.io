@@ -3,7 +3,7 @@ layout: page
 title: Forest Preserves of the Northwest Side 
 description: 
 img: assets/img/thumbnails/forestpreserve_crop.png
-importance: 1
+importance: 2
 category: cartography
 ---
 

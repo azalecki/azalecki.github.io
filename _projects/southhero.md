@@ -3,7 +3,7 @@ layout: page
 title: South Hero Island
 description: 
 img: assets/img/thumbnails/southhero_crop.png
-importance: 2
+importance: 4
 category: cartography
 ---
 
