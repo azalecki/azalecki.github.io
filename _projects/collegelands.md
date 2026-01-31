@@ -2,7 +2,7 @@
 layout: page
 title: Middlebury College Lands
 description: 
-img: assets/img/thumbnails/coalmine_crop.png
+img: assets/img/thumbnails/
 importance: 2
 category: cartography
 ---
