@@ -78,6 +78,12 @@ category: fun
     <img src="/assets/img/photography/bikes.jpg" alt="bicycle parked on a city street" />
   </a>
 
+  <a href="/assets/img/photography/pairwalking.jpg"
+     data-pswp-width="3300"
+     data-pswp-height="4950">
+    <img src="/assets/img/photography/pairwalking.jpg" alt="two men walking past a pair of colorful buildings" />
+  </a>
+
   <a href="/assets/img/photography/birds.jpg"
      data-pswp-width="2048"
      data-pswp-height="1365">
@@ -90,22 +96,16 @@ category: fun
     <img src="/assets/img/photography/jerseys.jpg" alt="nun walking down the street" />
   </a>
 
-<a href="/assets/img/photography/nun.jpg"
-     data-pswp-width="3456"
-     data-pswp-height="5184">
-    <img src="/assets/img/photography/nun.jpg" alt="bicycle parked on a city street" />
-  </a>
-
-<a href="/assets/img/photography/pairwalking.jpg"
-     data-pswp-width="3300"
-     data-pswp-height="4950">
-    <img src="/assets/img/photography/pairwalking.jpg" alt="two men walking past a pair of colorful buildings" />
-  </a>
-
 <a href="/assets/img/photography/ninetyninecents.jpg"
      data-pswp-width="2400"
      data-pswp-height="1600">
     <img src="/assets/img/photography/ninetyninecents.jpg" alt="brick building with grafitti" />
+  </a>
+
+<a href="/assets/img/photography/nun.jpg"
+     data-pswp-width="3456"
+     data-pswp-height="5184">
+    <img src="/assets/img/photography/nun.jpg" alt="bicycle parked on a city street" />
   </a>
 
 <a href="/assets/img/photography/singlemanwalking.jpg"
@@ -115,8 +115,6 @@ category: fun
   </a>
 
 </div>
-
-
 
 
 <!-- PhotoSwipe JS -->
