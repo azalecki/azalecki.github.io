@@ -28,10 +28,10 @@ category: fun
 </style>
 
  <!-- Section heading -->
-  <h3 class="gallery-heading">Studio Portrait and Still Life</h3>
+  <h4 class="gallery-heading">Studio Portrait and Still Life</h4>
 
 <!-- Gallery -->
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--gisart">
+<div class="pswp-gallery pswp-gallery--single-column" id="gallery--photo01">
 
   <!-- badFG -->
   <a href="/assets/img/photography/portrait.jpg"
@@ -45,6 +45,26 @@ category: fun
       data-pswp-width="3900"
      data-pswp-height="5700">
     <img src="/assets/img/photography/stilllife.jpg" alt="still-life" />
+  </a>
+
+<!-- Section heading -->
+  <h4 class="gallery-heading">In the Style Of</h4>
+
+  <!-- Gallery -->
+<div class="pswp-gallery pswp-gallery--single-column" id="gallery--photo02">
+
+  <!-- badFG -->
+  <a href="/assets/img/photography/inthestyle1.jpg"
+     data-pswp-width="2550" 
+     data-pswp-height="3300">
+    <img src="/assets/img/photography/inthestyle1.jpg" alt="style-plant" />
+  </a>
+
+  <!-- goodFG -->
+  <a href="/assets/img/photography/inthestyle2.jpg"
+      data-pswp-width="2913"
+     data-pswp-height="3642">
+    <img src="/assets/img/photography/inthestyle2.jpg" alt="style-portrait" />
   </a>
 
 </div>
@@ -64,3 +84,4 @@ category: fun
 </script>
 
 {% endraw %}
+
