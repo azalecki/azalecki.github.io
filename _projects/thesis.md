@@ -4,7 +4,7 @@ title: Who is the Public in our Public Libraries?
 description: Exploring the Spatial Variations of Library Services in Chicago, IL. 
 img: assets/img/thumbnails/thesis_crop.png
 importance: 1
-category: research
+category: gis
 pretty_table: true
 citation: true
 toc:
