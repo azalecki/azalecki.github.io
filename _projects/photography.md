@@ -2,7 +2,7 @@
 layout: page
 title: Photography Now
 description: 
-img: assets/img/thumbnails/balancedDesign_crop.png
+img: assets/img/thumbnails/man_crop.jpg
 importance: 2
 category: fun
 ---
