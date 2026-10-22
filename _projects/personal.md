@@ -9,25 +9,23 @@ images:
   photoswipe: true
 ---
 
-## Figure Grounds of Vermont Towns 
-
-## Sorry, No Vacancies: A Geography of Burlington's Housing Crisis
-
-## Forest Preserves of the Far Northwest Side
-
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--one">
- <a href="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide.jpg' | relative_url }}"
-  data-pswp-width="761"
-  data-pswp-height="2576"
-  target="_blank">
-  <img src="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk2.jpg' | relative_url }}" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
-</a>
-
-<a href="{{ '/assets/img/burlington/novacancies.png' | relative_url }}"
-     data-pswp-width="1600"
-     data-pswp-height="1200"
+  <a href="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide2.png' | relative_url }}"
+     data-pswp-width="761"
+     data-pswp-height="2576"
      target="_blank">
-    <img src="{{ '/assets/img/burlington/novacancies_shrunk.jpg' | relative_url }}" alt="Description of second image" />
+    <img src="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk2.jpg' | relative_url }}" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
+  </a>
+  <a href="{{ '/assets/img/burlington/novacancies.png' | relative_url }}"
+     data-pswp-width="5575"
+     data-pswp-height="8000"
+     target="_blank">
+    <img src="{{ '/assets/img/burlington/novacancies_shrunk.jpg' | relative_url }}" alt="Map: Sorry, No Vacancies, a geography of Burlington's housing crisis" />
+  </a>
+  <a href="{{ '/assets/img/vturbanforms/vturbanforms.png' | relative_url }}"
+     data-pswp-width="4800"
+     data-pswp-height="8000"
+     target="_blank">
+    <img src="{{ '/assets/img/vturbanforms/vturbanforms_shrunk.jpg' | relative_url }}" alt="Map: The Various Urban Forms of Vermont, figure grounds of twelve Vermont towns" />
   </a>
 </div>
-
