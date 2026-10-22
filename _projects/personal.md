@@ -8,6 +8,7 @@ category: cartography
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
+<link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
 
 <style>
 .pswp-gallery {
@@ -22,6 +23,10 @@ category: cartography
   border-radius: 4px;
   display: block;
 }
+/* Captions live in the HTML but are only shown inside the lightbox */
+.pswp-caption-content {
+  display: none;
+}
 </style>
 
 <div class="pswp-gallery" id="gallery--personal">
@@ -31,6 +36,10 @@ category: cartography
      data-pswp-height="2576"
      target="_blank">
     <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk2.jpg" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
+    <span class="pswp-caption-content">
+      <strong>Forest Preserves of the Far Northwest Side</strong><br>
+      Your caption text here: what the map shows, data sources, tools used.
+    </span>
   </a>
 
   <a href="/assets/img/burlington/novacancies_large.jpg"
@@ -39,6 +48,10 @@ category: cartography
      data-download-url="/assets/img/burlington/novacancies.png"
      target="_blank">
     <img src="/assets/img/burlington/novacancies_shrunk.jpg" alt="Map: Sorry, No Vacancies, a geography of Burlington's housing crisis" />
+    <span class="pswp-caption-content">
+      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
+      Your caption text here.
+    </span>
   </a>
 
   <a href="/assets/img/vturbanforms/vturbanforms_large.jpg"
@@ -47,6 +60,10 @@ category: cartography
      data-download-url="/assets/img/vturbanforms/vturbanforms.png"
      target="_blank">
     <img src="/assets/img/vturbanforms/vturbanforms_shrunk.jpg" alt="Map: The Various Urban Forms of Vermont, figure grounds of twelve Vermont towns" />
+    <span class="pswp-caption-content">
+      <strong>The Various Urban Forms of Vermont</strong><br>
+      Your caption text here.
+    </span>
   </a>
 
 </div>
@@ -54,11 +71,17 @@ category: cartography
 <script type="module">
   import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js';
   import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js';
+  import PhotoSwipeDynamicCaption from 'https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.esm.js';
 
   const lightbox = new PhotoSwipeLightbox({
     gallery: '#gallery--personal',
     children: 'a',
     pswpModule: PhotoSwipe
+  });
+
+  // Caption plugin (must be added before lightbox.init())
+  const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+    type: 'auto'
   });
 
   // Download button: saves the full-res file named in data-download-url
@@ -81,6 +104,12 @@ category: cartography
           const url = pswp.currSlide.data.element?.dataset.downloadUrl;
           el.href = url || pswp.currSlide.data.src;
         });
+      }
+    });
+  });
+
+  lightbox.init();
+</script>
       }
     });
   });
