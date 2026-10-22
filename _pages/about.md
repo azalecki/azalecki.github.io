@@ -21,7 +21,7 @@ My name is Ola Zalecki, and welcome to my portfolio page.
 
 I am a recent graduate of Middlebury College, where I earned my Bachelor of Arts in Geography with a minor in Spanish.
 
-Long before I took my first geography class, I gravitated toward learning about people, societies, and their relationships with the physical world. As an undergraduate student, I learned the language and tools that allow me to explore and question our interactions with space and place. My research interests are influenced by my upbringing in Chicago as a Polish-American, as well as my recent years living in rural Vermont. This means I’m passionate about public spaces, immigrant place-making, and, of course, hot dog stands.
+Long before I took my first geography class, I had gravitated toward learning about people, societies, and their relationships with the physical world. As an undergraduate student, I learned the language and tools that allow me to explore and question our interactions with space and place. My research interests are influenced by my upbringing in Chicago as a Polish-American, as well as my recent years living in rural Vermont. This means I’m passionate about public spaces, immigrant place-making, and, of course, hot dog stands.
 
 I am also deeply passionate about map design! The practice of representing spatial data is a central aspect of my work as a geographer, as I aim to create maps that are accessible, thought-provoking, and engaging.
 
