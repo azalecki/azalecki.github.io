@@ -16,17 +16,11 @@ images:
 ## Forest Preserves of the Far Northwest Side
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--one">
-  <a href="assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide2.jpg"
-    data-pswp-width="761"
-    data-pswp-height="2576"
-    target="_blank">
-  <img src="assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk.jpg" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
-</a>
-  <a href="assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide-02.jpg"
-  data-pswp-width="2121"
+ <a href="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide.jpg' | relative_url }}"
+  data-pswp-width="761"
   data-pswp-height="2576"
   target="_blank">
-  <img src="assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide-02.jpg" alt="Map legend for the forest preserves of the Far Northwest Side, Chicago" />
+  <img src="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk.png' | relative_url }}" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
 </a>
 </div>
 
