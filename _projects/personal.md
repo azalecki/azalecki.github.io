@@ -20,7 +20,14 @@ images:
   data-pswp-width="761"
   data-pswp-height="2576"
   target="_blank">
-  <img src="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk.png' | relative_url }}" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
+  <img src="{{ '/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk2.jpg' | relative_url }}" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
 </a>
+
+<a href="{{ '/assets/img/burlington/novacancies.png' | relative_url }}"
+     data-pswp-width="1600"
+     data-pswp-height="1200"
+     target="_blank">
+    <img src="{{ '/assets/img/burlington/novacancies_shrunk.jpg' | relative_url }}" alt="Description of second image" />
+  </a>
 </div>
 
