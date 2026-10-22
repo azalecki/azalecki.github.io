@@ -31,37 +31,25 @@ category: cartography
 
 <div class="pswp-gallery" id="gallery--personal">
 
-  <a href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide2.png"
+  <a href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_medium.png"
      data-pswp-width="761"
      data-pswp-height="2576"
      target="_blank">
-    <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_shrunk2.jpg" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
+    <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_low.png" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
     <span class="pswp-caption-content">
       <strong>Forest Preserves of the Far Northwest Side</strong><br>
       Your caption text here: what the map shows, data sources, tools used.
     </span>
   </a>
 
-  <a href="/assets/img/burlington/novacancies_large.jpg"
+  <a href="/assets/img/burlington/novacancies_medium.jpg"
      data-pswp-width="3000"
      data-pswp-height="4305"
-     data-download-url="/assets/img/burlington/novacancies.png"
+     data-download-url="/assets/img/burlington/novacancies_low.png"
      target="_blank">
     <img src="/assets/img/burlington/novacancies_shrunk.jpg" alt="Map: Sorry, No Vacancies, a geography of Burlington's housing crisis" />
     <span class="pswp-caption-content">
       <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
-      Your caption text here.
-    </span>
-  </a>
-
-  <a href="/assets/img/vturbanforms/vturbanforms_large.jpg"
-     data-pswp-width="3000"
-     data-pswp-height="5000"
-     data-download-url="/assets/img/vturbanforms/vturbanforms.png"
-     target="_blank">
-    <img src="/assets/img/vturbanforms/vturbanforms_shrunk.jpg" alt="Map: The Various Urban Forms of Vermont, figure grounds of twelve Vermont towns" />
-    <span class="pswp-caption-content">
-      <strong>The Various Urban Forms of Vermont</strong><br>
       Your caption text here.
     </span>
   </a>
