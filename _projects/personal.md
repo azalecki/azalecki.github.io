@@ -22,7 +22,9 @@ category: cartography
 }
 .pswp-gallery img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 4 / 5;      /* thumbnail shape: change to 1 / 1, 4 / 3, etc. */
+  object-fit: cover;        /* crops to fill the shape instead of squishing */
+  object-position: top;     /* keeps the top of each map (title area) visible */
   border-radius: 4px;
   display: block;
 }
