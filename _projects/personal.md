@@ -32,8 +32,8 @@ category: cartography
 <div class="pswp-gallery" id="gallery--personal">
 
   <a href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_medium.png"
-     data-pswp-width="761"
-     data-pswp-height="2576"
+     data-pswp-width="1950"
+     data-pswp-height="6600"
      target="_blank">
     <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_low.png" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
     <span class="pswp-caption-content">
@@ -42,65 +42,30 @@ category: cartography
     </span>
   </a>
 
-  <a href="/assets/img/burlington/novacancies_medium.jpg"
-     data-pswp-width="3000"
-     data-pswp-height="4305"
-     data-download-url="/assets/img/burlington/novacancies_low.png"
+  <a href="/assets/img/other/southhero_medium.png"
+     data-pswp-width="1650"
+     data-pswp-height="2550"
      target="_blank">
-    <img src="/assets/img/burlington/novacancies_shrunk.jpg" alt="Map: Sorry, No Vacancies, a geography of Burlington's housing crisis" />
+    <img src="/assets/img/other/southhero_low.png" alt="Map of South Hero Island, Vermont" />
     <span class="pswp-caption-content">
-      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
-      Your caption text here.
+      <strong>Map of South Hero Island, Vermont</strong><br>
+      Your caption text here: what the map shows, data sources, tools used.
+    </span>
+  </a>
+
+  <a href="/assets/img/vtform/ruralforms_medium.png"
+     data-pswp-width="1650"
+     data-pswp-height="2550"
+     target="_blank">
+    <img src="/assets/img/vtform/ruralforms_low.png" alt="Map Vermont Town Figure Grounds" />
+    <span class="pswp-caption-content">
+      <strong>Map Vermont Town Figure Grounds</strong><br>
+      Your caption text here: what the map shows, data sources, tools used.
     </span>
   </a>
 
 </div>
 
 <script type="module">
-  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js';
-  import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js';
-  import PhotoSwipeDynamicCaption from 'https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.esm.js';
-
-  const lightbox = new PhotoSwipeLightbox({
-    gallery: '#gallery--personal',
-    children: 'a',
-    pswpModule: PhotoSwipe
-  });
-
-  // Caption plugin (must be added before lightbox.init())
-  const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
-    type: 'auto'
-  });
-
-  // Download button: saves the full-res file named in data-download-url
-  lightbox.on('uiRegister', function () {
-    lightbox.pswp.ui.registerElement({
-      name: 'download-full',
-      order: 8,
-      isButton: true,
-      tagName: 'a',
-      html: {
-        isCustomSVG: true,
-        inner: '<path d="M20.5 14.3 17.1 18V10h-2.2v7.9l-3.4-3.6L10 16l6 6.1 6-6.1ZM23 23H9v2h14Z" id="pswp__icn-download"/>',
-        outlineID: 'pswp__icn-download'
-      },
-      onInit: (el, pswp) => {
-        el.setAttribute('download', '');
-        el.setAttribute('target', '_blank');
-        el.setAttribute('rel', 'noopener');
-        pswp.on('change', () => {
-          const url = pswp.currSlide.data.element?.dataset.downloadUrl;
-          el.href = url || pswp.currSlide.data.src;
-        });
-      }
-    });
-  });
-
-  lightbox.init();
-</script>
-      }
-    });
-  });
-
-  lightbox.init();
+  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photosw
 </script>
