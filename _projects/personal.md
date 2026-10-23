@@ -12,13 +12,16 @@ category: cartography
 
 <style>
 .pswp-gallery {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 15px;
+  align-items: start; /* keeps short images from stretching to match tall ones */
+}
+.pswp-gallery a {
+  display: block;
 }
 .pswp-gallery img {
-  width: 500px;
-  max-width: 100%;
+  width: 100%;
   height: auto;
   border-radius: 4px;
   display: block;
@@ -54,8 +57,8 @@ category: cartography
   </a>
 
   <a href="/assets/img/vtform/ruralforms_medium.png"
-     data-pswp-width="1650"
-     data-pswp-height="2550"
+     data-pswp-width="2700"
+     data-pswp-height="4500"
      target="_blank">
     <img src="/assets/img/vtform/ruralforms_low.png" alt="Map Vermont Town Figure Grounds" />
     <span class="pswp-caption-content">
@@ -67,5 +70,20 @@ category: cartography
 </div>
 
 <script type="module">
-  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photosw
+  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js';
+  import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js';
+  import PhotoSwipeDynamicCaption from 'https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.esm.js';
+
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: '#gallery--personal',
+    children: 'a',
+    pswpModule: PhotoSwipe
+  });
+
+  // Caption plugin (must be added before lightbox.init())
+  const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+    type: 'auto'
+  });
+
+  lightbox.init();
 </script>
