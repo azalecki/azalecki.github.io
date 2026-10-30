@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://azalecki.github.io/al-folio/sitemap.xml
