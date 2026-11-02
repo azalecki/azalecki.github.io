@@ -34,17 +34,6 @@ category: maps
 
 <div class="pswp-gallery" id="gallery--personal">
 
-  <a href="/assets/img/burlington/Burlington_medium.png"
-     data-pswp-width="2900"
-     data-pswp-height="4161"
-     target="_blank">
-    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
-    <span class="pswp-caption-content">
-      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
-    </span>
-  </a>
-
   <a href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_medium.png"
      data-pswp-width="1950"
      data-pswp-height="6600"
@@ -52,6 +41,17 @@ category: maps
     <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_low.png" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
     <span class="pswp-caption-content">
       <strong>Forest Preserves of the Far Northwest Side</strong><br>
+      Your caption text here: what the map shows, data sources, tools used.
+    </span>
+  </a>
+
+  <a href="/assets/img/burlington/Burlington_medium.png"
+     data-pswp-width="2900"
+     data-pswp-height="4161"
+     target="_blank">
+    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
+    <span class="pswp-caption-content">
+      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
       Your caption text here: what the map shows, data sources, tools used.
     </span>
   </a>
