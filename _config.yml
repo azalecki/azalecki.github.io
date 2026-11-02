@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <strong> Ola Zalecki </strong> # the website title (if blank, full name will be used instead)
-first_name: 
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Ola
 middle_name: 
-last_name: 
+last_name: Zalecki
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
