@@ -4,7 +4,7 @@ title: Commissioned
 description: Projects that come from someone else's brain
 img: assets/img/thumbnails/forestpreserve_crop.png
 importance: 6
-category: cartography
+category: maps
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
