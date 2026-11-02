@@ -56,11 +56,11 @@ category: maps
     </span>
   </a>
 
-  <a href="/assets/img/other/southhero_medium.png"
+  <a href="/assets/img/southhero/southhero_medium.png"
      data-pswp-width="1650"
      data-pswp-height="2550"
      target="_blank">
-    <img src="/assets/img/other/southhero_low.png" alt="Map of South Hero Island, Vermont" />
+    <img src="/assets/img/southhero/southhero_low.png" alt="Map of South Hero Island, Vermont" />
     <span class="pswp-caption-content">
       <strong>Map of South Hero Island, Vermont</strong><br>
       Your caption text here: what the map shows, data sources, tools used.
@@ -89,11 +89,11 @@ category: maps
     </span>
   </a>
 
-  <a href="/assets/img/other/UndertheTexasSun.jpg"
+  <a href="/assets/img/texassun/UndertheTexasSun.jpg"
      data-pswp-width="2576"
      data-pswp-height="1503"
      target="_blank">
-    <img src="/assets/img/other/UndertheTexasSun_low.jpg" alt="Under the Texas Sun" />
+    <img src="/assets/img/texassun/UndertheTexasSun_low.jpg" alt="Under the Texas Sun" />
     <span class="pswp-caption-content">
       <strong>Under the Texas Sun</strong><br>
       Your caption text here: what the map shows, data sources, tools used.
