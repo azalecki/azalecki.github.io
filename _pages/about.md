@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-WEBSITE IS CURRENTLY UNDER CONSTRUCTION, SORRY
+<strong> WEBSITE IS CURRENTLY UNDER CONSTRUCTION, SORRY </strong>
 
 **Hello!** *Witam!*
 My name is Ola Zalecki, and welcome to my portfolio site.
