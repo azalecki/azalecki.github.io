@@ -1,22 +1,28 @@
 - institution: Middlebury College
   courses:
-    - title: Vision-Language Models
-      term: "Summer 2025: Speaker"
+    - title: Human Geography with GIS
+      code: GEOG 0261
+      term: "Summer 2025: ASI"
       details:
-        - "Taught a lecture on Vision-Language Models ([slides](/assets/pdf/VLM-lecture-EEML-2025.pdf))."
-        - "Student mentoring."
-    - title: Introduction to Machine Learning
-      code: 10-701
-      term: "Spring 2018: Teaching Assistant"
+        - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit tellus et dui egestas, non porta augue aliquet. Vivamus mollis tellus vel felis consequat, sit.
+    - title: Mapping Global Envrn Change
+      code: GEOG 0251
+      term: "Spring 2018: ASI"
       details:
-        - "Graduate-level introduction to machine learning, taught by [Prof. Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/) and [Prof. Manuela Veloso](https://www.cs.cmu.edu/~mmv/)."
-        - "I mentored project groups, held recitations, and created and graded homeworks and exams."
-        - "Awarded a Machine Learning Department [Teaching Assistant Award](https://www.ml.cmu.edu/news/news-archive/2018/may/machine-learning-ta-awards-2018.html)."
-        - "Course materials can be found [here](http://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/)."
-    - title: Topics in Deep Learning
-      code: 10-707
-      term: "Fall 2017: Teaching Assistant"
+        - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit tellus et dui egestas, non porta augue aliquet. Vivamus mollis tellus vel felis consequat, sit.
+    - title: Cartography
+      code: GEOG 0271
+      term: "Fall 2017: ASI"
       details:
-        - "Graduate-level course taught by [Prof. Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)."
-        - "I mentored project groups and graded homeworks and exams."
+        - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit tellus et dui egestas, non porta augue aliquet. Vivamus mollis tellus vel felis consequat, sit.
+    - title: GIS & Natural Environment
+      code: GEOG 0252
+      term: "Fall 2017: ASI"
+      details:
+        - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit tellus et dui egestas, non porta augue aliquet. Vivamus mollis tellus vel felis consequat, sit.
+    - title: Placebased Data Analysis
+      code: GEOG 0281
+      term: "Fall 2017: ASI"
+      details:
+        - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit tellus et dui egestas, non porta augue aliquet. Vivamus mollis tellus vel felis consequat, sit.
 
