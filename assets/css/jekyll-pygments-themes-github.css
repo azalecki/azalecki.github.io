@@ -27,12 +27,7 @@
 .highlight .c1 {
   color: #999988;
   font-style: italic;
-} /* Comment.Single */
-.highlight .cs {
-  color: #999999;
-  font-weight: bold;
-  font-style: italic;
-} /* Comment.Special */
+} /* Comment.Single */ /* Comment.Special */
 .highlight .gd {
   color: #000000;
   background-color: #ffdddd;

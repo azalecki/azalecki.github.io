@@ -43,12 +43,7 @@
 .highlight .c1 {
   color: #999999;
   font-style: italic;
-} /* Comment.Single */
-.highlight .cs {
-  color: #e50808;
-  font-weight: bold;
-  background-color: #520000;
-} /* Comment.Special */
+} /* Comment.Single */ /* Comment.Special */
 .highlight .gd {
   color: #d22323;
 } /* Generic.Deleted */
