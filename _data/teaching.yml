@@ -1,0 +1,22 @@
+- institution: Middlebury College
+  courses:
+    - title: Vision-Language Models
+      term: "Summer 2025: Speaker"
+      details:
+        - "Taught a lecture on Vision-Language Models ([slides](/assets/pdf/VLM-lecture-EEML-2025.pdf))."
+        - "Student mentoring."
+    - title: Introduction to Machine Learning
+      code: 10-701
+      term: "Spring 2018: Teaching Assistant"
+      details:
+        - "Graduate-level introduction to machine learning, taught by [Prof. Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/) and [Prof. Manuela Veloso](https://www.cs.cmu.edu/~mmv/)."
+        - "I mentored project groups, held recitations, and created and graded homeworks and exams."
+        - "Awarded a Machine Learning Department [Teaching Assistant Award](https://www.ml.cmu.edu/news/news-archive/2018/may/machine-learning-ta-awards-2018.html)."
+        - "Course materials can be found [here](http://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/)."
+    - title: Topics in Deep Learning
+      code: 10-707
+      term: "Fall 2017: Teaching Assistant"
+      details:
+        - "Graduate-level course taught by [Prof. Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)."
+        - "I mentored project groups and graded homeworks and exams."
+
