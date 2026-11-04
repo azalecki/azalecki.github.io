@@ -23,9 +23,7 @@ category: maps
 }
 .pswp-gallery img {
   width: 100%;
-  aspect-ratio: 1/1;
-  object-fit: cover;
-  object-position: top;
+  height: auto;
   border-radius: 4px;
   display: block;
 }

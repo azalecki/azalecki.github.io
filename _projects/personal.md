@@ -45,17 +45,6 @@ category: maps
     </span>
   </a>
 
-  <a href="/assets/img/burlington/Burlington_medium.png"
-     data-pswp-width="2900"
-     data-pswp-height="4161"
-     target="_blank">
-    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
-    <span class="pswp-caption-content">
-      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
-    </span>
-  </a>
-
   <a href="/assets/img/southhero/southhero_medium.png"
      data-pswp-width="1650"
      data-pswp-height="2550"
@@ -63,6 +52,17 @@ category: maps
     <img src="/assets/img/southhero/southhero_low.png" alt="Map of South Hero Island, Vermont" />
     <span class="pswp-caption-content">
       <strong>Map of South Hero Island, Vermont</strong><br>
+      Your caption text here: what the map shows, data sources, tools used.
+    </span>
+  </a>
+
+  <a href="/assets/img/burlington/Burlington_medium.png"
+     data-pswp-width="2900"
+     data-pswp-height="4161"
+     target="_blank">
+    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
+    <span class="pswp-caption-content">
+      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
       Your caption text here: what the map shows, data sources, tools used.
     </span>
   </a>
