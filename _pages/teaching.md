@@ -6,6 +6,24 @@ description: Classes, workshops, and teaching material.
 nav: true
 nav_order: 4
 ---
+
+<style>
+.course-badge {
+  display: inline-block;
+  background-color: var(--global-theme-color);
+  color: #fff;
+  padding: 0.35em 0.65em;
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+a:hover .course-badge {
+  opacity: 0.85;
+}
+</style>
+
 {% for inst in site.data.teaching %}
 <h3 class="mt-4">{{ inst.institution }}</h3>
 
@@ -16,9 +34,9 @@ nav_order: 4
       <h5 class="font-weight-bold">{{ course.title }}</h5>
       {% if course.code %}
         {% if course.url %}
-          <a href="{{ course.url }}" target="_blank" class="text-decoration-none"><span class="badge bg-success">{{ course.code }}</span></a>
+          <a href="{{ course.url }}" target="_blank" class="text-decoration-none"><span class="course-badge">{{ course.code }}</span></a>
         {% else %}
-          <span class="badge bg-success">{{ course.code }}</span>
+          <span class="course-badge">{{ course.code }}</span>
         {% endif %}
       {% endif %}
     </div>
