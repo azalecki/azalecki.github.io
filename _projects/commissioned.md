@@ -80,7 +80,7 @@ category: maps
      target="_blank">
     <img src="/assets/img/shipwrecks/Locator_ab.png" alt="Description of image 1" />
     <span class="pswp-caption-content">
-      <strong>Image 1 title</strong><br>Caption text here.
+      <strong>Nicaragua Globe Locator</strong><br>Caption text here.
     </span>
   </a>
 
@@ -89,7 +89,7 @@ category: maps
      target="_blank">
     <img src="/assets/img/shipwrecks/NicaraguaRoute.png" alt="Description of image 1" />
     <span class="pswp-caption-content">
-      <strong>Image 1 title</strong><br>Caption text here.
+      <strong>Steamship Routes</strong><br>Caption text here.
     </span>
   </a>
 
@@ -98,7 +98,7 @@ category: maps
      target="_blank">
     <img src="/assets/img/shipwrecks/RioSanJuan.png" alt="Description of image 2" />
     <span class="pswp-caption-content">
-      <strong>Image 2 title</strong><br>Caption text here.
+      <strong>Journey of the Orus</strong><br>Caption text here.
     </span>
   </a>
 
