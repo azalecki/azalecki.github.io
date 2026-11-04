@@ -10,23 +10,24 @@ category: maps
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
 
+
 <style>
 .pswp-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 15px;
-  align-items: start;
-  margin-bottom: 2rem; /* space between a gallery and the next heading */
+  column-count: 2;   /* as many ~260px columns as fit: 3 on desktop, 2 on tablet, 1 on phone */
+  column-gap: 15px;
 }
 .pswp-gallery a {
   display: block;
+  margin-bottom: 15px;
+  break-inside: avoid;   /* keeps each image from splitting across columns */
 }
 .pswp-gallery img {
   width: 100%;
-  height: auto;
+  height: auto;          /* natural aspect ratio, no cropping */
   border-radius: 4px;
   display: block;
 }
+/* Captions live in the HTML but are only shown inside the lightbox */
 .pswp-caption-content {
   display: none;
 }
@@ -36,15 +37,6 @@ category: maps
 ## Mapping Middlebury College Lands
 
 <div class="pswp-gallery">
-
-  <a href="/assets/img/collegelands/ChipmanHill_medium.png"
-     data-pswp-width="3000" data-pswp-height="2120" data-cropped="true"
-     target="_blank">
-    <img src="/assets/img/collegelands/ChipmanHill_medium.png" alt="Description of image 4" />
-    <span class="pswp-caption-content">
-      <strong>Image 4 title</strong><br>Caption text here.
-    </span>
-  </a>
 
   <a href="/assets/img/collegelands/_medium_.png"
      data-pswp-width="2120" data-pswp-height="3000" data-cropped="true"
@@ -59,6 +51,15 @@ category: maps
      data-pswp-width="2120" data-pswp-height="3000" data-cropped="true"
      target="_blank">
     <img src="/assets/img/collegelands/QuesnelFarm_medium.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
+
+  <a href="/assets/img/collegelands/ChipmanHill_medium.png"
+     data-pswp-width="3000" data-pswp-height="2120" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/collegelands/ChipmanHill_medium.png" alt="Description of image 4" />
     <span class="pswp-caption-content">
       <strong>Image 4 title</strong><br>Caption text here.
     </span>
