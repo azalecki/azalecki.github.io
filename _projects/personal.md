@@ -12,7 +12,7 @@ category: maps
 
 <style>
 .pswp-gallery {
-  column-width: 260px;   /* as many ~260px columns as fit: 3 on desktop, 2 on tablet, 1 on phone */
+  column-count: 2;   /* as many ~260px columns as fit: 3 on desktop, 2 on tablet, 1 on phone */
   column-gap: 15px;
 }
 .pswp-gallery a {
