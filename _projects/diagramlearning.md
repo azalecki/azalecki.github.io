@@ -6,6 +6,7 @@ img: assets/img/thumbnails/balancedDesign_crop.png
 importance: 1
 category: other
 ---
+Teaching GIS concepts often requires visuals. Sometimes those visuals don't exist on line and if they do they might be proprietary. One of the roles that I picked up in recent years has been illustrating certain concepts that we can't find visuals for or that are unique to the way that we teach GIS. Below you will find a selection of some of the illustrations and maps that I have produced for the course Human Geography with GIS: GEOG0261. Some of these illustrations live in our course manual while others in lab handouts, question sets, slides, etc. Some illustrations are used for exams and other assessments that I cannot freely distribute. For a full selection, please email me! 
 
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
