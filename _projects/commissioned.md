@@ -13,13 +13,16 @@ category: maps
 
 <style>
 .pswp-gallery {
-  column-count: 2;   /* as many ~260px columns as fit: 3 on desktop, 2 on tablet, 1 on phone */
+  column-count: 2;       /* always 2 columns */
   column-gap: 15px;
 }
 .pswp-gallery a {
   display: block;
   margin-bottom: 15px;
   break-inside: avoid;   /* keeps each image from splitting across columns */
+}
+.pswp-gallery a.wide {
+  column-span: all;      /* landscape maps stretch across the full gallery width */
 }
 .pswp-gallery img {
   width: 100%;
@@ -38,7 +41,7 @@ category: maps
 
 <div class="pswp-gallery">
 
-  <a href="/assets/img/collegelands/_medium_.png"
+  <a href="/assets/img/collegelands/LussierFarm_medium.png"
      data-pswp-width="2120" data-pswp-height="3000" data-cropped="true"
      target="_blank">
     <img src="/assets/img/collegelands/LussierFarm_medium.png" alt="Description of image 4" />
@@ -57,6 +60,7 @@ category: maps
   </a>
 
   <a href="/assets/img/collegelands/ChipmanHill_medium.png"
+     class="wide"
      data-pswp-width="3000" data-pswp-height="2120" data-cropped="true"
      target="_blank">
     <img src="/assets/img/collegelands/ChipmanHill_medium.png" alt="Description of image 4" />
@@ -64,7 +68,6 @@ category: maps
       <strong>Image 4 title</strong><br>Caption text here.
     </span>
   </a>
-
 
 </div>
 
