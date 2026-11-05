@@ -94,6 +94,7 @@ category: maps
   </a>
 
   <a href="/assets/img/shipwrecks/RioSanJuan.png"
+    class="wide"
      data-pswp-width="3334" data-pswp-height="1917" data-cropped="true"
      target="_blank">
     <img src="/assets/img/shipwrecks/RioSanJuan.png" alt="Description of image 2" />
