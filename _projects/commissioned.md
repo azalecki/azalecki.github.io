@@ -75,21 +75,21 @@ category: maps
 
 <div class="pswp-gallery">
 
-  <a href="/assets/img/shipwrecks/Locator_ab.png"
-     data-pswp-width="2480" data-pswp-height="2480" data-cropped="true"
-     target="_blank">
-    <img src="/assets/img/shipwrecks/Locator_ab.png" alt="Description of image 1" />
-    <span class="pswp-caption-content">
-      <strong>Nicaragua Globe Locator</strong><br>Caption text here.
-    </span>
-  </a>
-
   <a href="/assets/img/shipwrecks/NicaraguaRoute.png"
      data-pswp-width="3509" data-pswp-height="2480" data-cropped="true"
      target="_blank">
     <img src="/assets/img/shipwrecks/NicaraguaRoute.png" alt="Description of image 1" />
     <span class="pswp-caption-content">
       <strong>Steamship Routes</strong><br>Caption text here.
+    </span>
+  </a>
+
+  <a href="/assets/img/shipwrecks/Locator_ab.png"
+     data-pswp-width="2480" data-pswp-height="2480" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/shipwrecks/Locator_ab.png" alt="Description of image 1" />
+    <span class="pswp-caption-content">
+      <strong>Nicaragua Globe Locator</strong><br>Caption text here.
     </span>
   </a>
 
@@ -114,7 +114,7 @@ I joined the "Global Atlas Team" as a cartographer/research assistant tasked wit
 <div class="pswp-gallery">
 
   <a href="/assets/img/atlas/covidcases_medium.png"
-     data-pswp-width="2000" data-pswp-height="3000" data-cropped="true"
+     data-pswp-width="3000" data-pswp-height="1799" data-cropped="true"
      target="_blank">
     <img src="/assets/img/atlas/covidcases_medium.png" alt="Description of image 4" />
     <span class="pswp-caption-content">
@@ -123,7 +123,7 @@ I joined the "Global Atlas Team" as a cartographer/research assistant tasked wit
   </a>
 
   <a href="/assets/img/atlas/euromigration_medium.png"
-     data-pswp-width="2000" data-pswp-height="3000" data-cropped="true"
+     data-pswp-width="3000" data-pswp-height="1799" data-cropped="true"
      target="_blank">
     <img src="/assets/img/atlas/euromigration_medium.png" alt="Description of image 4" />
     <span class="pswp-caption-content">
@@ -132,7 +132,7 @@ I joined the "Global Atlas Team" as a cartographer/research assistant tasked wit
   </a>
 
   <a href="/assets/img/atlas/waterpollution_medium.png"
-     data-pswp-width="2000" data-pswp-height="3000" data-cropped="true"
+     data-pswp-width="3000" data-pswp-height="1799" data-cropped="true"
      target="_blank">
     <img src="/assets/img/atlas/waterpollution_medium.png" alt="Description of image 4" />
     <span class="pswp-caption-content">
@@ -141,7 +141,7 @@ I joined the "Global Atlas Team" as a cartographer/research assistant tasked wit
   </a>
 
   <a href="/assets/img/atlas/religion_medium.png"
-     data-pswp-width="2000" data-pswp-height="3000" data-cropped="true"
+     data-pswp-width="3000" data-pswp-height="1799" data-cropped="true"
      target="_blank">
     <img src="/assets/img/atlas/religion_medium.png" alt="Description of image 4" />
     <span class="pswp-caption-content">
