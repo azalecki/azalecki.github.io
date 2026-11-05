@@ -7,50 +7,71 @@ importance: 2
 category: other
 ---
 
-<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css"> <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css"> 
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
+<link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
+
 
 <style>
 .pswp-gallery {
-  column-width: 220px;
+  column-count: 2;       /* always 2 columns */
   column-gap: 15px;
-  margin-bottom: 2rem;
 }
 .pswp-gallery a {
   display: block;
-  break-inside: avoid;
   margin-bottom: 15px;
+  break-inside: avoid;   /* keeps each image from splitting across columns */
+}
+.pswp-gallery a.wide {
+  column-span: all;      /* landscape maps stretch across the full gallery width */
 }
 .pswp-gallery img {
   width: 100%;
-  height: auto;
+  height: auto;          /* natural aspect ratio, no cropping */
   border-radius: 4px;
   display: block;
 }
+/* Captions live in the HTML but are only shown inside the lightbox */
 .pswp-caption-content {
   display: none;
 }
 </style>
+
+
 ## Studio Portrait and Still Life Diptych
 
 <div class="pswp-gallery">
 
-<a href="/assets/img/photography/portrait.jpg" 
-data-pswp-width="1763" 
-data-pswp-height="2576" 
-target="_blank"> 
-<img src="/assets/img/photography/portrait.jpg" alt="Studio portrait of a person" /> <span class="pswp-caption-content"> 
-  <strong>Image 4 title</strong><br>Caption text here. 
-</span> 
-</a>
+  <a href="/assets/img/photography/portrait.jpg"
+     data-pswp-width="2550" data-pswp-height="3300" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/portrait.jpg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
 
-<a href="/assets/img/photography/stilllife.jpg" 
-data-pswp-width="1763" 
-data-pswp-height="2576" 
-target="_blank"> 
-<img src="/assets/img/photography/stilllife.jpg" alt="Studio still life arrangement" /> <span class="pswp-caption-content"> 
-<strong>Image 4 title</strong><br>Caption text here. 
-</span> 
-</a>
+  <a href="/assets/img/photography/stilllife.jpg"
+     data-pswp-width="1763" data-pswp-height="2576" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/stilllife.jpg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
+
+</div>
+
+## Time Series
+<div class="pswp-gallery">
+
+  <a href="/assets/img/photography/LongformLayout.png"
+     data-pswp-width="4000" data-pswp-height="2546" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/LongformLayout.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
 
 </div>
 
@@ -59,71 +80,58 @@ Create a photo series In the Style of a Photographer. Replicate one image by tha
 
 In addition to the series, prepare a one minute presentation on the photographer, introducing their work, biographical information, and identifying major aspects of their technique and style. You will present this material before your critique.
 
+
 <div class="pswp-gallery">
 
-<a href="/assets/img/photography/inthestyle1.jpg" 
-data-pswp-width="3509" 
-data-pswp-height="2576" 
-target="_blank"> 
-<img src="/assets/img/photography/inthestyle1.jpg" alt="First photograph made in the style of a studied photographer" /> <span class="pswp-caption-content"> 
-<strong>Image 1 title</strong><br>Caption text here. 
-</span> 
-</a>
+  <a href="/assets/img/photography/inthestyle1_57.jpg"
+     data-pswp-width="2601" data-pswp-height="3642" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/inthestyle1_57.jpg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
 
-<a href="/assets/img/photography/inthestyle2.jpg" 
-data-pswp-width="2060" 
-data-pswp-height="2576" 
-target="_blank"> 
-<img src="/assets/img/photography/inthestyle2.jpg" alt="Second photograph made in the style of a studied photographer" /> <span class="pswp-caption-content"> 
-<strong>Image 2 title</strong><br>Caption text here. 
-</span> 
-</a>
+  <a href="/assets/img/photography/inthestyle2_57.jpg"
+     data-pswp-width="2601" data-pswp-height="3642" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/inthestyle2_57.jpg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
+
 
 </div>
 
-## Final Projects
+
+## Final Project
+
 <div class="pswp-gallery">
 
-<a href="/assets/img/photography/pairwalking.jpg" 
-data-pswp-width="3300" 
-data-pswp-height="4950" 
-target="_blank"> 
-<img src="/assets/img/photography/pairwalking.jpg" alt="Two people walking together" /> <span class="pswp-caption-content"> <strong>Image 1 title</strong><br>Caption text here. </span> </a>
+  <a href="/assets/img/photography/final_layout_medium.png"
+     data-pswp-width="6630" data-pswp-height="6036" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/final_layout_medium.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
 
-<a href="/assets/img/photography/bikes.jpg" 
-data-pswp-width="2048" 
-data-pswp-height="1365" 
-target="_blank"> 
-<img src="/assets/img/photography/bikes.jpg" alt="A row of parked bicycles" /> <span class="pswp-caption-content"> <strong>Image 2 title</strong><br>Caption text here. </span> </a>
+<script type="module">
+  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js';
+  import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js';
+  import PhotoSwipeDynamicCaption from 'https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.esm.js';
 
-<a href="/assets/img/photography/jerseys.jpg" 
-data-pswp-width="1365" 
-data-pswp-height="2048" 
-target="_blank"> 
-<img src="/assets/img/photography/jerseys.jpg" alt="Sports jerseys on display" /> <span class="pswp-caption-content"> <strong>Image 3 title</strong><br>Caption text here. </span> </a>
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: '.pswp-gallery',   // class selector: every matching div becomes its own gallery
+    children: 'a',
+    pswpModule: PhotoSwipe
+  });
 
-<a href="/assets/img/photography/birds.jpg" 
-data-pswp-width="2048" 
-data-pswp-height="1365" 
-target="_blank"> 
-<img src="/assets/img/photography/birds.jpg" alt="Birds perched or in flight" /> <span class="pswp-caption-content"> <strong>Image 4 title</strong><br>Caption text here. </span> </a>
+  const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+    type: 'auto'
+  });
 
-<a href="/assets/img/photography/ninetyninecents.jpg" 
-data-pswp-width="2400" 
-data-pswp-height="1600" 
-target="_blank"> 
-<img src="/assets/img/photography/ninetyninecents.jpg" alt="Storefront with a 99 cents sign" /> <span class="pswp-caption-content"> <strong>Image 5 title</strong><br>Caption text here. </span> </a>
-
-<a href="/assets/img/photography/nun.jpg" 
-data-pswp-width="3456" 
-data-pswp-height="5184" 
-target="_blank"> 
-<img src="/assets/img/photography/nun.jpg" alt="A nun in a habit" /> <span class="pswp-caption-content"> <strong>Image 6 title</strong><br>Caption text here. </span> </a>
-
-<a href="/assets/img/photography/singlemanwalking.jpg" 
-data-pswp-width="3150" 
-data-pswp-height="2100" 
-target="_blank"> 
-<img src="/assets/img/photography/singlemanwalking.jpg" alt="A man walking alone" /> <span class="pswp-caption-content"> <strong>Image 7 title</strong><br>Caption text here. </span> </a>
-
-</div>
+  lightbox.init();
+</script>
