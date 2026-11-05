@@ -47,7 +47,7 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
     <img src="/assets/img/gisart/figureground.png" alt="badFG" />
     <span class="pswp-caption-content">
       <strong>Bad Example of Figure Ground</strong><br>
-      To demonstrate the difference between a map with good figure-ground contrast and one with poor figure ground-contrast, I developed these maps. The mapped elements are the same but one makes strategic style decisions to improve figure ground. Students are asked to identify these stylistic choices and consider how it affects the visual hierarchy and legibility of the map. 
+      To demonstrate the difference between a map with good figure-ground contrast and one with poor figure ground-contrast, I developed these maps. The mapped elements are the same but one makes strategic style decisions to improve figure ground.<br> Students are asked to identify these stylistic choices and consider how it affects the visual hierarchy and legibility of the map. 
     </span>
   </a>
 
