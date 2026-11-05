@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal
-description: Projects that come from my brain
+description: 
 img: assets/img/thumbnails/forestpreserve_crop.png
 importance: 6
 category: maps
