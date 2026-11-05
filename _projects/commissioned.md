@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Commissioned
-description: 
+description: custom work made to order
 img: assets/img/thumbnails/farm_crop.png
 importance: 6
 category: maps

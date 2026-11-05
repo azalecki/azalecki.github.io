@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal
-description: 
+description: self-directed work
 img: assets/img/thumbnails/forestpreserve_crop.png
 importance: 6
 category: maps
