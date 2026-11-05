@@ -76,7 +76,7 @@ category: maps
 <div class="pswp-gallery">
 
   <a href="/assets/img/shipwrecks/Locator_ab.png"
-     data-pswp-width="3000" data-pswp-height="3000" data-cropped="true"
+     data-pswp-width="2480" data-pswp-height="2480" data-cropped="true"
      target="_blank">
     <img src="/assets/img/shipwrecks/Locator_ab.png" alt="Description of image 1" />
     <span class="pswp-caption-content">
