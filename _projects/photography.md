@@ -65,6 +65,7 @@ category: other
 <div class="pswp-gallery">
 
   <a href="/assets/img/photography/LongformLayout.png"
+     class="wide"
      data-pswp-width="4000" data-pswp-height="2546" data-cropped="true"
      target="_blank">
     <img src="/assets/img/photography/LongformLayout.png" alt="Description of image 4" />
@@ -110,6 +111,7 @@ In addition to the series, prepare a one minute presentation on the photographer
 <div class="pswp-gallery">
 
   <a href="/assets/img/photography/final_layout_medium.png"
+     class="wide" 
      data-pswp-width="6630" data-pswp-height="6036" data-cropped="true"
      target="_blank">
     <img src="/assets/img/photography/final_layout_medium.png" alt="Description of image 4" />
