@@ -31,29 +31,23 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
 .pswp-caption-content {
   display: none;
 }
+/* Make bold text in captions match the caption color */
+.pswp-caption-content strong,
+.pswp__dynamic-caption strong {
+  color: inherit;
+}
 </style>
 
 <div class="pswp-gallery" id="gallery--personal">
 
-  <a href="/assets/img/gisart/badFG.png"
-     data-pswp-width="3509"
-     data-pswp-height="2480"
+  <a href="/assets/img/gisart/figureground.png"
+     data-pswp-width="2550"
+     data-pswp-height="3626"
      target="_blank">
-    <img src="/assets/img/gisart/badFG.png" alt="badFG" />
+    <img src="/assets/img/gisart/figureground.png" alt="badFG" />
     <span class="pswp-caption-content">
       <strong>Bad Example of Figure Ground</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
-    </span>
-  </a>
-
-  <a href="/assets/img/gisart/goodFG.png"
-     data-pswp-width="3509"
-     data-pswp-height="2480"
-     target="_blank">
-     <img src="/assets/img/gisart/goodFG.png" alt="goodFG" />
-    <span class="pswp-caption-content">
-      <strong>Good Example of Figure Ground</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      To demonstrate the difference between a map with good figure-ground contrast and one with poor figure ground-contrast, I developed these maps. The mapped elements are the same but one makes strategic style decisions to improve figure ground. Students are asked to identify these stylistic choices and consider how it affects the visual hierarchy and legibility of the map. 
     </span>
   </a>
 
@@ -64,7 +58,7 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
     <img src="/assets/img/gisart/projected_multi_panel.png" alt="projected_multi_panel" />
     <span class="pswp-caption-content">
       <strong>Multi Panel Projection Layout</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      A series of simple and cohesive map projection diagrams showing possible types of map surfaces. 
     </span>
   </a>
 
@@ -75,7 +69,7 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
     <img src="/assets/img/gisart/Dev_Surf_Secant.png" alt="Dev_Surf_Secant" />
     <span class="pswp-caption-content">
       <strong>Developable Surface of a Secant Case</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      A map projection diagram of the secant developable surface. This diagram is meant to be annotated by students to define where on the developable surface there will be the most/least distortion. 
     </span>
   </a>
 
@@ -86,7 +80,7 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
      <img src="/assets/img/gisart/measureLat.png" alt="measureLat" />
     <span class="pswp-caption-content">
       <strong>Measuring Latitude</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      Diagram of an azimuthal equidistant projection centered on the North Pole. Used in lecture to demonstrate how to measure latitude. 
     </span>
   </a>
 
@@ -97,7 +91,7 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
     <img src="/assets/img/gisart/measureLong.png" alt="measureLong" />
     <span class="pswp-caption-content">
       <strong>Measuring Latitude</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      Diagram of an orthographic map projection centered on the Equator and 73 degrees W. Used in lecture to demonstrate how to measure latitude. 
     </span>
   </a>
 
@@ -108,7 +102,7 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
     <img src="/assets/img/gisart/overlays_all.png" alt="overlays_all" />
     <span class="pswp-caption-content">
       <strong>Overlay Scenarios</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      A series of vector objects(points, lines, polygons) in varied locations. Used in a question set where students are asked to consider different outcomes of overlay tools and geometric predicates.
     </span>
   </a>
 
@@ -119,7 +113,6 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
     <img src="/assets/img/gisart/maup.png" alt="maup" />
     <span class="pswp-caption-content">
       <strong>Modifiable Areal Unit Problem (MAUP) Visual</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
     </span>
   </a>
 
@@ -130,7 +123,7 @@ Teaching GIS concepts often requires visuals. Sometimes those visuals don't exis
     <img src="/assets/img/gisart/balancedDesign.png" alt="balancedDesign" />
     <span class="pswp-caption-content">
       <strong>Quick Guide for Balanced Map Design</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      A visual tool with tips for how to achieve balanced map design.
     </span>
   </a>
 
