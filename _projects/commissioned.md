@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Commissioned
-description: Projects that come from someone else's brain
+description: 
 img: assets/img/thumbnails/farm_crop.png
 importance: 6
 category: maps
