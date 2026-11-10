@@ -36,6 +36,22 @@ category: other
 }
 </style>
 
+## Long Form Study: Light and Time
+Perform a long-form study by photographing the same scene at least 2 different times of day for 6 days. The result will be a series of 12 photographs (you may choose to show more if you wish) depicting the way light defines and informs that scene.
+
+<div class="pswp-gallery">
+
+  <a href="/assets/img/photography/LongformLayout.png"
+     class="wide"
+     data-pswp-width="4000" data-pswp-height="2546" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/LongformLayout.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
+
+</div>
 
 ## Studio Portrait and Still Life Diptych
 
@@ -61,20 +77,6 @@ category: other
 
 </div>
 
-## Time Series
-<div class="pswp-gallery">
-
-  <a href="/assets/img/photography/LongformLayout.png"
-     class="wide"
-     data-pswp-width="4000" data-pswp-height="2546" data-cropped="true"
-     target="_blank">
-    <img src="/assets/img/photography/LongformLayout.png" alt="Description of image 4" />
-    <span class="pswp-caption-content">
-      <strong>Image 4 title</strong><br>Caption text here.
-    </span>
-  </a>
-
-</div>
 
 ## In the Style of
 Create a photo series In the Style of a Photographer. Replicate one image by that photographer and then create 1 more image inspired by that photographer’s style.
