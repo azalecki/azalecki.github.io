@@ -20,16 +20,15 @@ Here, you will find examples of my projects, including interactive maps, static 
 If you'd like to discuss any of my work or collaborate on future projects, feel free to reach out!
 
 - **Email**: aezalecki@gmail.com
-- **LinkedIn**:  [Alexandra (Ola) Zalecki](https://www.linkedin.com/in/alexandrazalecki)
-- **GitHub**:  [azalecki](https://github.com/azalecki)
-
+- **LinkedIn**: [Alexandra (Ola) Zalecki](https://www.linkedin.com/in/alexandrazalecki)
+- **GitHub**: [azalecki](https://github.com/azalecki)
 
 ## How to Navigate the Portfolio
 
 The portfolio is organized into the following sections:
 
 - **Home**: Who am I? Where can you contact me?
-- **Projects**: A growing collection of research projects, cartographic design projects, and other fun things. 
+- **Projects**: A growing collection of research projects, cartographic design projects, and other fun things.
 - **Repositories**: A growing collection of my Github repositories.
 - **CV**: My educational background along with my professional/teaching/research experience.
 
@@ -39,7 +38,7 @@ This website is built with the following tools:
 
 - **Static Site Generator**: Jekyll with the al-folio theme
 - **Version Control**: GitHub
-- **Hosting**: GitHub 
+- **Hosting**: GitHub
 
 # READ ME for the al-folio theme
 
@@ -94,7 +93,13 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 
 <!--ts-->
 
-- [al-folio](#al-folio)
+- [Personal Research &amp; Cartography Portfolio](#personal-research--cartography-portfolio)
+  - [About Me](#about-me)
+  - [My Work](#my-work)
+  - [Contact](#contact)
+  - [How to Navigate the Portfolio](#how-to-navigate-the-portfolio)
+  - [Technologies and Tools Used](#technologies-and-tools-used)
+- [READ ME for the al-folio theme](#read-me-for-the-al-folio-theme)
   - [Getting started](#getting-started)
   - [Table Of Contents](#table-of-contents)
   - [Installing and Deploying](#installing-and-deploying)
