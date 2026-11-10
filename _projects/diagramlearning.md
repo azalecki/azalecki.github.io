@@ -18,7 +18,7 @@ Sometimes the visuals we've needed for our course manual are proprieraty, low qu
 Below you will find a selection of some of the diagrams, maps, etc. that I have produced for learning materials to be used in geog0261: Human Geography with GIS. Illustrations were created using QGIS, Adobe Illustrator, or a combination of both. Some of these illustrations live in our course manual while others in lab handouts, question sets, slides, exams*, etc. 
 
 
-**Illustrations used for exams and other assessments I cannot freely distribute and are not included in this selection.*
+**Illustrations used for exams and other assessments are not included in this selection.*
 
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
