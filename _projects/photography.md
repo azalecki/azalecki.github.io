@@ -120,6 +120,53 @@ In addition to the series, prepare a one minute presentation on the photographer
     </span>
   </a>
 
+## Honorable Mentions
+One of the underlying assignments for the duration of the class was to take as many photos as possible. For that semester, the DSLR that I loaned from the studio went with me everywhere. Here is a selection of photos that do not belong to a particular body of work, but want to share, nonetheless!
+
+<div class="pswp-gallery">
+
+  <a href="/assets/img/photography/grey_house.png"
+     data-pswp-width="5184" data-pswp-height="3456" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/grey_house.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+
+  <a href="/assets/img/photography/jewelry.png"
+     data-pswp-width="3456" data-pswp-height="5184" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/jewelry.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+
+  <a href="/assets/img/photography/okami.png"
+     data-pswp-width="3456" data-pswp-height="5184" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/okami.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+
+  <a href="/assets/img/photography/tulips.png"
+     data-pswp-width="5184" data-pswp-height="3456" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/tulips.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+
+  <a href="/assets/img/photography/car.png" 
+     data-pswp-width="4800" data-pswp-height="6000" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/photography/car.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Image 4 title</strong><br>Caption text here.
+    </span>
+  </a>
+
+
 <script type="module">
   import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js';
   import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js';
