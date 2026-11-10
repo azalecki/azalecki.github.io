@@ -119,8 +119,10 @@ In addition to the series, prepare a one minute presentation on the photographer
       <strong>Image 4 title</strong><br>Caption text here.
     </span>
   </a>
+</div>
 
 ## Honorable Mentions
+
 One of the underlying assignments for the duration of the class was to take as many photos as possible. For that semester, the DSLR that I loaned from the studio went with me everywhere. Here is a selection of photos that do not belong to a particular body of work, but want to share, nonetheless!
 
 <div class="pswp-gallery">
@@ -165,6 +167,7 @@ One of the underlying assignments for the duration of the class was to take as m
       <strong>Image 4 title</strong><br>Caption text here.
     </span>
   </a>
+</div>
 
 
 <script type="module">
