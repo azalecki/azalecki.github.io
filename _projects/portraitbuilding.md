@@ -251,15 +251,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
       <strong>Changes of the eastern wall over time</strong>
     </span>
     </a>
-
-  <a href="/assets/img/buildings/column_sketch.jpeg"
-     data-pswp-width="960" data-pswp-height="720" data-cropped="true"
-     target="_blank">
-    <img src="/assets/img/buildings/column_sketch.jpeg" alt="Description of image 4" />
-    <span class="pswp-caption-content">
-      <strong>Sketch of details on the iron columns</strong>
-    </span>
-  </a>
 </div>
 
 ## Present 

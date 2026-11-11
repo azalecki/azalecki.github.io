@@ -79,9 +79,9 @@ Perform a long-form study by photographing the same scene at least 2 different t
 
 
 ## In the Style of
-Create a photo series In the Style of a Photographer. Replicate one image by that photographer and then create 1 more image inspired by that photographer’s style.
+In this photo series I have attempted to replicate the work of Imogen Cunningham, distinguished American photographer famous for her portraits and botanical studies. I was drawn to simplicity of her photographs, the nakedness and rawness in which she managed to capture her subjects. A long and illustrious career afforded her the ability to experiment parallel with the evolution of photography as an artistic medium. Her portfolio, as a result, is incredibly diverse and also includes streets scenes, industrial landscapes, double exposure, nudes and still lifes. She shot religiously, every day of her life, a type of dedication I have never been able to achieve in my own work. 
 
-In addition to the series, prepare a one minute presentation on the photographer, introducing their work, biographical information, and identifying major aspects of their technique and style. You will present this material before your critique.
+One of the photos is inspired by her botanical studies, a plant from my collection captured in a studio. The other is a replication of one her self portraits, which there were many to choose from. I noticed a recurring image in her self-portrait collection: pictures of her own figure reflected from a mirrow or a window or as a shadow on the ground. A picture of a plant or ones shadow, an act so simple that it almost felt like a cop out. But things that appear *simple*, I learned, are not synonymous with *easy*. 
 
 
 <div class="pswp-gallery">
