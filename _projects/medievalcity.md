@@ -3,7 +3,7 @@ layout: page
 title: Making a Medieval City
 img: assets/img/thumbnails/reiherswald_crop.png
 importance: 6
-category: other
+category: misc.
 ---
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">

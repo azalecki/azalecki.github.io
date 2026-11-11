@@ -4,7 +4,7 @@ title: Illustrating GIS Concepts
 description: 
 img: assets/img/thumbnails/balancedDesign_crop.png
 importance: 1
-category: other
+category: misc.
 ---
 
 Visuals are often the most effective way of communicating complex GIS concepts to students. 

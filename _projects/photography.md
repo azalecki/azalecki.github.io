@@ -4,7 +4,7 @@ title: Photography Now
 description: 
 img: assets/img/thumbnails/man_crop.jpg
 importance: 2
-category: other
+category: misc.
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
