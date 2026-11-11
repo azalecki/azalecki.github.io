@@ -39,7 +39,7 @@ toc:
 </style>
 
 
-## Intro to the Course
+## Intro to the Project
 Winter term course
 to this day regret not taking a formal architecture class in college 
 
@@ -50,6 +50,7 @@ fast paced introduction to elements from both architecture and urban theory
  - industrial building 
  - part of a greater complex
  - attracted to it's aesthetic, red brick, tall, 
+ 
 ## History
 introduce your building and its function(s), explain its relationship to the city of Burlington, and elaborate on the changes it has undergone.
 
@@ -210,13 +211,12 @@ introduce your building and its function(s), explain its relationship to the cit
 </div>
 
 ### Material Palette
- images, sketches, diagrams, material palette, maps, archival material, or anything else you have gathered that gives a fuller picture of your building.
 
-### Drawings
+### Sketches and Drawings
 
 ## Present 
 
-### Relationship to Place
+### Relationships
 ### Maps
 ### The Building Now
 
