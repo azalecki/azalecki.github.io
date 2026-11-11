@@ -38,6 +38,7 @@ category: maps
 
 
 ## Mapping Middlebury College Lands
+### 2025
 
 <div class="pswp-gallery">
 
@@ -72,6 +73,7 @@ category: maps
 </div>
 
 ## American Steamboats in Nicaragua
+### 2024
 
 <div class="pswp-gallery">
 
@@ -107,6 +109,7 @@ category: maps
 
 
 ## Atlas of Globalization
+### 2022
 
 The [Middlebury Atlas of Globalization](https://www.langenscheidt.com/shop/englisch/middlebury-atlas-of-globalization-SW50013?srsltid=AfmBOoqcND4qE6kT0WviLjYcHgRB_k4lP0jtJYCV7HFWz9MuA521LBOc) is an atlas textbook for college level introductory courses in international and global studies. The atlas was authored by three Middlebury College professors and explores the process of globalization through various academic disciplines like history, political science and environmental studies. The atlas includes over 100 maps, atleast 50 of which I had the pleasure of helping produce. 
 
