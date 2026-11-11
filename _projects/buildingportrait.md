@@ -133,7 +133,6 @@ introduce your building and its function(s), explain its relationship to the cit
   </a>
 </div>
 
-
 ### Details
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit posuere tristique. Vivamus vel imperdiet lectus, sit amet tincidunt neque. Mauris sodales augue odio, eu porta ipsum imperdiet a. Nulla euismod, leo quis cursus tempor, nulla tortor scelerisque leo, vitae vestibulum nunc velit vitae odio. Proin ac nibh tempor leo molestie pharetra. Vestibulum nisl dui, lobortis posuere purus quis, maximus euismod justo. Fusce id cursus sem, quis rutrum sem. Etiam eget dui vel dolor sagittis tempor a non ex. Nulla mauris justo, euismod id suscipit vel, porta et magna. Cras ac massa eu sem blandit ullamcorper. Quisque quis scelerisque dolor, vel porta erat. Integer vel massa a ipsum iaculis imperdiet non non est.
 
