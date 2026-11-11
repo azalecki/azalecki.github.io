@@ -78,7 +78,7 @@ introduce your building and its function(s), explain its relationship to the cit
     <span class="pswp-caption-content">
       <strong>View from the St.Paul St and College St. Intersection</strong><br> Pottery advert is mainly in view
     </span>
-
+   </a>
   <a href="/assets/img/buildings/front_facade.jpg"
      data-pswp-width="720" data-pswp-height="873" data-cropped="true"
      target="_blank">
@@ -86,7 +86,7 @@ introduce your building and its function(s), explain its relationship to the cit
     <span class="pswp-caption-content">
       <strong>Front Facade of the Wells-Richardson Building</strong>
     </span>
-
+    </a>
   <a href="/assets/img/buildings/viewshed.jpg"
      data-pswp-width="960" data-pswp-height="720" data-cropped="true"
      target="_blank">
@@ -154,6 +154,7 @@ introduce your building and its function(s), explain its relationship to the cit
     <span class="pswp-caption-content">
       <strong>Graffitti on exposed side of building (east)</strong>
     </span>
+    </a>
 
   <a href="/assets/img/buildings/disjoint_brick.jpg"
      data-pswp-width="720" data-pswp-height="873" data-cropped="true"
@@ -162,6 +163,7 @@ introduce your building and its function(s), explain its relationship to the cit
     <span class="pswp-caption-content">
       <strong>Disjoint materials for foundation</strong>
     </span>
+    </a>
 
   <a href="/assets/img/buildings/chipping_brick.jpg"
      data-pswp-width="960" data-pswp-height="720" data-cropped="true"
