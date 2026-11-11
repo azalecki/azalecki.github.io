@@ -50,7 +50,7 @@ fast paced introduction to elements from both architecture and urban theory
  - industrial building 
  - part of a greater complex
  - attracted to it's aesthetic, red brick, tall, 
- 
+
 ## History
 introduce your building and its function(s), explain its relationship to the city of Burlington, and elaborate on the changes it has undergone.
 
@@ -131,8 +131,8 @@ introduce your building and its function(s), explain its relationship to the cit
       <strong>Eastern side of the building with advert in closer view</strong>
     </span>
   </a>
-
 </div>
+
 
 ### Details
 
@@ -207,8 +207,8 @@ introduce your building and its function(s), explain its relationship to the cit
       <strong>A bird's home</strong>
     </span>
   </a>
-
 </div>
+
 
 ### Material Palette
 
