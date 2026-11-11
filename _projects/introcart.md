@@ -1,16 +1,8 @@
 ---
 layout: page
-title: Courses
-description: projects from classes
-img: assets/img/thumbnails/forestpreserve_crop.png
-importance: 3
+title: Intro to Cartography
+description: learning
+img: assets/img/thumbnails/farm_crop.png
+importance: 6
 category: maps
 ---
-
-## Intro to Cartography 
-
-### Monochrome Map 
-
-### Narrative Map 
-
-### Shaded Relied 
