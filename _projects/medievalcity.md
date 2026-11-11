@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Making a Medieval City
-img: assets/img/thumbnails/forestpreserve_crop.png
+img: assets/img/thumbnails/reiherswald_crop.png
 importance: 6
 category: other
 ---
