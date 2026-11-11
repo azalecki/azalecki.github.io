@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal
-description: self-directed work
+description: self-directed work, passion projects
 img: assets/img/thumbnails/forestpreserve_crop.png
 importance: 6
 category: maps
