@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects
 nav: true
 nav_order: 2
-display_categories: [gis, maps, other]
+display_categories: [gis, maps, misc.]
 horizontal: false
 ---
 
