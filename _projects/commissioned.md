@@ -3,7 +3,7 @@ layout: page
 title: Commissioned
 description: custom work made to order
 img: assets/img/thumbnails/farm_crop.png
-importance: 6
+importance: 2
 category: maps
 ---
 
@@ -35,6 +35,10 @@ category: maps
   display: none;
 }
 </style>
+
+
+## Canada Road Frontier and Settlement
+### 2025 - Present
 
 
 ## Mapping Middlebury College Lands
