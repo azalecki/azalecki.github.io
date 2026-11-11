@@ -40,7 +40,7 @@ category: other
      class="wide" 
      data-pswp-width="3294" data-pswp-height="2480" data-cropped="true"
      target="_blank">
-    <img src="/assets/img/medieval/reiherswald_plan.pn" alt="Description of image 4" />
+    <img src="/assets/img/medieval/reiherswald_plan.png" alt="Description of image 4" />
   </a>
 </div>
 
