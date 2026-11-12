@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Intro to Cartography
-description: learning
+title: Cart Courses
+description: learning to make maps
 img: assets/img/thumbnails/coalmine_crop.png
-importance: 6
+importance: 3
 category: maps
 ---
 <style>
@@ -30,7 +30,9 @@ category: maps
   display: none;
 }
 </style>
+
 # Intro to Cartography
+<br>
 
 ## Monochrome Map
 
@@ -48,22 +50,13 @@ category: maps
   </a>
 </div>
 
+<br>
+
 ## Narrative Map
 
-<div class="pswp-gallery">
-  <a href="/assets/img/introcart/shaded_relief.jpg"
-     data-pswp-width="2576"
-     data-pswp-height="1503"
-     target="_blank">
-    <img src="/assets/img/introcart/shaded_relief.jpg" alt="Under the Texas Sun" />
-    <span class="pswp-caption-content">
-      <strong>Under the Texas Sun</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
-    </span>
-  </a>
-</div>
+Made with the intention to pair with the book [El Sol de Texas](https://artepublicopress.com/product/el-sol-de-texasunder-the-texas-sun/) by Conrado Espinoza. 
 
-## Terrain Study 
+For a deep dive into my process visit the blog post I wrote about this map. 
 
 <div class="pswp-gallery">
   <a href="/assets/img/introcart/UndertheTexasSun.jpg"
@@ -79,6 +72,24 @@ category: maps
   </a>
 </div>
 
+<br>
+
+## Terrain Study
+
+ <div class="pswp-gallery">
+  <a href="/assets/img/introcart/shaded_relief.jpg"
+     data-pswp-width="2576"
+     data-pswp-height="1503"
+     target="_blank">
+    <img src="/assets/img/introcart/shaded_relief.jpg" alt="Under the Texas Sun" />
+    <span class="pswp-caption-content">
+      <strong>Under the Texas Sun</strong><br>
+      Your caption text here: what the map shows, data sources, tools used.
+    </span>
+  </a>
+</div>
+
+<br>
 
 
 # Cartographic Design Seminar
