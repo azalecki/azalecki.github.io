@@ -40,8 +40,7 @@ toc:
 
 
 ## Intro to the Project
-Winter term course
-to this day regret not taking a formal architecture class in college 
+Winter term course in 2022 to this day regret not taking a formal architecture class in college 
 
 fast paced introduction to elements from both architecture and urban theory
 
