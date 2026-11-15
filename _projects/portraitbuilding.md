@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Building Portrait of the Wells-Richardson Building
+title: Portrait of the Wells-Richardson Building
 description: 
 img: assets/img/thumbnails/richardson.jpg
 importance: 3
@@ -32,6 +32,25 @@ toc:
   border-radius: 4px;
   display: block;
 }
+.static-image-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.static-image-pair figure {
+  min-width: 0;
+  margin: 0;
+}
+.static-image-pair img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 600px) {
+  .static-image-pair {
+    grid-template-columns: 1fr;
+  }
+}
 /* Captions live in the HTML but are only shown inside the lightbox */
 .pswp-caption-content {
   display: none;
@@ -39,35 +58,72 @@ toc:
 </style>
 
 ## Intro to the Project
+During a month-long program of study in the winter of 2022, I explored Burlington, VT, through the lens of a single building: the Wells-Richardson Building at 127 College Street. I research its history, represented it graphically through drawings and photos, and studied it in relation to its larger geography in order to answer the questions: "How has the building 'learned' over time" and 
+"What social and economic histories are inscribed in its local landscape?"
+
+<div class="pswp-gallery">
+  <a href="/assets/img/buildings/building_google.png"
+     data-pswp-width="925" data-pswp-height="723" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/building_google.png" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>Wells Richardson Building as seen on Google Maps Streetview</strong>
+    </span>
+  </a>
+</div>
 
 ### Why the Wells-Richardson Building 
-* Connected to the history of Burlington 
-* Central location 
+* Connected to Burlington's industrial history
+* Central location in the city
 * Part of a wider “system”/complex of buildings
 * Its visual aesthetic: red brick, tall, decorative elements
 
 ## A little more about the building 
 
-The Wells-Richardson Building (127 College St, Burlington, VT) is one of several buildings within the Wells-Richardson Complex. It was constructed in 1883 with the intention of serving as the main laboratory and offices of the Wells-Richardson Company as they grew out of their previous building (126 College St). 
+The Wells-Richardson Building (127 College St, Burlington, VT) is one of several buildings within the Wells-Richardson Complex. It was constructed in 1883 with the intention of serving as the main laboratory and offices of the Wells-Richardson Company as they grew out of their previous building (126 College St). Annotations in Burlington’s Sanborn Fire Insurance maps (1885–1912) indicate that the building’s four floors contained a chemical laboratory, storage space, boxing and packing areas, a mixing area, a package-labeling area, and an advertising office. 
 
- <figure>
-  <img src="/assets/img/buildings/wells_from_book.png" alt="How to get to the building" />
-  <figcaption>wells richardson building from book</figcaption>
-</figure>
+<div class="pswp-gallery">
+  <a href="/assets/img/buildings/wells_from_book.png"
+     data-pswp-width="903" data-pswp-height="960" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/wells_from_book.png" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>wells richardson building from book</strong>
+    </span>
+  </a>
 
-<figure>
-  <img src="/assets/img/buildings/print_wells_old.png" alt="How to get to the building" />
-  <figcaption>print of wells richardson</figcaption>
-</figure>
+  <a href="/assets/img/buildings/print_wells_old.png"
+     data-pswp-width="459" data-pswp-height="500" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/print_wells_old.png" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>print of wells richardson</strong>
+    </span>
+  </a>
 
-<figure>
-  <img src="/assets/img/buildings/126_college_st.png" alt="How to get to the building" />
-  <figcaption>126 College St</figcaption>
-</figure>
+  <a href="/assets/img/buildings/126_college_st.png"
+     data-pswp-width="700" data-pswp-height="1125" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/126_college_st.png" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>126 College St. </strong>
+    </span>
+  </a>
+
+  <a href="/assets/img/buildings/sanborn.png"
+     data-pswp-width="700" data-pswp-height="1125" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/sanborn.png" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>Screenshot from 1885 Sanborn Map.</strong>
+    </span>
+  </a>
+
+</div>
 
 A.B. Fisher is the mind behind the building’s design. As the most renowned architect in Burlington at the time (1880s), Fisher was contracted to build across the city. Some other well-known buildings in his portfolio include [the Howard Chapel](https://www.preservationburlington.org/historic-properties/howard-chapel), [the Ethan Allen Engine Company](https://sah-archipedia.org/buildings/VT-01-CH31), and [the Willard Inn](https://www.uvm.edu/~hp206/2004-1890/burlington1890/website/agodat/349sw.html).
 
-The Wells-Richardson Building is four stories with a footprint that measures approximately ___. Its exterior (typical of the High Italianate style) is what sets it apart from the other buildings on the street. The building’s detailing is explicitly documented in its nomination into the National Register of Historic Places:
+The Wells-Richardson Building is four stories with a footprint that measures approximately 5151 square feet. Its exterior (typical of the High Italianate style) is what sets it apart from the other buildings on the street. The building’s detailing is explicitly documented in its nomination into the National Register of Historic Places:
 
 “Five bays, each with paired windows framed by rock-faced granite lintels and sills, are spaced across the facade on each floor, divided by brick pilasters with granite caps. Other detailing includes the use of various kinds of arches throughout the fenestration, terra cotta and brick panels in the spandrels, an elaborately corbeled cornice constructed of shaped brick and terra cotta, and granite finials placed atop the series of pilasters, between the center two of which is a panel with lettering which reads ‘1883 Wells & Richardson.’ The ground floor bays have brick corner piers, cast iron posts, plate glass windows with wood muntins and stained glass transom lights.”
 
@@ -78,31 +134,57 @@ I believe the embellishments were purposeful, a way to reflect both the prosperi
 At their peak, the Well-Richardson company was one of the nation’s largest wholesale drug and dye companies, reaching at least 2 million dollars in annual sales (around 51 million today). In Burlington, they employed more than 200 people at its manufacturing plant but also had branches overseas in Montreal, London, and Sydney.
 
 <figure>
-  <img src="/assets/img/buildings/wells_office.jpg" alt="How to get to the building" />
-  <figcaption>Burlington Daily News based in the Wells Richardson Building, 1946</figcaption>
-</figure>
-
-<figure>
   <img src="/assets/img/buildings/bottling.jpeg" alt="How to get to the building" />
   <figcaption>Burlington Daily News based in the Wells Richardson Building, 1946</figcaption>
 </figure>
 
+<div class="pswp-gallery">
+  <a href="/assets/img/buildings/wells_office.jpg" 
+      data-pswp-width="536" data-pswp-height="480" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/wells_office.jpg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Interior view of the first floor of the Wells & Richardson Building.</strong><br>
+      Photo taken by Louis L. McAllister (undated). Found in the UVM Library, Special Collections.
+    </span>
+    </a>
 
- They were so successful in part due to their aggressive marketing strategies like free samples, product ads, and consumer testimonials. Wells-Richardson Co. even took advantage of the bare exteriors of their buildings, painting the eastern wall of 127 College St in murals advertising their products. The building remained under the Wells-Richardson Company for almost three decades before the company was doomed after the passing of the Pure Food and Drug Act in 1906.
+  <a href="/assets/img/buildings/bottling.jpeg" 
+      data-pswp-width="516" data-pswp-height="381" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/bottling.jpeg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Women bottling.</strong><br>
+      Photo taken idk
+    </span>
+    </a>
+</div>
 
+ They were so successful in part due to their aggressive marketing strategies distributing free samples, product ads, and consumer testimonials. Wells-Richardson Co. even took advantage of the bare exteriors of their buildings, painting the eastern wall of 127 College St in murals advertising their products. The building remained under the Wells-Richardson Company for almost three decades before the company was doomed after the passing of the Pure Food and Drug Act in 1906.
 
+The Burlington Daily News would follow as the building’s next inhabitants. 
 
-The Burlington Daily News would follow as the building’s next inhabitants before, for a time, the building was used as an entertainment club. 
+<div class="pswp-gallery">
+  <a href="/assets/img/buildings/news_building.png" 
+      data-pswp-width="730" data-pswp-height="500" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/news_building.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Wells Richardson Building, College Street. Location of the Burlington Daily News.</strong><br>
+      Photo taken by Louis L. McAllister (1946/1947). Found in the UVM Library, Special Collections.
+    </span>
+    </a>
 
-<figure>
-  <img src="/assets/img/buildings/news_building.png" alt="How to get to the building" />
-  <figcaption>Burlington Daily News based in the Wells Richardson Building, 1946</figcaption>
-</figure>
-
-<figure>
-  <img src="/assets/img/buildings/newsies.png" alt="Site plan" />
-  <figcaption>Child paper carriers stand in front of Burlington News located in the Wells Richardson Building, 1946</figcaption>
-</figure>
+  <a href="/assets/img/buildings/newsies.png" 
+      data-pswp-width="730" data-pswp-height="500" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/newsies.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Child paper carriers stand beside a car in front of the Wells Richardson Building.</strong><br>
+      Photo taken by Louis L. McAllister (1946/1947). Found in the UVM Library, Special Collections.
+    </span>
+    </a>
+</div>
 
 
 In 1973, it was finally acquired by Bennington Potters.
@@ -212,8 +294,6 @@ The first three floors became converted into a retail space with the addition of
 </div>
 
 ### Details
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit posuere tristique. Vivamus vel imperdiet lectus, sit amet tincidunt neque. Mauris sodales augue odio, eu porta ipsum imperdiet a. Nulla euismod, leo quis cursus tempor, nulla tortor scelerisque leo, vitae vestibulum nunc velit vitae odio. Proin ac nibh tempor leo molestie pharetra. Vestibulum nisl dui, lobortis posuere purus quis, maximus euismod justo. Fusce id cursus sem, quis rutrum sem. Etiam eget dui vel dolor sagittis tempor a non ex. Nulla mauris justo, euismod id suscipit vel, porta et magna. Cras ac massa eu sem blandit ullamcorper. Quisque quis scelerisque dolor, vel porta erat. Integer vel massa a ipsum iaculis imperdiet non non est.
-
 <div class="pswp-gallery">
 
   <a href="/assets/img/buildings/sill_closeup.jpg"
@@ -235,7 +315,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
     </a>
 
   <a href="/assets/img/buildings/disjoint_brick.jpg"
-     data-pswp-width="720" data-pswp-height="873" data-cropped="true"
+      data-pswp-width="960" data-pswp-height="720" data-cropped="true"
      target="_blank">
     <img src="/assets/img/buildings/disjoint_brick.jpg" alt="Description of image 4" />
     <span class="pswp-caption-content">
@@ -278,19 +358,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
       <strong>A bird's home</strong>
     </span>
   </a>
-
-  <a href="/assets/img/buildings/closed_sign.jpg"
-     data-pswp-width="720" data-pswp-height="960" data-cropped="true"
-     target="_blank">
-    <img src="/assets/img/buildings/closed_sign.jpg" alt="Description of image 4" />
-    <span class="pswp-caption-content">
-      <strong>A bird's home</strong>
-    </span>
-  </a>
 </div>
 
 ### Material Palette
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit posuere tristique. Vivamus vel imperdiet lectus, sit amet tincidunt neque. Mauris sodales augue odio, eu porta ipsum imperdiet a. Nulla euismod, leo quis cursus tempor, nulla tortor scelerisque leo, vitae vestibulum nunc velit vitae odio. Proin ac nibh tempor leo molestie pharetra. Vestibulum nisl dui, lobortis posuere purus quis, maximus euismod justo. Fusce id cursus sem, quis rutrum sem. Etiam eget dui vel dolor sagittis tempor a non ex. Nulla mauris justo, euismod id suscipit vel, porta et magna. Cras ac massa eu sem blandit ullamcorper. Quisque quis scelerisque dolor, vel porta erat. Integer vel massa a ipsum iaculis imperdiet non non est.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit posuere tristique. 
 
 ### Sketches and Drawings
 <div class="pswp-gallery">
@@ -304,7 +375,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
     </a>
 
   <a href="/assets/img/buildings/facade_pencil.jpeg"
-     data-pswp-width="960" data-pswp-height="720" data-cropped="true"
+      data-pswp-width="3511" data-pswp-height="4116" data-cropped="true"
      target="_blank">
     <img src="/assets/img/buildings/facade_pencil.jpeg" alt="Description of image 4" />
     <span class="pswp-caption-content">
@@ -329,11 +400,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
       <strong>Changes of the eastern wall over time</strong>
     </span>
     </a>
+
+  <a href="/assets/img/buildings/closed_sign.jpg"
+     data-pswp-width="720" data-pswp-height="960" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/closed_sign.jpg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>A bird's home</strong>
+    </span>
+  </a>
 </div>
 
 ## Present 
-Bennington Potters still occupies the building, although since the Covid-19 pandemic their doors have been closed. The building's continued closure has prompted [news articles](https://www.wcax.com/2025/03/27/bennington-potters-flagship-stores-remain-locked-5-years-after-pandemic/) and online discussions on forums like Facebook and Reddit questioning why. 
+Unfortunately, during my site visit I was unable to go into the building as it has been closed since the onset of the Covid-19 pandemic. That was 2022. As of 2026, when I revisted this project, the Benning Potters North is still closed!
 
+After some investigation online, I found that the building's continued closure has prompted [news articles](https://www.wcax.com/2025/03/27/bennington-potters-flagship-stores-remain-locked-5-years-after-pandemic/) and online discussions on forums like Facebook and Reddit questioning why. There has been no update to the signage on the door or any sign of Bennington Potter's opening its doors anytime soon. 
 
 ## Conclusion 
 Overall, the building functions to provide College St with some immense character, charm, and history as it is an addition to the legendary Wells-Richardson Complex.
