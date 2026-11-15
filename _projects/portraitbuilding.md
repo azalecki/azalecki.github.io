@@ -58,7 +58,7 @@ toc:
 </style>
 
 ## Intro to the Project
-During a month-long program of study in the winter of 2022, I explored Burlington, VT, through the lens of a single building: the Wells-Richardson Building at 127 College Street. I research its history, represented it graphically through drawings and photos, and studied it in relation to its larger geography in order to answer the questions: "How has the building 'learned' over time" and 
+During a month-long program of study in the winter of 2022, I explored Burlington, VT, through the lens of a single building: the Wells-Richardson Building at 127 College Street. I researched its history, represented it graphically through drawings and photos, and studied it in relation to its larger geography in order to answer the questions: "How has the building 'learned' over time" and 
 "What social and economic histories are inscribed in its local landscape?"
 
 <div class="pswp-gallery">
@@ -80,17 +80,24 @@ During a month-long program of study in the winter of 2022, I explored Burlingto
 
 ## A little more about the building 
 
-The Wells-Richardson Building (127 College St, Burlington, VT) is one of several buildings within the Wells-Richardson Complex. It was constructed in 1883 with the intention of serving as the main laboratory and offices of the Wells-Richardson Company as they grew out of their previous building (126 College St). Annotations in Burlington’s Sanborn Fire Insurance maps (1885–1912) indicate that the building’s four floors contained a chemical laboratory, storage space, boxing and packing areas, a mixing area, a package-labeling area, and an advertising office. 
+The Wells-Richardson Building is one of several buildings within the Wells-Richardson Complex.
 
 <div class="pswp-gallery">
-  <a href="/assets/img/buildings/wells_from_book.png"
-     data-pswp-width="903" data-pswp-height="960" data-cropped="true"
+
+  <a href="/assets/img/buildings/complex_map.png"
+     data-pswp-width="459" data-pswp-height="500" data-cropped="true"
      target="_blank">
-    <img src="/assets/img/buildings/wells_from_book.png" alt="How to get to the building" />
+    <img src="/assets/img/buildings/complex_map.png" alt="How to get to the building" />
     <span class="pswp-caption-content">
-      <strong>wells richardson building from book</strong>
+      <strong>Map of the Wells Richardson Complex appended to it's nomination into the National Register of Historic Places.</strong><br>
+      The Wells Richardson Building is number 8 in this map. 
     </span>
   </a>
+</div>
+
+ It was constructed in 1883 with the intention of serving as the main laboratory and offices of the Wells-Richardson Co. as they grew out of their previous building (126 College St). Annotations in Burlington’s Sanborn Fire Insurance maps (1885–1912) indicate that the building’s four floors contained a chemical laboratory, storage space, boxing and packing areas, a mixing area, a package-labeling area, and an advertising office. 
+
+<div class="pswp-gallery">
 
   <a href="/assets/img/buildings/print_wells_old.png"
      data-pswp-width="459" data-pswp-height="500" data-cropped="true"
@@ -130,13 +137,9 @@ The Wells-Richardson Building is four stories with a footprint that measures app
 I believe the embellishments were purposeful, a way to reflect both the prosperity of the Wells-Richardson company and the growth of Burlington as a new booming hub.
 
 ## History
+<br>
 
 At their peak, the Well-Richardson company was one of the nation’s largest wholesale drug and dye companies, reaching at least 2 million dollars in annual sales (around 51 million today). In Burlington, they employed more than 200 people at its manufacturing plant but also had branches overseas in Montreal, London, and Sydney.
-
-<figure>
-  <img src="/assets/img/buildings/bottling.jpeg" alt="How to get to the building" />
-  <figcaption>Burlington Daily News based in the Wells Richardson Building, 1946</figcaption>
-</figure>
 
 <div class="pswp-gallery">
   <a href="/assets/img/buildings/wells_office.jpg" 
@@ -160,7 +163,33 @@ At their peak, the Well-Richardson company was one of the nation’s largest who
     </a>
 </div>
 
- They were so successful in part due to their aggressive marketing strategies distributing free samples, product ads, and consumer testimonials. Wells-Richardson Co. even took advantage of the bare exteriors of their buildings, painting the eastern wall of 127 College St in murals advertising their products. The building remained under the Wells-Richardson Company for almost three decades before the company was doomed after the passing of the Pure Food and Drug Act in 1906.
+ They were so successful in part due to their aggressive marketing strategies distributing free samples, product ads, and consumer testimonials. Wells-Richardson Co. even took advantage of the bare exteriors of their buildings, painting the eastern wall of 127 College St in murals advertising their products. 
+ 
+
+ <div class="pswp-gallery">
+   <a href="/assets/img/buildings/wells_from_book.png"
+     data-pswp-width="903" data-pswp-height="960" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/wells_from_book.png" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>wells richardson building from book</strong>
+    </span>
+  </a>
+
+ <div class="pswp-gallery">
+   <a href="/assets/img/buildings/mural_02.jpg"
+     data-pswp-width="903" data-pswp-height="960" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/mural_02.jpg" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>Wells Richardson building from book</strong>
+    </span>
+  </a>
+
+</div>
+
+ The building remained under Wells-Richardson Co. for almost three decades before the company was doomed to stricter federal regulations on patent medicines after the passing of the Pure Food and Drug Act in 1906.
+<br>
 
 The Burlington Daily News would follow as the building’s next inhabitants. 
 
@@ -186,16 +215,37 @@ The Burlington Daily News would follow as the building’s next inhabitants.
     </a>
 </div>
 
+<br>
+In 1973, it was finally acquired by Bennington Potters. Five years later, in 1979, the Wells Richardson Complex entered the National Register of Historic Buildings. 
 
-In 1973, it was finally acquired by Bennington Potters.
+<div class="pswp-gallery">
+  <a href="/assets/img/buildings/building_north_mural.png" 
+      data-pswp-width="730" data-pswp-height="500" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/building_north_mural.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Wells Richardson Building, College Street. Location of the Burlington Daily News.</strong><br>
+      Photo taken by Louis L. McAllister (1946/1947). Found in the UVM Library, Special Collections.
+    </span>
+    </a>
+
+  <a href="/assets/img/buildings/full_street_facade.png" 
+      data-pswp-width="730" data-pswp-height="500" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/full_street_facade.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Child paper carriers stand beside a car in front of the Wells Richardson Building.</strong><br>
+      Photo taken by Louis L. McAllister (1946/1947). Found in the UVM Library, Special Collections.
+    </span>
+    </a>
+</div>
 
 For almost a century, no significant changes had been done to the building itself until Bennington Potters renovated the interior. There was apparently a fire at some point that almost destroyed the first floor (but no documentation of how it was patched up after). As time progressed and standards changed, I assume that the building acquired contemporary electrical, plumbing, HVAC, etc. Otherwise, the only substantial documented changes to the building happened in the 1970s when Bennington Potters renovated the interior of the building.
 
 The first three floors became converted into a retail space with the addition of a large stairwell to unify the three floors. The back portion of the first floor was lowered, and the interior walls were removed to reveal the brick exterior walls. Due to the building’s age, there was also the need for added structural security and other safety concerns. Therefore, steel columns were added (to mimic the cast iron ones), a fireproof exit core, a restored fire escape, and a sprinkler system. According to the writers of The Burlington Book, the renovation of the Wells-Richardson Building was quite an achievement and a great example of a “successful reuse of a historic commercial building in downtown Burlington.” No changes have been made to the front facade of the building other than minor restoration efforts. The eastern wall, however, which has served as a mural space for decades, did get an upgrade. The mural now advertises Bennington Potters North, Inc., the official company name of the retail space for Bennington Potters.
 
-### Maps 
-
 ### Maps
+<br>
 <div class="pswp-gallery">
   <a href="/assets/img/buildings/BurlingtonTransit_final.png"
      data-pswp-width="3507" data-pswp-height="2480" data-cropped="true"
@@ -217,7 +267,7 @@ The first three floors became converted into a retail space with the addition of
 </div>
 
 ## Site Visit
-
+<br>
 ### Structure
 
 <div class="pswp-gallery">
@@ -361,9 +411,11 @@ The first three floors became converted into a retail space with the addition of
 </div>
 
 ### Material Palette
+<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit posuere tristique. 
 
 ### Sketches and Drawings
+<br>
 <div class="pswp-gallery">
   <a href="/assets/img/buildings/stained_glass_sketch.jpeg"
      data-pswp-width="3103" data-pswp-height="1233" data-cropped="true"
@@ -412,11 +464,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
 </div>
 
 ## Present 
+<br>
 Unfortunately, during my site visit I was unable to go into the building as it has been closed since the onset of the Covid-19 pandemic. That was 2022. As of 2026, when I revisted this project, the Benning Potters North is still closed!
 
 After some investigation online, I found that the building's continued closure has prompted [news articles](https://www.wcax.com/2025/03/27/bennington-potters-flagship-stores-remain-locked-5-years-after-pandemic/) and online discussions on forums like Facebook and Reddit questioning why. There has been no update to the signage on the door or any sign of Bennington Potter's opening its doors anytime soon. 
 
 ## Conclusion 
+<br>
 Overall, the building functions to provide College St with some immense character, charm, and history as it is an addition to the legendary Wells-Richardson Complex.
 
 <script type="module">
