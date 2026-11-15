@@ -71,6 +71,7 @@ During a month-long program of study in the winter of 2022, I explored Burlingto
     </span>
   </a>
 </div>
+<br>
 
 ### Why the Wells-Richardson Building 
 * Connected to Burlington's industrial history
@@ -127,6 +128,7 @@ The Wells-Richardson Building is one of several buildings within the Wells-Richa
   </a>
 
 </div>
+<br>
 
 A.B. Fisher is the mind behind the building’s design. As the most renowned architect in Burlington at the time (1880s), Fisher was contracted to build across the city. Some other well-known buildings in his portfolio include [the Howard Chapel](https://www.preservationburlington.org/historic-properties/howard-chapel), [the Ethan Allen Engine Company](https://sah-archipedia.org/buildings/VT-01-CH31), and [the Willard Inn](https://www.uvm.edu/~hp206/2004-1890/burlington1890/website/agodat/349sw.html).
 
@@ -137,7 +139,6 @@ The Wells-Richardson Building is four stories with a footprint that measures app
 I believe the embellishments were purposeful, a way to reflect both the prosperity of the Wells-Richardson company and the growth of Burlington as a new booming hub.
 
 ## History
-<br>
 
 At their peak, the Well-Richardson company was one of the nation’s largest wholesale drug and dye companies, reaching at least 2 million dollars in annual sales (around 51 million today). In Burlington, they employed more than 200 people at its manufacturing plant but also had branches overseas in Montreal, London, and Sydney.
 
@@ -175,8 +176,7 @@ At their peak, the Well-Richardson company was one of the nation’s largest who
       <strong>wells richardson building from book</strong>
     </span>
   </a>
-
- <div class="pswp-gallery">
+  
    <a href="/assets/img/buildings/mural_02.jpg"
      data-pswp-width="903" data-pswp-height="960" data-cropped="true"
      target="_blank">
@@ -185,7 +185,6 @@ At their peak, the Well-Richardson company was one of the nation’s largest who
       <strong>Wells Richardson building from book</strong>
     </span>
   </a>
-
 </div>
 
  The building remained under Wells-Richardson Co. for almost three decades before the company was doomed to stricter federal regulations on patent medicines after the passing of the Pure Food and Drug Act in 1906.
