@@ -39,9 +39,6 @@ toc:
 </style>
 
 ## Intro to the Project
-Winter term course in 2022 to this day regret not taking a formal architecture class in college 
-
-fast paced introduction to elements from both architecture and urban theory
 
 ### Why the Wells-Richardson Building 
 * Connected to the history of Burlington 
@@ -53,6 +50,21 @@ fast paced introduction to elements from both architecture and urban theory
 
 The Wells-Richardson Building (127 College St, Burlington, VT) is one of several buildings within the Wells-Richardson Complex. It was constructed in 1883 with the intention of serving as the main laboratory and offices of the Wells-Richardson Company as they grew out of their previous building (126 College St). 
 
+ <figure>
+  <img src="/assets/img/buildings/wells_from_book.png" alt="How to get to the building" />
+  <figcaption>wells richardson building from book</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/buildings/print_wells_old.png" alt="How to get to the building" />
+  <figcaption>print of wells richardson</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/buildings/126_college_st.png" alt="How to get to the building" />
+  <figcaption>126 College St</figcaption>
+</figure>
+
 A.B. Fisher is the mind behind the building’s design. As the most renowned architect in Burlington at the time (1880s), Fisher was contracted to build across the city. Some other well-known buildings in his portfolio include [the Howard Chapel](https://www.preservationburlington.org/historic-properties/howard-chapel), [the Ethan Allen Engine Company](https://sah-archipedia.org/buildings/VT-01-CH31), and [the Willard Inn](https://www.uvm.edu/~hp206/2004-1890/burlington1890/website/agodat/349sw.html).
 
 The Wells-Richardson Building is four stories with a footprint that measures approximately ___. Its exterior (typical of the High Italianate style) is what sets it apart from the other buildings on the street. The building’s detailing is explicitly documented in its nomination into the National Register of Historic Places:
@@ -63,9 +75,37 @@ I believe the embellishments were purposeful, a way to reflect both the prosperi
 
 ## History
 
-At their peak, the Well-Richardson company was one of the nation’s largest wholesale drug and dye companies, reaching at least 2 million dollars in annual sales (around 51 million today). In Burlington, they employed more than 200 people at its manufacturing plant but also had branches overseas in Montreal, London, and Sydney. They were so successful in part due to their aggressive marketing strategies like free samples, product ads, and consumer testimonials. Wells-Richardson Co. even took advantage of the bare exteriors of their buildings, painting the eastern wall of 127 College St in murals advertising their products. The building remained under the Wells-Richardson Company for almost three decades before the company was doomed after the passing of the Pure Food and Drug Act in 1906.
+At their peak, the Well-Richardson company was one of the nation’s largest wholesale drug and dye companies, reaching at least 2 million dollars in annual sales (around 51 million today). In Burlington, they employed more than 200 people at its manufacturing plant but also had branches overseas in Montreal, London, and Sydney.
 
-The Burlington Daily News would follow as the building’s next inhabitants before, for a time, the building was used as an entertainment club. In 1973, it was finally acquired by Bennington Potters.
+<figure>
+  <img src="/assets/img/buildings/wells_office.jpg" alt="How to get to the building" />
+  <figcaption>Burlington Daily News based in the Wells Richardson Building, 1946</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/buildings/bottling.jpeg" alt="How to get to the building" />
+  <figcaption>Burlington Daily News based in the Wells Richardson Building, 1946</figcaption>
+</figure>
+
+
+ They were so successful in part due to their aggressive marketing strategies like free samples, product ads, and consumer testimonials. Wells-Richardson Co. even took advantage of the bare exteriors of their buildings, painting the eastern wall of 127 College St in murals advertising their products. The building remained under the Wells-Richardson Company for almost three decades before the company was doomed after the passing of the Pure Food and Drug Act in 1906.
+
+
+
+The Burlington Daily News would follow as the building’s next inhabitants before, for a time, the building was used as an entertainment club. 
+
+<figure>
+  <img src="/assets/img/buildings/news_building.png" alt="How to get to the building" />
+  <figcaption>Burlington Daily News based in the Wells Richardson Building, 1946</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/buildings/newsies.png" alt="Site plan" />
+  <figcaption>Child paper carriers stand in front of Burlington News located in the Wells Richardson Building, 1946</figcaption>
+</figure>
+
+
+In 1973, it was finally acquired by Bennington Potters.
 
 For almost a century, no significant changes had been done to the building itself until Bennington Potters renovated the interior. There was apparently a fire at some point that almost destroyed the first floor (but no documentation of how it was patched up after). As time progressed and standards changed, I assume that the building acquired contemporary electrical, plumbing, HVAC, etc. Otherwise, the only substantial documented changes to the building happened in the 1970s when Bennington Potters renovated the interior of the building.
 
