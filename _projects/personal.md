@@ -36,10 +36,24 @@ category: maps
 </style>
 
 <div class="pswp-gallery">
+  <a class="wide" href="/assets/img/burlington/Burlington_medium.png"
+     data-pswp-width="2900"
+     data-pswp-height="4161"
+     class="wide"
+     target="_blank">
+    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
+    <span class="pswp-caption-content">
+      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
+      Made using QGIS and Adobe Illustrator. Presented at NACIS Annual Meeting in Milwaukee, WI (2026).
+    </span>
+  </a>
+</div>
 
+<div class="pswp-gallery">
   <a class="wide" href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_medium.png"
      data-pswp-width="1950"
      data-pswp-height="6600"
+     class="wide"
      target="_blank">
     <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_low.png" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
     <span class="pswp-caption-content">
@@ -49,18 +63,7 @@ category: maps
   </a>
 </div>
 
-<div class="pswp-gallery">
-  <a class="wide" href="/assets/img/burlington/Burlington_medium.png"
-     data-pswp-width="2900"
-     data-pswp-height="4161"
-     target="_blank">
-    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
-    <span class="pswp-caption-content">
-      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
-      Made using QGIS and Adobe Illustrator. Presented at NACIS Annual Meeting in Milwaukee, WI (2026).
-    </span>
-  </a>
-</div>
+
 
 ## Experiments
 
