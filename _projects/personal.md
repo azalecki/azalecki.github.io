@@ -35,7 +35,7 @@ category: maps
 }
 </style>
 
-<div class="pswp-gallery" id="gallery--personal">
+<div class="pswp-gallery">
 
   <a class="wide" href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_medium.png"
      data-pswp-width="1950"
@@ -44,10 +44,12 @@ category: maps
     <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_low.png" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
     <span class="pswp-caption-content">
       <strong>Forest Preserves of the Far Northwest Side</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      Made using QGIS and Adobe Illustrator. Presented at NACIS Annual Meeting 2025 in Louisville, KY (2025).
     </span>
   </a>
+</div>
 
+<div class="pswp-gallery">
   <a class="wide" href="/assets/img/burlington/Burlington_medium.png"
      data-pswp-width="2900"
      data-pswp-height="4161"
@@ -55,10 +57,14 @@ category: maps
     <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
     <span class="pswp-caption-content">
       <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      Made using QGIS and Adobe Illustrator. Presented at NACIS Annual Meeting in Milwaukee, WI (2026).
     </span>
   </a>
+</div>
 
+## Experiments
+
+<div class="pswp-gallery">
   <a href="/assets/img/southhero/southhero_medium.png"
      data-pswp-width="1650"
      data-pswp-height="2550"
@@ -66,7 +72,7 @@ category: maps
     <img src="/assets/img/southhero/southhero_low.png" alt="Map of South Hero Island, Vermont" />
     <span class="pswp-caption-content">
       <strong>Map of South Hero Island, Vermont</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      Inspired by transit maps of NYC, Paris, UK. Experimenting with extreme generalization.
     </span>
   </a>
 
@@ -77,10 +83,9 @@ category: maps
     <img src="/assets/img/vtform/ruralforms_low.png" alt="Map Vermont Town Figure Grounds" />
     <span class="pswp-caption-content">
       <strong>Map Vermont Town Figure Grounds</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
+      Wanted to see what kind of patterns emerge from figure grounds of Vermont' cities/towns. 
     </span>
   </a>
-
 </div>
 
 <script type="module">
