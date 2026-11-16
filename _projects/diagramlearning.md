@@ -7,8 +7,6 @@ importance: 1
 category: misc.
 ---
 
-Visuals are often the most effective way of communicating complex GIS concepts to students. 
-
 I realized early on in my first teaching year just how important visuals are for effectively communicating complex GIS concepts to students. Now when holding office hours, I am invariably standing in front of a white board with a marker in hand. 
 
 One of the smaller roles that I picked up while supporting GIS courses has been creating custom illustrations for our 
