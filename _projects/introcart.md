@@ -54,9 +54,7 @@ category: maps
 
 ## Narrative Map
 
-Made with the intention to pair with the book [El Sol de Texas](https://artepublicopress.com/product/el-sol-de-texasunder-the-texas-sun/) by Conrado Espinoza. 
-
-For a deep dive into my process visit the blog post I wrote about this map. 
+Intended to pair with the book [El Sol de Texas](https://artepublicopress.com/product/el-sol-de-texasunder-the-texas-sun/) by Conrado Espinoza. 
 
 <div class="pswp-gallery">
   <a href="/assets/img/introcart/UndertheTexasSun.jpg"
