@@ -36,8 +36,12 @@ category: misc.
 }
 </style>
 
+During the semester of spring 2025, I took a color digital photography course taught [Michelle Leftheris](https://www.michelleleft.com/) where I was introduced to contemporary photographic practice. Since being able to hold a camera, I've considered myself an "amateur photographer" so it was nice to get some formal training. I learned how to shoot on manual on a digital camera, develop lighting strategies as well as how to edit, scan, and make large format prints. 
+
+Below you will find some of the work that I produced for the class. 
+
 ## Long Form Study: Light and Time
-Perform a long-form study by photographing the same scene at least 2 different times of day for 6 days. The result will be a series of 12 photographs (you may choose to show more if you wish) depicting the way light defines and informs that scene.
+Performed a long-form study by photographing the same scene at least 2 different times of day for 6 days.
 
 <div class="pswp-gallery">
 
@@ -76,7 +80,6 @@ Perform a long-form study by photographing the same scene at least 2 different t
   </a>
 
 </div>
-
 
 ## In the Style of
 In this photo series I have attempted to replicate the work of Imogen Cunningham, distinguished American photographer famous for her portraits and botanical studies. I was drawn to simplicity of her photographs, the nakedness and rawness in which she managed to capture her subjects. A long and illustrious career afforded her the ability to experiment parallel with the evolution of photography as an artistic medium. Her portfolio, as a result, is incredibly diverse and also includes streets scenes, industrial landscapes, double exposure, nudes and still lifes. She shot religiously, every day of her life, a type of dedication I have never been able to achieve in my own work. 
