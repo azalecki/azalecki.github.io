@@ -33,13 +33,7 @@ My name is Ola Zalecki, and welcome to my portfolio site.
 
 I graduated from Middlebury College in 2024, where I earned my Bachelor of Arts in Geography with a minor in Spanish. Shortly after I rejoined the Geography Department as the Assistant in Science Instruction, where I now support introductory methods courses in GIS and cartography. 
 
-I have gravitated towards learning about people, societies and their connection with the physical world long before I knew geography was a viable path of study.  
+My research interests are shaped by growing up Polish-American in Chicago and, more recently, by living in rural Vermont. As a result, I'm passionate about public spaces, functional land-use, and . Topics I'm particularly interested in at the moment are the role of the neighbor in place-making and the geography of informal economies. An important part of my work is rooted in map design as a visual mode of communication but also as both tool and process. 
 
-Taking my first GIS class not only made me realize that the problems that keep me up at night are spatial in nature but alsogave me a new tool and language to allow me to explore 
-
-Long before I took my first geography class, I was drawn to how people and societies relate to the physical world. As an undergraduate, I gained the language and tools to explore and question our interactions with space and place. My research interests are shaped by growing up Polish-American in Chicago and, more recently, by living in rural Vermont. As a result, I’m passionate about public spaces, immigrant place-making, neighborhoods, and, of course, hot dog stands.
-
-I am also deeply passionate about map design! Within my own practive I aim to create maps are thought-provoking, accessible, and engaging.
-
-When I’m not hunched over my computer screen, you’re most likely to find me cooking, gardening, or hanging out near a body of water.
+When I’m not hunched over my computer screen, you’re most likely to find me cooking, gardening, or crafting!
 
