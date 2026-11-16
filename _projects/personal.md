@@ -16,6 +16,9 @@ category: maps
   column-gap: 15px;
 }
 .pswp-gallery a {
+.pswp-gallery a.wide {
+  column-span: all;
+}
   display: block;
   margin-bottom: 15px;
   break-inside: avoid;   /* keeps each image from splitting across columns */
@@ -34,13 +37,24 @@ category: maps
 
 <div class="pswp-gallery" id="gallery--personal">
 
-  <a href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_medium.png"
+  <a class="wide" href="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_medium.png"
      data-pswp-width="1950"
      data-pswp-height="6600"
      target="_blank">
     <img src="/assets/img/forestpreserves/ForestPreservesoftheFarNorthwestSide_low.png" alt="Map of the forest preserves of the Far Northwest Side, Chicago" />
     <span class="pswp-caption-content">
       <strong>Forest Preserves of the Far Northwest Side</strong><br>
+      Your caption text here: what the map shows, data sources, tools used.
+    </span>
+  </a>
+
+  <a class="wide" href="/assets/img/burlington/Burlington_medium.png"
+     data-pswp-width="2900"
+     data-pswp-height="4161"
+     target="_blank">
+    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
+    <span class="pswp-caption-content">
+      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
       Your caption text here: what the map shows, data sources, tools used.
     </span>
   </a>
@@ -52,17 +66,6 @@ category: maps
     <img src="/assets/img/southhero/southhero_low.png" alt="Map of South Hero Island, Vermont" />
     <span class="pswp-caption-content">
       <strong>Map of South Hero Island, Vermont</strong><br>
-      Your caption text here: what the map shows, data sources, tools used.
-    </span>
-  </a>
-
-  <a href="/assets/img/burlington/Burlington_medium.png"
-     data-pswp-width="2900"
-     data-pswp-height="4161"
-     target="_blank">
-    <img src="/assets/img/burlington/Burlington_low.png" alt="Sorry, No Vacancies: A Geography of Burlington's Housing Crisis" />
-    <span class="pswp-caption-content">
-      <strong>Sorry, No Vacancies: A Geography of Burlington's Housing Crisis</strong><br>
       Your caption text here: what the map shows, data sources, tools used.
     </span>
   </a>
