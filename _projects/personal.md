@@ -83,7 +83,7 @@ category: maps
     <img src="/assets/img/vtform/ruralforms_low.png" alt="Map Vermont Town Figure Grounds" />
     <span class="pswp-caption-content">
       <strong>Map Vermont Town Figure Grounds</strong><br>
-      Wanted to see what kind of patterns emerge from figure grounds of Vermont' cities/towns. 
+      Wanted to see what kind of patterns emerge from figure grounds of Vermont's cities/towns. 
     </span>
   </a>
 </div>
