@@ -63,7 +63,8 @@ During a month-long program of study in the winter of 2022, I explored Burlingto
 
 ## A little more about the building 
 
-The Wells-Richardson Building is one of several buildings within the Wells-Richardson Complex.
+The Wells-Richardson building was constructed in 1883 with the intention of serving as Wells-Richardson Co.'s new main laboratory and offices. One of several buildings within the Wells-Richardson Complex, the new structure was an "upgrade" from 126 College St. Annotations in Burlington’s Sanborn Fire Insurance maps (1885–1912) indicate that the building’s four floors contained a chemical laboratory, storage space, boxing and packing areas, a mixing area, a package-labeling area, and an advertising office. 
+
 
 <div class="pswp-gallery">
 
@@ -76,11 +77,14 @@ The Wells-Richardson Building is one of several buildings within the Wells-Richa
       The Wells Richardson Building is number 8 in this map. 
     </span>
   </a>
-</div>
 
- It was constructed in 1883 with the intention of serving as the main laboratory and offices of the Wells-Richardson Co. as they grew out of their previous building (126 College St). Annotations in Burlington’s Sanborn Fire Insurance maps (1885–1912) indicate that the building’s four floors contained a chemical laboratory, storage space, boxing and packing areas, a mixing area, a package-labeling area, and an advertising office. 
-
-<div class="pswp-gallery">
+  <a href="/assets/img/buildings/sanborn.png"
+      data-pswp-width="1200" data-pswp-height="1478" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/sanborn.png" alt="How to get to the building" />
+    <span class="pswp-caption-content">
+      <strong>Screenshot from 1885 Sanborn Map.</strong>
+    </span>
 
   <a href="/assets/img/buildings/print_wells_old.png"
      data-pswp-width="459" data-pswp-height="500" data-cropped="true"
@@ -99,30 +103,23 @@ The Wells-Richardson Building is one of several buildings within the Wells-Richa
       <strong>126 College St. </strong>
     </span>
   </a>
-
-  <a href="/assets/img/buildings/sanborn.png"
-      data-pswp-width="1200" data-pswp-height="1478" data-cropped="true"
-     target="_blank">
-    <img src="/assets/img/buildings/sanborn.png" alt="How to get to the building" />
-    <span class="pswp-caption-content">
-      <strong>Screenshot from 1885 Sanborn Map.</strong>
-    </span>
-  </a>
-
 </div>
 <br>
 
 A.B. Fisher is the mind behind the building’s design. As the most renowned architect in Burlington at the time (1880s), Fisher was contracted to build across the city. Some other well-known buildings in his portfolio include [the Howard Chapel](https://www.preservationburlington.org/historic-properties/howard-chapel), [the Ethan Allen Engine Company](https://sah-archipedia.org/buildings/VT-01-CH31), and [the Willard Inn](https://www.uvm.edu/~hp206/2004-1890/burlington1890/website/agodat/349sw.html).
 
-The Wells-Richardson Building is four stories with a footprint that measures approximately 5151 square feet. Its exterior (typical of the High Italianate style) is what sets it apart from the other buildings on the street. The building’s detailing is explicitly documented in its nomination into the National Register of Historic Places:
+What he built for Wells-Richardson Co. is a four story building built in the High Italianite style with a footprint that measures approximately 5151 square feet. Its richly embelished exterior is what sets it apart from the other buildings on the street.
+
+When being nominated into the National Register of Historic Places, this detailing is explicity documented as grounds for it preservation:
 
 “Five bays, each with paired windows framed by rock-faced granite lintels and sills, are spaced across the facade on each floor, divided by brick pilasters with granite caps. Other detailing includes the use of various kinds of arches throughout the fenestration, terra cotta and brick panels in the spandrels, an elaborately corbeled cornice constructed of shaped brick and terra cotta, and granite finials placed atop the series of pilasters, between the center two of which is a panel with lettering which reads ‘1883 Wells & Richardson.’ The ground floor bays have brick corner piers, cast iron posts, plate glass windows with wood muntins and stained glass transom lights.”
 
-I believe the embellishments were purposeful, a way to reflect both the prosperity of the Wells-Richardson company and the growth of Burlington as a new booming hub.
+Built during the height of Wells-Richardson Co's commercial success and Burlington's rise into a booming industrial hub, I believe the embellishments were purposeful. Fisher most likley wanted to capture the prosperity of his client and contribute to the beautification of a city seeing rapid urban change. 
 
-## History
 
-At their peak, the Well-Richardson company was one of the nation’s largest wholesale drug and dye companies, reaching at least 2 million dollars in annual sales (around 51 million today). In Burlington, they employed more than 200 people at its manufacturing plant but also had branches overseas in Montreal, London, and Sydney.
+## Building's Inhabitants
+
+The first inhabitant and the buildings namesake, the Well-Richardson company was one of the nation’s largest wholesale drug and dye companies. At the company's peak, Wells and Richardson were reaching at least 2 million dollars in annual sales (around 51 million today). In Burlington, they employed more than 200 people at its manufacturing plant but also had branches overseas in Montreal, London, and Sydney.
 
 <div class="pswp-gallery">
   <a href="/assets/img/buildings/wells_office.jpg" 
@@ -172,7 +169,7 @@ At their peak, the Well-Richardson company was one of the nation’s largest who
  The building remained under Wells-Richardson Co. for almost three decades before the company was doomed to stricter federal regulations on patent medicines after the passing of the Pure Food and Drug Act in 1906.
 <br>
 
-The Burlington Daily News would follow as the building’s next inhabitants. 
+The Burlington Daily News would follow as the building’s next inhabitants from the 1940s-1970s.
 
 <div class="pswp-gallery">
   <a href="/assets/img/buildings/news_building.png" 
@@ -197,7 +194,8 @@ The Burlington Daily News would follow as the building’s next inhabitants.
 </div>
 
 <br>
-In 1973, it was finally acquired by Bennington Potters. Five years later, in 1979, the Wells Richardson Complex entered the National Register of Historic Buildings. 
+In 1973, it was finally acquired by Bennington Potters to house their flagship store: Bennington Potters North, Inc. 
+It was in this decade(1979) that the Wells Richardson Complex also joined the National Register of Historic Buildings. 
 
 <div class="pswp-gallery">
   <a href="/assets/img/buildings/building_north_mural.png" 
@@ -221,34 +219,27 @@ In 1973, it was finally acquired by Bennington Potters. Five years later, in 197
     </a>
 </div>
 
+## Modifications 
+
 For almost a century, no significant changes had been done to the building itself until Bennington Potters renovated the interior. There was apparently a fire at some point that almost destroyed the first floor (but no documentation of how it was patched up after). As time progressed and standards changed, I assume that the building acquired contemporary electrical, plumbing, HVAC, etc. Otherwise, the only substantial documented changes to the building happened in the 1970s when Bennington Potters renovated the interior of the building.
 
 The first three floors became converted into a retail space with the addition of a large stairwell to unify the three floors. The back portion of the first floor was lowered, and the interior walls were removed to reveal the brick exterior walls. Due to the building’s age, there was also the need for added structural security and other safety concerns. Therefore, steel columns were added (to mimic the cast iron ones), a fireproof exit core, a restored fire escape, and a sprinkler system. According to the writers of The Burlington Book, the renovation of the Wells-Richardson Building was quite an achievement and a great example of a “successful reuse of a historic commercial building in downtown Burlington.” No changes have been made to the front facade of the building other than minor restoration efforts. The eastern wall, however, which has served as a mural space for decades, did get an upgrade. The mural now advertises Bennington Potters North, Inc., the official company name of the retail space for Bennington Potters.
 
-### Maps
-<br>
 <div class="pswp-gallery">
-  <a href="/assets/img/buildings/BurlingtonTransit_final.png"
-     data-pswp-width="3507" data-pswp-height="2480" data-cropped="true"
+  <a href="/assets/img/buildings/potters_interior.jpg"
+     data-pswp-width="1496" data-pswp-height="2048" data-cropped="true"
      target="_blank">
-    <img src="/assets/img/buildings/BurlingtonTransit_final.png" alt="Description of image 4" />
+    <img src="/assets/img/buildings/potters_interior.jpg" alt="Description of image 4" />
     <span class="pswp-caption-content">
       <strong>How to get to the building</strong>
     </span>
     </a>
-
-  <a href="/assets/img/buildings/siteplan500updated.jpg"
-     data-pswp-width="5500" data-pswp-height="4252" data-cropped="true"
-     target="_blank">
-    <img src="/assets/img/buildings/siteplan500updated.jpg" alt="Description of image 4" />
-    <span class="pswp-caption-content">
-      <strong>Site plan</strong>
-    </span>
-  </a>
 </div>
+
 
 ## Site Visit
 <br>
+
 ### Structure
 
 <div class="pswp-gallery">
@@ -395,6 +386,28 @@ The first three floors became converted into a retail space with the addition of
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit posuere tristique. 
 
+### Maps
+<br>
+<div class="pswp-gallery">
+  <a href="/assets/img/buildings/BurlingtonTransit_final.png"
+     data-pswp-width="3507" data-pswp-height="2480" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/BurlingtonTransit_final.png" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>How to get to the building</strong>
+    </span>
+    </a>
+
+  <a href="/assets/img/buildings/siteplan500updated.jpg"
+     data-pswp-width="5500" data-pswp-height="4252" data-cropped="true"
+     target="_blank">
+    <img src="/assets/img/buildings/siteplan500updated.jpg" alt="Description of image 4" />
+    <span class="pswp-caption-content">
+      <strong>Site plan</strong>
+    </span>
+  </a>
+</div>
+
 ### Sketches and Drawings
 <br>
 <div class="pswp-gallery">
@@ -444,8 +457,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
   </a>
 </div>
 <br>
+
 ## Present 
-Unfortunately, during my site visit I was unable to go into the building as it has been closed since the onset of the Covid-19 pandemic. That was 2022. As of 2026, when I revisted this project, the Benning Potters North is still closed!
+Unfortunately, during my site visit I was unable to go into the building as it has been closed since the onset of the Covid-19 pandemic. That was 2022. As of 2026, when I revisted this project, the Benning Potters North store is still closed!
 
 After some investigation online, I found that the building's continued closure has prompted [news articles](https://www.wcax.com/2025/03/27/bennington-potters-flagship-stores-remain-locked-5-years-after-pandemic/) and online discussions on forums like Facebook and Reddit questioning why. There has been no update to the signage on the door or any sign of Bennington Potter's opening its doors anytime soon. 
 
