@@ -85,6 +85,7 @@ The Wells-Richardson building was constructed in 1883 with the intention of serv
     <span class="pswp-caption-content">
       <strong>Screenshot from 1885 Sanborn Map.</strong>
     </span>
+  </a>
 
   <a href="/assets/img/buildings/print_wells_old.png"
      data-pswp-width="459" data-pswp-height="500" data-cropped="true"
