@@ -36,7 +36,7 @@ category: misc.
 }
 </style>
 
-During the semester of spring 2025, I took a color digital photography course taught [Michelle Leftheris](https://www.michelleleft.com/) where I was introduced to contemporary photographic practice. Since being able to hold a camera, I've considered myself an "amateur photographer" so it was nice to get some formal training. I learned how to shoot on manual on a digital camera, develop lighting strategies as well as how to edit, scan, and make large format prints. 
+During the semester of spring 2025, I took a color digital photography course taught by [Michelle Leftheris](https://www.michelleleft.com/) where I was introduced to contemporary photographic practice. I learned how to shoot on manual on a digital camera, develop lighting strategies as well as how to edit, scan, and make large format prints. 
 
 Below you will find some of the work that I produced for the class. 
 
