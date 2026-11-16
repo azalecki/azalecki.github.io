@@ -12,10 +12,9 @@ toc:
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
 
-
 <style>
 .pswp-gallery {
-  column-count: 2;       /* always 2 columns */
+  column-width: 260px;   /* as many ~260px columns as fit: 3 on desktop, 2 on tablet, 1 on phone */
   column-gap: 15px;
 }
 .pswp-gallery a {
@@ -23,37 +22,20 @@ toc:
   margin-bottom: 15px;
   break-inside: avoid;   /* keeps each image from splitting across columns */
 }
-.pswp-gallery a.wide {
-  column-span: all;      /* landscape maps stretch across the full gallery width */
-}
 .pswp-gallery img {
   width: 100%;
   height: auto;          /* natural aspect ratio, no cropping */
   border-radius: 4px;
   display: block;
 }
-.static-image-pair {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-}
-.static-image-pair figure {
-  min-width: 0;
-  margin: 0;
-}
-.static-image-pair img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-@media (max-width: 600px) {
-  .static-image-pair {
-    grid-template-columns: 1fr;
-  }
-}
 /* Captions live in the HTML but are only shown inside the lightbox */
 .pswp-caption-content {
   display: none;
+}
+/* Make bold text in captions match the caption color */
+.pswp-caption-content strong,
+.pswp__dynamic-caption strong {
+  color: inherit;
 }
 </style>
 
@@ -86,7 +68,7 @@ The Wells-Richardson Building is one of several buildings within the Wells-Richa
 <div class="pswp-gallery">
 
   <a href="/assets/img/buildings/complex_map.png"
-     data-pswp-width="459" data-pswp-height="500" data-cropped="true"
+      data-pswp-width="658" data-pswp-height="830" data-cropped="true"
      target="_blank">
     <img src="/assets/img/buildings/complex_map.png" alt="How to get to the building" />
     <span class="pswp-caption-content">
@@ -119,7 +101,7 @@ The Wells-Richardson Building is one of several buildings within the Wells-Richa
   </a>
 
   <a href="/assets/img/buildings/sanborn.png"
-     data-pswp-width="700" data-pswp-height="1125" data-cropped="true"
+      data-pswp-width="1200" data-pswp-height="1478" data-cropped="true"
      target="_blank">
     <img src="/assets/img/buildings/sanborn.png" alt="How to get to the building" />
     <span class="pswp-caption-content">
@@ -176,9 +158,9 @@ At their peak, the Well-Richardson company was one of the nation’s largest who
       <strong>wells richardson building from book</strong>
     </span>
   </a>
-  
+
    <a href="/assets/img/buildings/mural_02.jpg"
-     data-pswp-width="903" data-pswp-height="960" data-cropped="true"
+     data-pswp-width="799" data-pswp-height="540" data-cropped="true"
      target="_blank">
     <img src="/assets/img/buildings/mural_02.jpg" alt="How to get to the building" />
     <span class="pswp-caption-content">
@@ -219,7 +201,7 @@ In 1973, it was finally acquired by Bennington Potters. Five years later, in 197
 
 <div class="pswp-gallery">
   <a href="/assets/img/buildings/building_north_mural.png" 
-      data-pswp-width="730" data-pswp-height="500" data-cropped="true"
+      data-pswp-width="1232" data-pswp-height="868" data-cropped="true"
      target="_blank">
     <img src="/assets/img/buildings/building_north_mural.png" alt="Description of image 4" />
     <span class="pswp-caption-content">
@@ -229,7 +211,7 @@ In 1973, it was finally acquired by Bennington Potters. Five years later, in 197
     </a>
 
   <a href="/assets/img/buildings/full_street_facade.png" 
-      data-pswp-width="730" data-pswp-height="500" data-cropped="true"
+      data-pswp-width="903" data-pswp-height="677" data-cropped="true"
      target="_blank">
     <img src="/assets/img/buildings/full_street_facade.png" alt="Description of image 4" />
     <span class="pswp-caption-content">
@@ -461,15 +443,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae leo in velit p
     </span>
   </a>
 </div>
-
-## Present 
 <br>
+## Present 
 Unfortunately, during my site visit I was unable to go into the building as it has been closed since the onset of the Covid-19 pandemic. That was 2022. As of 2026, when I revisted this project, the Benning Potters North is still closed!
 
 After some investigation online, I found that the building's continued closure has prompted [news articles](https://www.wcax.com/2025/03/27/bennington-potters-flagship-stores-remain-locked-5-years-after-pandemic/) and online discussions on forums like Facebook and Reddit questioning why. There has been no update to the signage on the door or any sign of Bennington Potter's opening its doors anytime soon. 
 
 ## Conclusion 
-<br>
 Overall, the building functions to provide College St with some immense character, charm, and history as it is an addition to the legendary Wells-Richardson Complex.
 
 <script type="module">
