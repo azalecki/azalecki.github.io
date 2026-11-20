@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cart Courses
+title: Courses
 img: assets/img/thumbnails/coalmine_crop.png
 importance: 3
 category: maps
