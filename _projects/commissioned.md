@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Commissioned
-description: custom work made to order
 img: assets/img/thumbnails/atlas_crop.png
 importance: 2
 category: maps

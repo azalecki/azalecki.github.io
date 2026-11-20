@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Cart Courses
-description: learning to make maps
 img: assets/img/thumbnails/coalmine_crop.png
 importance: 3
 category: maps

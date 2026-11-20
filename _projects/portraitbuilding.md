@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Portrait of the Wells-Richardson Building
-description: 
 img: assets/img/thumbnails/richardson.jpg
 importance: 3
 category: misc.
