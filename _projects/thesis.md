@@ -8,5 +8,5 @@ category: gis
 citation: true
 ---
 
-<object data="/assets/pdf/CV_10_26.pdf" width="1000" height="1000" type="application/pdf" />
+<object data="/assets/pdf/Zalecki_WhoIsthePublic.pdf" width="1000" height="1000" type="application/pdf" />
 
