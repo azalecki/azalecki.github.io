@@ -26,14 +26,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 **Hello!** *Witam!*
 
 My name is Ola Zalecki, and welcome to my portfolio site.
 
-I graduated from Middlebury College in 2024, where I earned my Bachelor of Arts in Geography with a minor in Spanish. Shortly after I rejoined the Geography Department as the Assistant in Science Instruction, where I now support introductory methods courses in GIS and cartography. 
+I graduated from Middlebury College in 2024, where I earned my Bachelor of Arts in Geography with a minor in Spanish. Shortly after, I rejoined the Geography Department as the Assistant in Science Instruction, where I now support introductory methods courses in GIS and cartography.
 
-My research interests are shaped by growing up Polish-American in Chicago and, more recently, by living in rural Vermont. As a result, I'm passionate about public spaces, functional land-use, and . Topics I'm particularly interested in at the moment are the role of the neighbor in place-making and the geography of informal economies. An important part of my work is rooted in map design as a visual mode of communication but also as both tool and process. 
+My research interests are shaped by growing up Polish-American in Chicago and, more recently, by living in rural Vermont. As a result, I'm passionate about public spaces, functional land use, and righting spatial inequities of access. At the moment, I'm particularly interested in the role of the neighbor in place-making and the geography of informal economies. An important part of my work is rooted in map design as a visual mode of communication, and as both a tool and a process.
 
-When I’m not hunched over my computer screen, you’re most likely to find me cooking, gardening, or crafting!
-
+When I'm not hunched over my computer screen, you're most likely to find me cooking, gardening, or crafting!
